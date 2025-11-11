@@ -1,0 +1,108 @@
+Q1: When are the lecture sessions for CPSCI-366 held, and where is the classroom located?
+A1: The lecture sessions for CPSCI-366 are held on Tuesday and Thursday from 1:00 PM to 2:15 PM. The classroom is located in the Taylor Science Center, room 3040 LEC.
+------------------------------------------------------------
+Q2: Who is the course instructor, and when can students attend office hours or schedule appointments?
+A2: The course instructor is identified in the syllabus as "schen3@hamilton.edu." Students can attend office hours at the following times:
+1. Tuesday from 10:00 AM to Noon
+2. Thursday from 2:15 PM to 4:15 PM
+
+Additionally, students can schedule appointments via email for other times if necessary. These meetings can be held at the instructor's office (SC CT 2016) or via Zoom if required.
+------------------------------------------------------------
+Q3: Describe the structure and purpose of Assignment 2 in the course.
+A3: Based on the provided syllabus text, there is no specific information about the detailed structure or the exact purpose of Assignment 2 in the CPSCI-366 course. The syllabus mentions three assignments broadly, each contributing 10% to the final grade, which implies their objective is to help students build, train, and test different types of neural networks using PyTorch. However, further details specific to Assignment 2 are not provided in the text.
+------------------------------------------------------------
+Q4: What is the main goal of the final project in CPSCI-366, and how should students approach it?
+A4: The main goal of the final project in CPSCI-366 is to create a deep learning pipeline that can solve a specific problem, from data collection, through model training, to evaluation of the model’s performance with an emphasis on real-world application. Students are expected to:
+
+1. **Propose a Plan:** Start by creating a plan for the project that is up to 1 page long following IEEE manuscript templates. This proposal should outline the project scope and goals.
+
+2. **Data Collection and Preparation:** Gather and preprocess the data relevant to the project. Students must submit a report detailing the data source, collection methods, and preprocessing steps. The report should also include examples of the data and must adhere to a 2-page limit in IEEE format.
+
+3. **Code Development:** Students should develop well-organized and easily readable code for their project and upload it to Gradescope. The code organization should follow a specified style template, and students must ensure that it runs as intended.
+
+4. **Evaluate Performance:** The project's performance is evaluated based on the model’s effectiveness. Students are required to:
+   - Demonstrate that they can run their model using a provided command.
+   - Track and report the learning process through tools like Weights & Biases.
+   - Ensure the model’s performance metrics are suitable and achieve reasonable outcomes without data leakage.
+
+5. **Presentation and Report:** Compile a comprehensive report (up to 4 pages in IEEE format) and prepare a presentation. The presentation and report should cover the introduction, methods, experiments conducted, results, and conclusions.
+
+6. **Peer Collaboration:** Students have the option to work individually or in teams of up to four. If working in a team, each member’s contributions must be clearly reported, and all team members should engage in every aspect of the project pipeline.
+
+Students are encouraged to use designated AI tools for their project but must submit their prompt history for full credit. This comprehensive approach ensures that students not only learn how to implement deep learning models but also how to manage an entire project lifecycle from conception to execution, emphasizing practical application and teamwork.
+------------------------------------------------------------
+Q5: What environment or tools are provided for running deep learning examples and assignments?
+A5: The environment and tools provided for running deep learning examples and assignments in CPSCI-366 include the following:
+
+1. **Linux Machine with GeForce RTX 3070 TI GPU**: Each group of four students is assigned one Linux machine equipped with a GeForce RTX 3070 TI GPU for assignments and the final project. 
+
+2. **AI Tools**: Students are encouraged and required to use specific AI tools for their final project and need to provide prompt history for verification:
+   - Google Gimini (student plan)
+   - GitHub Copilot Pro
+
+3. **Additional Computational Resources**: While not required, students have the option to purchase additional computational services online if more power is needed.
+
+4. **Environment Configurations**: The course likely provides specific configurations for the environment, as indicated by the presence of `environment.yaml` files in the course repository, which typically specify the necessary libraries and versions for a Python environment.
+
+These resources support the hands-on, project-based learning approach of the course, emphasizing the practical application of deep learning techniques.
+------------------------------------------------------------
+Q6: What does the `unet_example.py` file demonstrate, and why is it relevant for the course?
+A6: Based on the syllabus text provided, while the `unet_example.py` file is mentioned twice under "example_code" as having been updated, there is no specific description or context given about what the file demonstrates or why it is relevant to the course. Additional information or content from the course materials would be required to accurately describe the use or relevance of the `unet_example.py` file in the CPSCI-366 course.
+------------------------------------------------------------
+Q7: How should students utilize the `example_data` folder in their assignments or projects?
+A7: The syllabus does not specify how students should utilize the `example_data` folder in their assignments or projects. It mentions that students will work on assignments and projects that involve building, training, and testing deep learning models using real-world data but does not detail the specific use of the `example_data` folder. For precise utilization details, students might need to refer to assignment instructions or ask the instructor directly.
+------------------------------------------------------------
+Q8: Which platforms are used for submitting work and communicating with the instructor?
+A8: The platforms used for submitting work and communicating with the instructor in this course are:
+
+1. **Gradescope** - Used for submitting assignments and projects. The syllabus provides an entry code (NG4YE6) for accessing the course on Gradescope.
+
+2. **Edstem** - Used for communication within the course. A link and a joining code (RsCeD4) are provided in the syllabus.
+
+3. **Email** - The instructor’s email (schen3@hamilton.edu) is provided for scheduling appointments and other communications.
+
+These platforms facilitate the submission of coursework and enable communication between students and the instructor.
+------------------------------------------------------------
+Q9: How are students’ projects and assignments graded in CPSCI-366?
+A9: In the CPSCI-366 course, the grading guidelines for both assignments and the final project are detailed as follows:
+
+### Assignments
+- The course includes three assignments, with each accounting for 10% of the final score. These assignments provide students with hands-on experience in building, training, and testing various types of neural networks using PyTorch.
+
+### Final Project
+The final project accounts for 40% of the final grade and is divided into five components:
+1. **Proposal** (0%): Students are required to create a plan for the final project.
+2. **Data (10%)**: Students must report on their data collection process.
+3. **Code (10%)**: The submitted project code should be well-organized and must follow specified guidelines to avoid a 5% penalty on the project score.
+4. **Performance (10%)**: Direct execution of the provided `inference.py` file is expected, along with the submission of a learning curve through specific tools. The model performance should be reasonable and measured with suitable metrics.
+5. **Presentation and Report (10%)**: The report should be up to 4 pages, following IEEE format, and should include specific sections like introduction, methods, experiment results, and conclusions.
+
+### Academic Integrity
+It is emphasized that:
+- All assignments must be completed individually.
+- AI tools are banned for use in assignments but encouraged for the final project, provided that the prompt history is submitted to prevent a 5% deduction.
+- Usage of laptops or other electronic devices is restricted during lectures, with penalties for non-compliance.
+- Teamwork in the final project requires clear reporting of each member's contribution to avoid penalties.
+
+Each of these components is structured to enforce understanding and application of the course material, with strict guidelines on layout, collaboration, and the use of technology to ensure students engage with the content earnestly and ethically.
+------------------------------------------------------------
+Q10: Which additional materials or resources are suggested in the syllabus to help students succeed in the course?
+A10: The additional materials or resources suggested in the syllabus to help students succeed in the course include:
+
+1. **Textbooks**
+   - Required: "Dive into Deep Learning"
+   - Recommended: "Deep Learning"
+
+2. **GPU Setup**
+   - Every four students are assigned one Linux machine with GeForce RTX 5070 TI GPU for assignments and final projects. Additional online services can be purchased for more computation power, although this is not required.
+
+3. **Websites for Course Engagement and Submissions**
+   - Gradescope (https://www.gradescope.com) for submitting assignments and projects. Entry Code: NG4YE6.
+   - Edstem (https://edstem.org/us/join/RsCeD4) for course engagement and discussions.
+
+4. **AI Tools**
+   - Google Gimini, student plan (100% free)
+   - Github Copilot Pro (100% free)
+
+These resources are intended to support learning and ensure that students have access to necessary computational tools and academic content to effectively participate in and complete the course work.
+------------------------------------------------------------
