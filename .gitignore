@@ -2,6 +2,7 @@
 .venv/
 env/
 venv/
+.env
 
 # Ignore PyTorch binaries and build artifacts
 *.pt
@@ -25,3 +26,5 @@ __pycache__/
 # Ignore system-specific files
 .DS_Store
 Thumbs.db
+.env
+.venv/ # if not already present
