@@ -1,486 +1,387 @@
-# =============================================
-# RAG HYBRID RETRIEVAL (Multi-Syllabus)
-# Enhanced with Example Questions
-# =============================================
+#!/usr/bin/env python3
+"""
+RAG System - Complete Version
+Catalog + Syllabi + Department Overviews + Prerequisites
+"""
+
 import numpy as np
 from openai import OpenAI
 from dotenv import load_dotenv, find_dotenv
-from sentence_transformers import SentenceTransformer
 import os
 import pickle
 from pathlib import Path
 import PyPDF2
-import time
+import json
 
-# Load environment variables from .env file
+# Load environment
 load_dotenv(find_dotenv())
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-if not OPENAI_API_KEY:
-    raise ValueError("OPENAI_API_KEY not found in .env")
-
-# Initialize OpenAI client
-client = OpenAI(api_key=OPENAI_API_KEY)
-
-# Configuration
-USE_HYBRID = True  # Set to False to use only local embeddings (faster)
-os.environ["TOKENIZERS_PARALLELISM"] = "false"  # Disable tokenizer warning
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # =============================================
-# EMBEDDING FUNCTIONS
+# EMBEDDING FUNCTION
 # =============================================
-def get_custom_embedding(text, model):
-    return model.encode(text, normalize_embeddings=True)  # shape (384,)
+def get_openai_embedding(text):
+    """Get OpenAI embedding."""
+    response = client.embeddings.create(
+        model="text-embedding-3-large",
+        input=text[:8000]
+    )
+    return np.array(response.data[0].embedding)
 
-def get_openai_embedding(text, retry_count=3):
-    """Get OpenAI embedding with retry logic."""
-    for attempt in range(retry_count):
-        try:
-            response = client.embeddings.create(
-                model="text-embedding-3-large",
-                input=text[:8000]  # Limit text length
-            )
-            return np.array(response.data[0].embedding)  # shape (1536,)
-        except Exception as e:
-            if attempt < retry_count - 1:
-                print(f"\n    ⚠️  OpenAI API error (attempt {attempt+1}/{retry_count}): {e}")
-                time.sleep(2 ** attempt)  # Exponential backoff
-            else:
-                print(f"\n    ❌ OpenAI API failed after {retry_count} attempts: {e}")
-                raise
-
-def get_hybrid_embedding(text, model, alpha=0.5):
-    emb_custom = get_custom_embedding(text, model)
+# =============================================
+# LOAD DEPARTMENT OVERVIEWS
+# =============================================
+def load_department_overviews(txt_folder, model):
+    """Load department overview text files with major/minor requirements."""
+    print(f"\n📚 Loading department overviews: {txt_folder}")
     
-    if USE_HYBRID:
-        try:
-            emb_openai = get_openai_embedding(text)
-            emb_custom_scaled = alpha * emb_custom
-            emb_openai_scaled = (1 - alpha) * emb_openai
-            hybrid = np.concatenate([emb_custom_scaled, emb_openai_scaled])
-        except Exception as e:
-            print(f"\n    ⚠️  Falling back to local embedding only")
-            hybrid = emb_custom
-    else:
-        hybrid = emb_custom
-    
-    hybrid = hybrid / np.linalg.norm(hybrid)
-    return hybrid
-
-# =============================================
-# DOCUMENT PROCESSING
-# =============================================
-def extract_text_from_pdf(pdf_path):
-    """Extract text from a single PDF."""
-    text = ""
-    try:
-        with open(pdf_path, "rb") as f:
-            reader = PyPDF2.PdfReader(f)
-            for page in reader.pages:
-                page_text = page.extract_text()
-                if page_text:
-                    text += page_text + "\n"
-    except Exception as e:
-        print(f"⚠️  Error reading {pdf_path}: {e}")
-    return text
-
-def find_all_pdfs(syllabi_folder):
-    """Find all PDF files in all subfolders."""
-    pdf_files = []
-    syllabi_path = Path(syllabi_folder)
-    
-    if not syllabi_path.exists():
-        print(f"❌ Folder not found: {syllabi_folder}")
+    txt_path = Path(txt_folder)
+    if not txt_path.exists():
+        print(f"⚠️  Department overviews folder not found")
         return []
     
-    # Search through all subfolders
+    txt_files = list(txt_path.glob("*.txt"))
+    print(f"✅ Found {len(txt_files)} department files")
+    print("🔄 Creating embeddings...")
+    
+    dept_docs = []
+    
+    for i, txt_file in enumerate(txt_files, 1):
+        dept_name = txt_file.stem  # filename without .txt
+        
+        try:
+            with open(txt_file, 'r', encoding='utf-8') as f:
+                text = f.read()
+            
+            # Skip the header lines (Department: ... URL: ... ===)
+            lines = text.split('\n')
+            content_start = 0
+            for idx, line in enumerate(lines):
+                if '=' * 50 in line:  # Find the separator
+                    content_start = idx + 1
+                    break
+            
+            clean_text = '\n'.join(lines[content_start:]).strip()
+            
+            if len(clean_text) > 200:  # Only if substantial content
+                embedding = get_openai_embedding(clean_text)
+                
+                dept_docs.append({
+                    "text": clean_text,
+                    "embedding": embedding,
+                    "source": f"Department Overview: {dept_name.replace('-', ' ').title()}",
+                    "type": "department_overview"
+                })
+            
+            if i % 10 == 0:
+                print(f"  Processed {i}/{len(txt_files)}...")
+                
+        except Exception as e:
+            print(f"  ⚠️  Error reading {txt_file.name}: {e}")
+            continue
+    
+    print(f"✅ Created {len(dept_docs)} department overview embeddings\n")
+    return dept_docs
+
+# =============================================
+# LOAD COURSE CATALOG
+# =============================================
+def load_course_catalog(json_path, requirements_path=None, model=None):
+    """Load course catalog with prerequisites resolved."""
+    print(f"\n📚 Loading course catalog: {json_path}")
+    
+    with open(json_path, 'r', encoding='utf-8') as f:
+        courses = json.load(f)
+    
+    # Load requirements mapping if provided
+    req_mapping = {}
+    if requirements_path and Path(requirements_path).exists():
+        print(f"📋 Loading requirements mapping: {requirements_path}")
+        with open(requirements_path, 'r', encoding='utf-8') as f:
+            requirements = json.load(f)
+            for req in requirements:
+                req_code = req.get('RequirementCode', '')
+                req_courses = req.get('Courses', [])
+                if req_code:
+                    req_mapping[req_code] = req_courses
+    
+    print(f"✅ Loaded {len(courses)} courses")
+    if req_mapping:
+        print(f"✅ Loaded {len(req_mapping)} prerequisite mappings")
+    print("🔄 Creating embeddings...")
+    
+    catalog_docs = []
+    
+    for i, course in enumerate(courses):
+        course_obj = course.get('Course', {})
+        
+        course_name = course.get('CourseName', '')
+        title = course_obj.get('Title', '')
+        description = course_obj.get('Description', '')
+        credits = course.get('MinimumCredits', '')
+        subject = course_obj.get('SubjectCode', '')
+        
+        # Instructor info
+        faculty = course.get('FacultyDisplay', [])
+        instructor_text = ""
+        if faculty:
+            instructor_text = f"Instructor: {', '.join(faculty)}\n"
+        
+        # Meeting times and location
+        meetings = course.get('MeetingsDisplay', [])
+        meeting_text = ""
+        if meetings:
+            meeting_text = f"Meeting times: {'; '.join(meetings)}\n"
+        
+        # Course types (major requirements, distribution)
+        course_types = course.get('CourseTypesDisplay', [])
+        requirements_text = ""
+        if course_types:
+            requirements_text = f"Satisfies: {', '.join(course_types)}\n"
+        
+        # Resolve prerequisites
+        requisites = course_obj.get('Requisites', [])
+        prereq_text = ""
+        if requisites and req_mapping:
+            prereq_courses = []
+            for req in requisites:
+                req_code = req.get('RequirementCode', '')
+                if req_code in req_mapping:
+                    prereq_courses.extend(req_mapping[req_code])
+            if prereq_courses:
+                prereq_text = f"Prerequisites: {', '.join(set(prereq_courses))}\n"
+        
+        # Build searchable text
+        text = f"{course_name}: {title}\n"
+        if instructor_text:
+            text += instructor_text
+        if meeting_text:
+            text += meeting_text
+        if description:
+            text += f"Description: {description}\n"
+        if prereq_text:
+            text += prereq_text
+        if requirements_text:
+            text += requirements_text
+        if credits:
+            text += f"Credits: {credits}"
+        
+        if text.strip():
+            embedding = get_openai_embedding(text)
+            
+            catalog_docs.append({
+                "text": text,
+                "embedding": embedding,
+                "source": f"Catalog: {course_name}",
+                "subject": subject,
+                "type": "catalog",
+                "instructor": faculty[0] if faculty else None
+            })
+        
+        if (i + 1) % 50 == 0:
+            print(f"  Processed {i+1}/{len(courses)}...")
+    
+    print(f"✅ Created {len(catalog_docs)} catalog embeddings\n")
+    return catalog_docs
+
+# =============================================
+# LOAD SYLLABI
+# =============================================
+def load_syllabi(syllabi_folder, model):
+    """Load and embed syllabi PDFs."""
+    print(f"📚 Loading syllabi from: {syllabi_folder}")
+    
+    syllabi_path = Path(syllabi_folder)
+    if not syllabi_path.exists():
+        print(f"⚠️  Folder not found")
+        return []
+    
+    pdf_files = []
     for subject_folder in syllabi_path.iterdir():
         if subject_folder.is_dir():
-            # Find all PDFs in this subject folder
             for pdf_file in subject_folder.glob("*.pdf"):
                 pdf_files.append(pdf_file)
     
-    return pdf_files
-
-def create_embeddings_from_folder(syllabi_folder, model):
-    """Extract text from all PDFs and create embeddings."""
+    print(f"✅ Found {len(pdf_files)} PDFs")
+    print("🔄 Creating embeddings...")
     
-    # Find all PDFs
-    pdf_files = find_all_pdfs(syllabi_folder)
+    syllabus_docs = []
     
-    if not pdf_files:
-        print(f"❌ No PDF files found in {syllabi_folder}")
-        return []
-    
-    print(f"📚 Found {len(pdf_files)} PDF files")
-    print(f"🔧 Mode: {'HYBRID (Local + OpenAI)' if USE_HYBRID else 'LOCAL ONLY'}\n")
-    
-    all_documents = []
-    
-    # Process each PDF
-    for pdf_idx, pdf_path in enumerate(pdf_files, 1):
+    for idx, pdf_path in enumerate(pdf_files, 1):
         subject = pdf_path.parent.name
         pdf_name = pdf_path.name
         
-        print(f"📄 [{pdf_idx}/{len(pdf_files)}] Processing: {subject}/{pdf_name}")
-        
-        text = extract_text_from_pdf(pdf_path)
-        
-        if not text.strip():
-            print(f"  ⚠️  No text extracted from {pdf_name}")
+        text = ""
+        try:
+            with open(pdf_path, "rb") as f:
+                reader = PyPDF2.PdfReader(f)
+                for page in reader.pages:
+                    page_text = page.extract_text()
+                    if page_text:
+                        text += page_text + "\n"
+        except Exception as e:
+            print(f"  ⚠️  Error reading {pdf_name}: {e}")
             continue
         
-        # Split into chunks
-        chunks = [chunk.strip() for chunk in text.split('\n\n') if chunk.strip()]
-        valid_chunks = [c for c in chunks if len(c) >= 50]
-        print(f"  📊 {len(valid_chunks)} valid chunks")
+        if not text.strip():
+            continue
         
-        # Create embeddings for each chunk
-        print(f"  🔄 Creating embeddings...", end='')
-        for i, chunk in enumerate(valid_chunks):
+        chunks = [c.strip() for c in text.split('\n\n') if len(c.strip()) >= 50]
+        
+        print(f"  [{idx}/{len(pdf_files)}] {subject}/{pdf_name} - {len(chunks)} chunks")
+        
+        for i, chunk in enumerate(chunks):
             try:
-                embedding = get_hybrid_embedding(chunk, model)
+                embedding = get_openai_embedding(chunk)
                 
-                all_documents.append({
+                syllabus_docs.append({
                     "text": chunk,
                     "embedding": embedding,
                     "source": f"{subject}/{pdf_name} (chunk {i+1})",
                     "subject": subject,
-                    "filename": pdf_name
+                    "type": "syllabus"
                 })
-                
-                if (i + 1) % 10 == 0:
-                    print(f" {i+1}/{len(valid_chunks)}...", end='')
-                    
             except Exception as e:
-                print(f"\n    ❌ Error on chunk {i+1}: {e}")
+                print(f"    ⚠️  Error on chunk {i+1}: {e}")
                 continue
-        
-        doc_count = len([d for d in all_documents if d['filename'] == pdf_name])
-        print(f" ✅ {doc_count} embeddings\n")
     
-    print(f"🎉 Total documents created: {len(all_documents)}")
-    return all_documents
-
-def save_documents(documents, cache_path):
-    """Save documents to cache."""
-    cache_dir = Path(cache_path)
-    cache_dir.mkdir(exist_ok=True)
-    
-    cache_file = cache_dir / "documents.pkl"
-    with open(cache_file, "wb") as f:
-        pickle.dump(documents, f)
-    
-    print(f"💾 Saved embeddings to {cache_file}")
-
-def load_cached_documents(cache_path):
-    """Load pre-embedded documents from cache directory."""
-    cache_file = Path(cache_path) / "documents.pkl"
-    
-    if not cache_file.exists():
-        return None
-    
-    with open(cache_file, "rb") as f:
-        documents = pickle.load(f)
-    
-    return documents
+    print(f"✅ Created {len(syllabus_docs)} syllabus embeddings\n")
+    return syllabus_docs
 
 # =============================================
-# SEARCH FUNCTIONS
+# SEARCH & ANSWER
 # =============================================
-def search_documents(query, documents, model, top_k=5):
-    query_embedding = get_hybrid_embedding(query, model)
-    
-    def cosine_similarity(a, b):
-        return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
+def search_documents(query, documents, top_k=50):
+    """Search documents using OpenAI embeddings."""
+    query_emb = get_openai_embedding(query)
     
     scores = []
     for doc in documents:
-        doc_embedding = doc["embedding"]
-        score = cosine_similarity(query_embedding, doc_embedding)
-        scores.append((score, doc))
+        similarity = np.dot(query_emb, doc["embedding"])
+        scores.append((similarity, doc))
     
     scores.sort(key=lambda x: x[0], reverse=True)
     return [doc for _, doc in scores[:top_k]]
 
-def answer_question(query, documents, model):
-    """Search for relevant docs and use GPT to generate an answer."""
-    relevant_docs = search_documents(query, documents, model)
+def answer_question(query, documents):
+    """Answer question using GPT-4."""
+    relevant_docs = search_documents(query, documents)
     
-    # Build context from relevant documents
     context = "\n\n---\n\n".join([
         f"From {doc['source']}:\n{doc['text']}" 
         for doc in relevant_docs
     ])
     
-    # Create prompt for GPT (prompt engineering)
-    prompt = f"""
-        ### ROLE
-        You are an academic assistant that answers questions about college syllabi. Students rely on you for accurate and concise information based solely on the provided syllabus excerpts.
-        You must adhere strictly to the syllabus content and avoid making assumptions or adding information not present in the excerpts.
-        You will help students understand course prerequisites, content, grading policies, materials, and logistics to help them make informed decisions on which classes fit their needs.
+    prompt = f"""Based on the following course information, answer the question concisely.
 
-        ### TASK
-        Read the student's question and the syllabus excerpts below.
+Question: {query}
 
-        ### QUESTION
-        {query}
+Course Information:
+{context}
 
-        ### SYLLABUS EXCERPTS
-        {context}
+Provide a clear, direct answer based only on the information above."""
 
-        ### INSTRUCTIONS
-        1. If the question is ambiguous, incomplete, or could mean multiple things, ask ONE clarifying question before answering.
-        2. If you can answer, provide a concise, accurate response supported only by the syllabus.
-        3. If information is missing, state “Not specified in the syllabus.”
-        4. List courses, requirements, or details in bullet points when relevant.
-        5. Reference the source (e.g., “From syllabus X”) when citing.
-        6. Think step-by-step internally, but only show the final answer.
-        7. If the question does not relate to the syllabus, respond with "Sorry, I cannot handle that question.”
-
-        ### RESPONSE FORMAT
-        If clarification needed:
-        Clarifying question: <your question>
-
-        If answer is ready:
-        Answer: <your concise answer>
-    """
-
-
-#     prompt = f"""Based on the following syllabus information, answer the question concisely and accurately.
-
-# Question: {query}
-
-# Relevant syllabus excerpts:
-# {context}
-
-# Please provide a clear, direct answer to the question based only on the information provided above. If the question asks about multiple options (like "what classes can I take"), list them clearly with key details."""
-
-    # Get GPT response
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4-turbo",
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant that answers questions about college syllabi. Be concise and accurate."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.3,
-            max_tokens=500
-        )
-        
-        answer = response.choices[0].message.content
-        sources = [doc["source"] for doc in relevant_docs]
-        
-        return answer, sources
-        
-    except Exception as e:
-        print(f"Error getting GPT response: {e}")
-        # Fallback to just returning the raw text
-        answer_text = "\n\n".join([doc["text"] for doc in relevant_docs])
-        sources = [doc["source"] for doc in relevant_docs]
-        return answer_text, sources
-
-# =============================================
-# EXAMPLE QUESTIONS FOR FINE-TUNING
-# =============================================
-def get_example_questions():
-    """Return categorized example questions for users."""
-    examples = {
-        "Course Prerequisites & Requirements": [
-            "What are the prerequisites for taking machine learning courses?",
-            "Which classes require prior programming experience?",
-            "What math background is needed for data science courses?",
-            "Are there any language requirements for international studies courses?"
+    response = client.chat.completions.create(
+        model="gpt-4-turbo",
+        messages=[
+            {"role": "system", "content": "You are a helpful academic advisor."},
+            {"role": "user", "content": prompt}
         ],
-        "Course Content & Topics": [
-            "Which courses cover neural networks or deep learning?",
-            "What classes focus on natural language processing?",
-            "Tell me about courses that teach web development",
-            "Are there any courses on computer vision or image processing?",
-            "What statistics topics are covered in the curriculum?"
-        ],
-        "Grading & Assessment": [
-            "What are the grading policies for computer science courses?",
-            "Which courses have midterm and final exams?",
-            "Tell me about courses with project-based assessments",
-            "Are there any courses with group projects?",
-            "What's the breakdown of homework vs exam grades?",
-            "Which courses allow late submissions?"
-        ],
-        "Course Materials & Resources": [
-            "What textbooks are recommended for calculus courses?",
-            "Which courses use Python as the primary programming language?",
-            "What software or tools are required for data analysis courses?",
-            "Are there any online resources mentioned in the syllabi?"
-        ],
-        "Logistics & Policies": [
-            "What are the office hours for professors?",
-            "What are the attendance policies across different courses?",
-            "Which courses have lab sessions or discussion sections?",
-            "What's the policy on academic integrity and plagiarism?",
-            "Are there any courses with flexible deadlines?"
-        ],
-        "Comparative Questions": [
-            "How do the machine learning and AI courses differ?",
-            "Which statistics course is more suitable for beginners?",
-            "Compare the workload of different programming courses",
-            "What's the difference between intro and advanced data science courses?"
-        ]
-    }
-    return examples
-
-def display_examples(examples_dict=None, category=None):
-    """Display example questions, optionally filtered by category."""
-    if examples_dict is None:
-        examples_dict = get_example_questions()
+        temperature=0.3,
+        max_tokens=500
+    )
     
-    if category and category in examples_dict:
-        print(f"\n📝 Example Questions - {category}:")
-        for i, q in enumerate(examples_dict[category], 1):
-            print(f"  {i}. {q}")
-    else:
-        print("\n📝 Example Questions by Category:\n")
-        for cat, questions in examples_dict.items():
-            print(f"🔹 {cat}")
-            for i, q in enumerate(questions[:3], 1):  # Show first 3 from each category
-                print(f"  {i}. {q}")
-            if len(questions) > 3:
-                print(f"  ... and {len(questions) - 3} more")
-            print()
+    answer = response.choices[0].message.content
+    sources = [doc["source"] for doc in relevant_docs]
+    
+    return answer, sources
 
 # =============================================
 # MAIN
 # =============================================
 def main():
-    # Load model
-    print("📥 Loading SentenceTransformer model...")
-    model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+    print("="*70)
+    print("🎓 COMPLETE COURSE RAG SYSTEM")
+    print("="*70)
     
-    # Check for cached documents
-    cache_path = "cache/"
-    documents = load_cached_documents(cache_path)
+    model = None
     
-    # If no cache, create embeddings
-    if documents is None:
-        print("\n⚠️  No cached embeddings found. Creating new embeddings...")
-        syllabi_folder = "/Users/CS/Documents/Deep Learning/Final Project/syllabi"
-        
-        if not Path(syllabi_folder).exists():
-            print(f"❌ Syllabi folder not found: {syllabi_folder}")
-            print("Please update the syllabi_folder variable in the code.")
-            return
-        
-        documents = create_embeddings_from_folder(syllabi_folder, model)
-        
-        if not documents:
-            print("❌ No documents were created. Check your PDF files.")
-            return
-        
-        save_documents(documents, cache_path)
-        print("✅ Embeddings created and cached!\n")
+    # Paths
+    catalog_json = "../course-catalog-scraper/courses_fall_2025.json"
+    requirements_json = "../course-catalog-scraper/requirements_data.json"
+    department_overviews_txt = "../course-catalog-scraper/department_overviews/txt"
+    syllabi_folder = "/Users/CS/Documents/GitHub/Final-Project/RAG/syllabi"
+    cache_file = "cache/complete_system_v2.pkl"  # New cache name
+    
+    # Check cache
+    if Path(cache_file).exists():
+        print(f"\n✅ Loading from cache: {cache_file}")
+        with open(cache_file, "rb") as f:
+            documents = pickle.load(f)
+        print(f"✅ Loaded {len(documents)} documents")
     else:
-        print(f"✅ Loaded {len(documents)} documents from cache")
+        all_documents = []
         
-        # Show breakdown by subject
-        subjects = {}
-        for doc in documents:
-            subject = doc.get("subject", "Unknown")
-            subjects[subject] = subjects.get(subject, 0) + 1
+        # Load catalog
+        catalog_docs = load_course_catalog(catalog_json, requirements_json, model)
+        all_documents.extend(catalog_docs)
         
-        print("\n📚 Documents by subject:")
-        for subject, count in sorted(subjects.items()):
-            print(f"  • {subject}: {count} chunks")
-        print()
+        # Load department overviews
+        if Path(department_overviews_txt).exists():
+            dept_docs = load_department_overviews(department_overviews_txt, model)  # CHANGED
+            all_documents.extend(dept_docs)
+        
+        # Load syllabi
+        if Path(syllabi_folder).exists():
+            syllabus_docs = load_syllabi(syllabi_folder, model)
+            all_documents.extend(syllabus_docs)
+        
+        print(f"\n🎉 Total documents: {len(all_documents)}")
+        print(f"   Catalog: {len([d for d in all_documents if d.get('type') == 'catalog'])}")
+        print(f"   Department overviews: {len([d for d in all_documents if d.get('type') == 'department_overview'])}")
+        print(f"   Syllabi: {len([d for d in all_documents if d.get('type') == 'syllabus'])}")
+        
+        Path("cache").mkdir(exist_ok=True)
+        with open(cache_file, "wb") as f:
+            pickle.dump(all_documents, f)
+        print(f"💾 Saved to cache")
+        
+        documents = all_documents
     
-    # Get example questions
-    examples = get_example_questions()
-    
-    # Start Q&A loop
-    print("=" * 70)
-    print("🎓 MULTI-SYLLABUS RAG WITH GPT")
-    print("=" * 70)
-    print(f"📊 Mode: {'HYBRID (Local + OpenAI)' if USE_HYBRID else 'LOCAL ONLY'}")
-    print(f"📚 Total Documents: {len(documents)}")
-    print(f"📝 Example Question Categories: {len(examples)}")
-    
-    # Show a few example questions to get started
-    print("\n💡 Try asking questions like:")
-    sample_questions = [
-        "What are the prerequisites for machine learning courses?",
-        "Which courses cover neural networks?",
-        "What are the grading policies for statistics courses?",
-        "Tell me about courses with project-based assessments"
-    ]
-    for i, q in enumerate(sample_questions, 1):
-        print(f"  {i}. {q}")
-    
-    print("\n" + "=" * 70)
-    print("Commands:")
-    print("  • 'examples' or 'ex' - Show all example questions")
-    print("  • 'examples [category]' - Show questions from a specific category")
-    print("  • 'categories' - List all question categories")
-    print("  • 'quit' or 'exit' - End session")
-    print("=" * 70 + "\n")
+    # Q&A loop
+    print("\n" + "="*70)
+    print("💡 Ask questions!")
+    print("   - What are the requirements for a CS major?")
+    print("   - What classes does Professor Kuruwita teach?")
+    print("   - What statistics courses are available?")
+    print("\nType 'quit' to exit")
+    print("="*70 + "\n")
     
     while True:
         q = input("❓ Question: ").strip()
         
-        # Handle quit
         if q.lower() in {"quit", "exit", "q"}:
-            print("\n👋 Goodbye! Happy learning!")
+            print("\n👋 Goodbye!")
             break
         
-        # Handle empty input
         if not q:
             continue
         
-        # Handle examples command
-        if q.lower() in {"examples", "ex"}:
-            display_examples(examples)
-            continue
-        
-        # Handle category-specific examples
-        if q.lower().startswith("examples "):
-            category_name = q[9:].strip()
-            # Try to match category (case-insensitive)
-            matched_category = None
-            for cat in examples.keys():
-                if category_name.lower() in cat.lower():
-                    matched_category = cat
-                    break
-            
-            if matched_category:
-                display_examples(examples, matched_category)
-            else:
-                print(f"\n❌ Category '{category_name}' not found.")
-                print("Available categories:", ", ".join(examples.keys()))
-            continue
-        
-        # Handle categories list
-        if q.lower() == "categories":
-            print("\n📂 Available Question Categories:")
-            for i, cat in enumerate(examples.keys(), 1):
-                print(f"  {i}. {cat}")
-            print("\nType 'examples [category]' to see questions from a specific category")
-            continue
-        
-        # Process actual question
-        print("\n🔍 Searching and generating answer...")
+        print("\n🔍 Searching...")
         try:
-            answer, sources = answer_question(q, documents, model)
+            answer, sources = answer_question(q, documents)
             
             print(f"\n💡 Answer:")
             print("-" * 70)
             print(answer)
             print("-" * 70)
-            print(f"\n📚 Sources:")
-            for i, source in enumerate(sources, 1):
+            print(f"\n📚 Top Sources:")
+            for i, source in enumerate(sources[:5], 1):
                 print(f"  {i}. {source}")
             print("\n" + "=" * 70 + "\n")
             
         except Exception as e:
-            print(f"\n❌ Error processing question: {e}")
-            print("Please try rephrasing your question or check your API connection.\n")
-
+            print(f"\n❌ Error: {e}\n")
 
 if __name__ == "__main__":
     main()
