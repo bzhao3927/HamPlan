@@ -211,16 +211,18 @@ def answer_question(query, documents, model):
         f"From {doc['source']}:\n{doc['text']}" 
         for doc in relevant_docs
     ])
-    
-    # Create prompt for GPT (prompt engineering)
-    prompt = f"""
-        ### ROLE
-        You are an academic assistant that answers questions about college syllabi. Students rely on you for accurate and concise information based solely on the provided syllabus excerpts.
-        You must adhere strictly to the syllabus content and avoid making assumptions or adding information not present in the excerpts.
-        You will help students understand course prerequisites, content, grading policies, materials, and logistics to help them make informed decisions on which classes fit their needs.
 
-        ### TASK
-        Read the student's question and the syllabus excerpts below.
+    system_message = """
+    ### ROLE
+        You are an academic assistant representing Hamilton College that answers questions about different classes's syllabi. Students rely on you for accurate and concise information based solely on the provided syllabus excerpts.
+        You must adhere strictly to the syllabus content and other metadata from each classes while avoiding making assumptions or adding information not present in the excerpts.
+        The data you will reference will come in the form of a syllabus exerpt and associated metadata such as course title, subject, and course pre-requisites. Only use this information to answer the student's question.
+        You will help students understand course prerequisites, content, grading policies, materials, and logistics to help them make informed decisions on which classes fit their needs.  
+    """
+
+    user_message = f"""
+    ### TASK
+        Read the student's question and the syllabus excerpts and course metadata below. Do not reveal your chain-of-thought reasoning; only provide the final answer or clarifying question as specified.
 
         ### QUESTION
         {query}
@@ -229,13 +231,13 @@ def answer_question(query, documents, model):
         {context}
 
         ### INSTRUCTIONS
-        1. If the question is ambiguous, incomplete, or could mean multiple things, ask ONE clarifying question before answering.
-        2. If you can answer, provide a concise, accurate response supported only by the syllabus.
+        1. If the question is ambiguous, incomplete, or ambiguous, ask ONE clarifying question before answering.
+        2. If you can answer, provide a concise, accurate response supported only by the syllabus and course metadata.
         3. If information is missing, state “Not specified in the syllabus.”
         4. List courses, requirements, or details in bullet points when relevant.
-        5. Reference the source (e.g., “From syllabus X”) when citing.
+        5. Always reference the source (e.g., “From syllabus X”) when citing.
         6. Think step-by-step internally, but only show the final answer.
-        7. If the question does not relate to the syllabus, respond with "Sorry, I cannot handle that question.”
+        7. If the question does not relate to the syllabus, respond with "Sorry, I cannot handle that question. Please refer to your academic advisor for more guidance and information.”
 
         ### RESPONSE FORMAT
         If clarification needed:
@@ -245,23 +247,14 @@ def answer_question(query, documents, model):
         Answer: <your concise answer>
     """
 
-
-#     prompt = f"""Based on the following syllabus information, answer the question concisely and accurately.
-
-# Question: {query}
-
-# Relevant syllabus excerpts:
-# {context}
-
-# Please provide a clear, direct answer to the question based only on the information provided above. If the question asks about multiple options (like "what classes can I take"), list them clearly with key details."""
-
     # Get GPT response
     try:
         response = client.chat.completions.create(
             model="gpt-4-turbo",
             messages=[
-                {"role": "system", "content": "You are a helpful assistant that answers questions about college syllabi. Be concise and accurate."},
-                {"role": "user", "content": prompt}
+                {"role": "system", "content": system_message},
+                # {"role": "system", "content": "You are a helpful assistant that answers questions about college syllabi. Be concise and accurate."},
+                {"role": "user", "content": user_message}
             ],
             temperature=0.3,
             max_tokens=500
@@ -362,7 +355,7 @@ def main():
     # If no cache, create embeddings
     if documents is None:
         print("\n⚠️  No cached embeddings found. Creating new embeddings...")
-        syllabi_folder = "/Users/CS/Documents/Deep Learning/Final Project/syllabi"
+        syllabi_folder = "/Users/kenlam/Desktop/CS366/Final-Project/RAG/syllabi"
         
         if not Path(syllabi_folder).exists():
             print(f"❌ Syllabi folder not found: {syllabi_folder}")
