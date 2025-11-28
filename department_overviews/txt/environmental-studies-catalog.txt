@@ -1,0 +1,253 @@
+Department: environmental-studies
+Source: Catalog
+URL: https://hamilton.smartcatalogiq.com/current/college-catalogue/academicprograms/environmental-studies/environmental-studies-overview
+======================================================================
+
+Overview
+Faculty
+Brianna Burke
+Kwabena Edusei
+Heather Kropp
+Aaron Strong
+Special Appointments
+Alma Lowry
+Program Committee
+Aaron Strong (Environmental Studies), Director
+Kwabena Edusei (Environmental Studies)
+Heather Kropp (Environmental Studies)
+Emily Baker (Geoscience)
+Peter Cannavo (Government)
+Rebecca Gruskin (History)
+Peter Guiden (Biology)
+Carolyn Hutchinson (Chemistry) (on leave 2025-2026)
+Hannah Lau (Anthropology) (on leave Fall 2025)
+Department/Program Goals
+The goals of the Hamilton College Environmental Studies Program are to provide students with the knowledge, skills, and interdisciplinary perspectives to understand the causes and consequences of, as well as potential solutions to, the worldâs pressing environmental challenges, and to enable them to become environmentally conscious citizens.
+Department/Program Student Learning Outcomes
+Students will learn to:
+Explain the causes of, impacts of, and potential solutions to climate change
+Analyze how history, power, and identity shape environmental justice
+Apply appropriate research methods to answer a research question about a pressing environmental problem
+Concentration/Minor Description and Requirements
+This interdisciplinary program includes its own faculty and is also supported by contributions of faculty members from a number of other departments.
+The Concentration in Environmental Studies
+The Environmental Studies concentration consists of 11 courses: 4 required core courses, 4 foundational breadth courses, and 3 electives, and the Senior Program.
+There are four core required courses for concentrators:
+ENVST-110
+Intro to Environmental Studies,
+ENVST-206
+Introduction to Environmental Data,
+ENVST-212
+Climate Change, and
+ENVST-234
+Environmental Justice. These are normally taken in the first or second year.
+ENVST-234
+fulfills the Social Structural and Institutional Hierarchies requirement for the concentration. If students have taken
+ECON-166
+,
+MATH-152
+, or
+MATH-254
+, they must take
+ENVST-325
+Environmental Data Science instead of
+ENVST-206
+to fulfill the core requirement.
+Students are required to fulfill four breadth requirements by selecting ONE course from each of the following two categories: 1. Earth Science: Any 100-Level Geoscience course; 2. Life Science: Any
+BIO-100
+course or
+CHEM-120
+; and any TWO courses from the following category: 3. Environmental Social Sciences and Humanities:
+ENVST-221
+Environment and the CIty,
+ENVST-285
+Environmental Politics,
+ENVST-287
+Environmental Political Theory,
+ENVST-290
+Nature and Technology,
+ECON-380
+: Environmental Economics,
+ENVST-218
+: Resilience and Collapse,
+ENVST-266
+: Global Environmental History,
+LIT-267
+: Literature and the Environment,
+PHIL-235
+: Environmental Ethics. We strongly recommend that at least two foundational breadth courses should be taken during the first year: an introductory (100-level) Geosciences course and Biology-100/
+CHEM-120
+.
+All concentrators must also take three electives from the approved list below of ENVST and other environmentally related courses. Upon declaring their concentration, students should meet with their concentration advisor to discuss a focal area of study to help guide the selection of elective courses in the major. Students are encouraged to align their electives thematically around a topic, but the requirement is simply three courses from the list.
+• No more than one 100 level course
+• At least one 300 level course
+• May include up to TWO transfers from study abroad programs.
+• Additional foundational course options for Environmental Social Sciences and Environmental Humanities listed above CAN be counted as electives toward the major
+Approved ENVST Electives
+Note: Courses not appearing on this list but which were previously designated ENVST at the time that the student took them will count as electives.
+ENVST-151/
+HIST-151
+A Global History of Oil
+ENVST-160
+Carbon Footprints and Sustainability
+ENVST-218
+/
+ARCH-218
+Resilience and Collapse
+ENVST-220
+Forever Wild: Culture and History of the Adirondack Park
+ENVST-222
+Environmental Spatial Analysis
+ENVST-223
+Moral Power: The Ethics of Renewable Energy
+ENVST-239
+Seed to Gut: Regenerative Agriculture
+ENVST-258/
+HIST-258
+Environmental History in the Middle East and North Africa
+ENVST-265/
+LIT-265
+North American Indigenous Literature
+ENVST-266
+/
+HIST-266
+Global Environmental History
+ENVST-269/
+LIT-269
+Climate Fiction and Film
+ENVST-279/
+HIST-279
+Environmental History in Modern Africa
+ENVST-285
+/
+GOVT-285
+Introduction to Environmental Politics
+ENVST-287
+/
+GOVT-287
+Political Theory and the Environment
+ENVST-290
+Nature and Technology
+ENVST-305
+Climate Risk and Resilience
+ENVST-310/
+AMST-310
+Seminar: Indigenous Ecologies
+ENVST-313/
+HIST-313
+Agriculture and Empire in the Global South
+ENVST-318
+Environment and Natural Resource Conflict
+ENVST-320
+Renewable Energy Systems
+ENVST-325
+Environmental Data Science
+ENVST-332
+Foundational of Environmental Law
+ENVST-335
+Environmental Justice and Soundscape
+ENVST-337 Recipes for the Future
+ENVST-340
+Changing Arctic Ecosystems
+ENVST-342/
+SOC-342
+Sociology of Climate Action
+ENVST-360/
+GOVT-360
+Politics and Theory of Place and Space
+ENVST-356/
+BIO-356
+Ecosystem Ecology
+ENVST-380
+Climate and Energy Communication
+ENVST-392/
+LIT-392
+Decolonizing the Anthropocene
+ENVST-393/
+LIT-393
+Multispecies Kinship
+ANTHR-272
+Anthropology of Food
+ANTHR-412
+Food Justice in the Mohawk Valley
+BIO-213
+Marine Ecology
+BIO-237
+Ecology
+BIO-250
+Biodiversity
+BIO-260
+Geomicrobiology
+BIO-419
+Life and the Seasons
+BIO-427
+Animal Behavior and Disease
+CHEM-263
+Quantitative Environmental Chemistry
+ECON-231
+Environmental Economics and the Household
+ECON-380
+Environmental Economics
+ECON-417
+Topics in Environmental Economics
+GEOSC-209
+Hydrogeology
+GEOSC-211
+Paleoenvironmental Reconstruction
+GEOSC-227
+The East African Rift System
+GEOSC-235
+Volcanoes, Climate, and Resources
+GEOSC-250
+Seminar of the Geology of the Desert SW
+GEOSC-290/
+BIO-290
+Paleontology
+GEOSC-291
+Field Studies in the Desert Southwest
+GEOSC-314
+Geophysics
+GEOSC-376
+Python: Modeling Earth Systems
+GEOSC-380
+GIS for Geoscientists
+HIST-253
+Environment and Capitalism
+LIT-260
+Human Identity in the Natural World
+LIT-267
+Literature and the Environment
+LIT-268/
+ARBC-268 Petrofictions
+PHIL-221
+Philosophy of Food
+PHIL-235
+Environmental Ethics
+PPOL-383
+Decision Making in Public Policy
+SOC-338
+Environmental Racism
+The following courses may no longer be offered on a regular basis but count as Environmental Studies electives:
+ENVST-224
+Environmental Futures
+ENVST-237
+Intro to the Science of Food
+ENVST-302/
+ARTH-302
+. Architecture and the Environment
+ENVST-317
+Global Wildlife Trade
+Senior Program
+The Senior Program in Environmental Studies is fulfilled through one of two options
+Option 1:
+ENVST-520
+Senior Practicum Capstone
+Option 2: Senior Thesis Comprising
+ENVST-549
+(Fall) and
+ENVST-550
+(Spring)
+Honors
+Students who have earned at least a 3.5 average in courses toward the concentration may receive honors in Environmental Studies through distinguished work on the Senior Project – either the capstone or the senior thesis.
+Minor in Environmental Studies
+The minor in Environmental Studies consists of any five courses from the Environmental Studies Core, Breadth, or Elective lists. Only one 100-level course may be counted toward the minor.

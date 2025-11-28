@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-RAG System - Complete Version
-Catalog + Syllabi + Department Overviews + Prerequisites
+RAG System - Complete Version with Conversation Memory
+Catalog + Syllabi + Department Overviews + Prerequisites + Memory
 """
 
 import numpy as np
@@ -249,6 +249,52 @@ def load_syllabi(syllabi_folder, model):
     return syllabus_docs
 
 # =============================================
+# MEMORY MANAGEMENT
+# =============================================
+def trim_conversation_history(history, max_tokens=4000):
+    """Keep only recent conversation within token limit."""
+    # Rough estimate: 1 token ≈ 4 characters
+    total_chars = sum(len(msg["content"]) for msg in history)
+    
+    while total_chars > max_tokens * 4 and len(history) > 2:
+        # Remove oldest exchange (user + assistant)
+        history.pop(0)
+        history.pop(0)
+        total_chars = sum(len(msg["content"]) for msg in history)
+    
+    return history
+
+def summarize_old_conversation(history, client):
+    """Summarize older parts of conversation."""
+    if len(history) < 10:  # Don't summarize if short
+        return history
+    
+    # Take first half of conversation
+    old_messages = history[:len(history)//2]
+    recent_messages = history[len(history)//2:]
+    
+    # Summarize old messages
+    old_text = "\n".join([f"{msg['role']}: {msg['content']}" for msg in old_messages])
+    
+    summary_prompt = f"""Summarize this conversation concisely, preserving key questions and answers:
+
+{old_text}
+
+Provide a brief summary of what was discussed."""
+    
+    response = client.chat.completions.create(
+        model="gpt-4-turbo",
+        messages=[{"role": "user", "content": summary_prompt}],
+        temperature=0.3,
+        max_tokens=200
+    )
+    
+    summary = response.choices[0].message.content
+    
+    # Return summary + recent messages
+    return [{"role": "system", "content": f"Previous conversation summary: {summary}"}] + recent_messages
+
+# =============================================
 # SEARCH & ANSWER
 # =============================================
 def search_documents(query, documents, top_k=50):
@@ -263,8 +309,8 @@ def search_documents(query, documents, top_k=50):
     scores.sort(key=lambda x: x[0], reverse=True)
     return [doc for _, doc in scores[:top_k]]
 
-def answer_question(query, documents):
-    """Answer question using GPT-4."""
+def answer_question_with_memory(query, documents, conversation_history, use_summary=False):
+    """Answer question using GPT-4 with conversation memory."""
     relevant_docs = search_documents(query, documents)
     
     context = "\n\n---\n\n".join([
@@ -272,6 +318,21 @@ def answer_question(query, documents):
         for doc in relevant_docs
     ])
     
+    # Manage conversation history
+    if use_summary and len(conversation_history) > 10:
+        conversation_history = summarize_old_conversation(conversation_history, client)
+    else:
+        conversation_history = trim_conversation_history(conversation_history)
+    
+    # Build messages with history
+    messages = [
+        {"role": "system", "content": "You are a helpful academic advisor at Hamilton College. Answer questions based on the course information provided and maintain context from previous questions."}
+    ]
+    
+    # Add conversation history
+    messages.extend(conversation_history)
+    
+    # Add current query with context
     prompt = f"""Based on the following course information, answer the question concisely.
 
 Question: {query}
@@ -279,14 +340,13 @@ Question: {query}
 Course Information:
 {context}
 
-Provide a clear, direct answer based only on the information above."""
-
+Provide a clear, direct answer based only on the information above. If referencing previous questions, be explicit about what you're referring to."""
+    
+    messages.append({"role": "user", "content": prompt})
+    
     response = client.chat.completions.create(
         model="gpt-4-turbo",
-        messages=[
-            {"role": "system", "content": "You are a helpful academic advisor."},
-            {"role": "user", "content": prompt}
-        ],
+        messages=messages,
         temperature=0.3,
         max_tokens=500
     )
@@ -294,27 +354,31 @@ Provide a clear, direct answer based only on the information above."""
     answer = response.choices[0].message.content
     sources = [doc["source"] for doc in relevant_docs]
     
-    return answer, sources
+    # Update conversation history
+    conversation_history.append({"role": "user", "content": query})
+    conversation_history.append({"role": "assistant", "content": answer})
+    
+    return answer, sources, conversation_history
 
 # =============================================
 # MAIN
 # =============================================
 def main():
     print("="*70)
-    print("🎓 COMPLETE COURSE RAG SYSTEM")
+    print("🎓 COMPLETE COURSE RAG SYSTEM WITH MEMORY")
     print("="*70)
     
     model = None
     
-    # Paths
+    # Paths (FIXED)
     catalog_json = "../course-catalog-scraper/courses_fall_2025.json"
     requirements_json = "../course-catalog-scraper/requirements_data.json"
     department_overviews_txt = "../course-catalog-scraper/department_overviews/txt"
     syllabi_folder = "/Users/CS/Documents/GitHub/Final-Project/RAG/syllabi"
-    cache_file = "cache/complete_system_v2.pkl"  # New cache name
+    cache_file = "cache/complete_system_v3.pkl"
     
     # Check cache
-    if Path(cache_file).exists():
+    if Path(cache_file).exists():                                                                                                                                                                                                                                                                                                                                                                       
         print(f"\n✅ Loading from cache: {cache_file}")
         with open(cache_file, "rb") as f:
             documents = pickle.load(f)
@@ -328,7 +392,7 @@ def main():
         
         # Load department overviews
         if Path(department_overviews_txt).exists():
-            dept_docs = load_department_overviews(department_overviews_txt, model)  # CHANGED
+            dept_docs = load_department_overviews(department_overviews_txt, model)
             all_documents.extend(dept_docs)
         
         # Load syllabi
@@ -348,13 +412,18 @@ def main():
         
         documents = all_documents
     
+    # Initialize conversation memory
+    conversation_history = []
+    
     # Q&A loop
     print("\n" + "="*70)
-    print("💡 Ask questions!")
+    print("💡 Ask questions! (I'll remember our conversation)")
     print("   - What are the requirements for a CS major?")
+    print("   - What about their prerequisites? (follow-up)")
     print("   - What classes does Professor Kuruwita teach?")
-    print("   - What statistics courses are available?")
-    print("\nType 'quit' to exit")
+    print("\nCommands:")
+    print("   'clear' - Reset conversation memory")
+    print("   'quit' or 'exit' - Exit the system")
     print("="*70 + "\n")
     
     while True:
@@ -364,12 +433,19 @@ def main():
             print("\n👋 Goodbye!")
             break
         
+        if q.lower() == "clear":
+            conversation_history = []
+            print("🔄 Conversation memory cleared!\n")
+            continue
+        
         if not q:
             continue
         
         print("\n🔍 Searching...")
         try:
-            answer, sources = answer_question(q, documents)
+            answer, sources, conversation_history = answer_question_with_memory(
+                q, documents, conversation_history, use_summary=True
+            )
             
             print(f"\n💡 Answer:")
             print("-" * 70)
@@ -378,6 +454,7 @@ def main():
             print(f"\n📚 Top Sources:")
             for i, source in enumerate(sources[:5], 1):
                 print(f"  {i}. {source}")
+            print(f"\n💬 Conversation exchanges: {len(conversation_history)//2}")
             print("\n" + "=" * 70 + "\n")
             
         except Exception as e:

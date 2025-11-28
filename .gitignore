@@ -12,6 +12,10 @@ venv/
 *.dylib
 *.so
 *.dll
+*.pkl
+cache/
+RAG/cache/
+*.pdf
 
 # Ignore cache and temporary files
 __pycache__/

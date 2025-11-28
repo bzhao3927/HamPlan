@@ -1,0 +1,131 @@
+Department: mathematics-and-statistics
+Source: Catalog
+URL: https://hamilton.smartcatalogiq.com/current/college-catalogue/academicprograms/mathematics-and-statistics/mathematics-and-statistics-overview
+======================================================================
+
+Overview
+Faculty
+Saber Ahmed
+Clark Bowman
+Jose Ceniceros (on leave fall 2025)
+Sally Cockburn (on leave fall 2025)
+Andrew Dykstra, associate chair
+Courtney Gibbons
+Robert Kantrowitz
+Chinthaka Kuruwita (on leave spring 2026)
+Michelle LeMasurier, chair
+Erin Tripp
+Special Appointment
+James Burton
+Department/Program Goals
+The goal of the Mathematics and Statistics Department is to enable students to analyze and organize information using quantitative and statistical tools, to reason and argue logically, to employ appropriate problem-solving strategies, and to communicate complex ideas clearly and efficiently.
+Department/Program Student Learning Outcomes
+Students Will Learn to:
+Use mathematical and/or statistical tools to model real-world problems
+Construct mathematical proofs based on rules of logical inference
+Communicate complete mathematical and/or statistical arguments
+Concentration/Minor Description and Requirements
+A concentration in mathematics consists of the courses
+MATH-116
+,
+MATH-216
+,
+MATH-224
+,
+MATH-314
+,
+MATH-325
+, a Senior Seminar, and three full-credit electives, of which at least one must be at the 300 level or higher. Concentrators fulfill the Senior Program requirement by taking a Senior Seminar. It must be taken in the fall of the studentâs senior year, and all lower-numbered required courses, with at most one exception, should be completed prior to that time.
+PHYS-320
+or
+PHYS-325
+, but not both, may be counted toward the concentration as an elective at the 200-level. Among the courses counted for the concentration must be one that is applied in focus; these courses are
+MATH-152
+,
+MATH-231
+,
+MATH-234
+,
+MATH-235
+,
+MATH-254
+,
+MATH-260
+,
+MATH-351
+,
+MATH-361
+,
+MATH-510
+,
+MATH-525
+,
+PHYS-320
+or
+PHYS-325
+. Concentrators are encouraged to take an introductory course in computer programming, such as
+CPSCI-101
+. Mathematical thinking and programming mutually reinforce each other, and many careers involving quantitative skills also require some experience with programming.
+At most one course taken on a CR/NC basis may be applied towards the concentration; this course may not be one in the Mathematics and Statistics Department that is numbered 224 or higher.
+Beginning with the class of 2020, students concentrating in mathematics must satisfy the Social, Structural, and Institutional Hierarchies requirement by completing one of
+MATH-254
+,
+MATH-260
+,
+MATH-498
+,
+ECON-166
+, HIST-226 or, for those interested in pursuing a career in education,
+EDUC-204
+,
+EDUC-206
+,
+EDUC-339
+or EDUC-415. Students who have not completed one of these courses may petition the department to accept a course in another department as fulfilling the SSIH requirement by providing a written rationale explaining how the proposed course will help them gain an understanding of social, structural, and institutional hierarchies that is relevant to mathematics and their post-graduation plans.
+Students may earn departmental honors by taking for a grade a fourth full-credit elective that is at the 300 level or higher, by obtaining a concentration average of 3.6 or higher, and by making an approved and high-quality public presentation to the department on a mathematical or statistical topic during their junior or senior year. The presentation topic must be an extension beyond previous course work.
+A minor in mathematics consists of
+MATH-116
+,
+MATH-216
+,
+MATH-224
+and two electives. At most one course taken on a CR/NC basis may be applied towards the minor; this course may not be one in the Mathematics and Statistics Department that is numbered 224 or higher.
+A minor in statistics consists of five courses:
+MATH-116
+,
+MATH-216
+,
+MATH-152
+,
+MATH-254
+and
+MATH-351
+. Students may substitute
+ECON-166
+,
+GOVT-230
+or
+PSYCH-201
+/
+NEURO-201
+for 152. Students may use Advanced Placement, International Baccalaureate, or A-level courses to count for only one of the five courses. Students with two or more such courses, or who want to count
+ECON-166
+,
+GOVT-230
+, or
+PSYCH-201
+/
+NEURO-201
+toward a concentration or another minor, may complete the minor in statistics by taking
+CPSCI-101
+,
+ENVST-222
+,
+ENVST-325
+,
+MATH-352
+,
+MATH-356
+, or
+GOVT-412
+, up to a total of five courses, of which at least four must be in the Mathematics and Statistics Department. Students in this situation may petition the department to accept a course other than those listed here by providing a written rationale explaining the relevance of the proposed course to statistics. A student with a concentration in mathematics or data science may not minor in statistics. At most one course taken on a CR/NC basis may be applied towards the minor; this course may not be one in the Mathematics and Statistics Department that is numbered 224 or higher.

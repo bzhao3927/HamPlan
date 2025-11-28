@@ -1,0 +1,44 @@
+Department: chemical-physics
+Source: Catalog
+URL: https://hamilton.smartcatalogiq.com/current/college-catalogue/academicprograms/chemical-physics/chemical-physics-overview
+======================================================================
+
+Overview
+Faculty
+Program Committee
+Gordon Jones (Physics), chair
+Wes Kramer (Chemistry)
+Department/Program Goals
+The goal of the Chemical Physics Program is to encourage students to make connections across the chemistry and physics disciplines through extensive research opportunities and close collaboration between students and instructors.
+Concentration/Minor Description and Requirements
+The departments of Chemistry and Physics jointly offer a concentration in chemical physics. The concentration consists of 11 courses in chemistry and physics, which include
+CHEM-120
+or CHEM-125,
+CHEM-190
+,
+CHEM-321
+and
+CHEM-322
+;
+PHYS-190
+,
+PHYS-195
+,
+PHYS-290
+and
+PHYS-295
+. Any one of
+PHYS-215
+,
+CHEM-348
+or
+PHYS-348
+fulfills the Social, Structural, and Institutional Hierarchies requirement in chemical physics.  Students must also complete a course in research methods in one of the departments, either
+CHEM-371
+or
+PHYS-390
+, followed by a Senior Project, chosen in consultation with the committee, in the appropriate department.
+MATH-113
+and
+MATH-116
+are required for 200-level classes in physics and 300-level classes in chemistry. Honors in chemical physics is based on outstanding work in courses and in the Senior Project.

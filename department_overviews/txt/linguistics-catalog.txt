@@ -1,0 +1,40 @@
+Department: linguistics
+Source: Catalog
+URL: https://hamilton.smartcatalogiq.com/current/college-catalogue/academicprograms/linguistics/linguistics-overview
+======================================================================
+
+Overview
+Faculty
+Chaise Ladousa (Anthropology), acting director fall 2024
+Masaaki Kamiya (Japanese), director
+Spencer Chen
+Department/Program Goals
+The Linguistics Program exposes students to the study of the structure and use of language, and urges students to find the ways in which structure and use are interrelated. Students can explore language structure and use with faculty in the program through experimental and ethnographic methods.
+Concentration/Minor Description and Requirements
+Linguistics is the scientific study of language. Students will learn to examine language and languages in terms of structure (phonology, morphology, syntax, semantics) and social use (pragmatics, language acquisition, discourse analysis, sociolinguistics, cultural interpretation).
+The Minor in Linguistics is administered by Masaaki Kamiya (EALL), Chaise LaDousa (Anthropology), and Spencer Chen (Anthropology).
+The minor in linguistics consists of five courses: an introductory course, one focusing on language structure, one focusing on language in society and two electives. These courses are to be selected from the linguistics courses currently available at Hamilton listed below.
+Introductory courses:
+LING-100
+Introduction to Linguistics (LaDousa)
+Language structure courses:
+LING/JAPN 205 Topics in Japanese LinguisticsLanguage structure courses:
+LING/
+JAPN-219/
+JAPN-319 Language acquisition (Kamiya)
+LING/
+JAPN-230
+Morphology and Syntax: The Analysis of Structure (Kamiya)
+Language in society courses:
+ANTHR-234
+Communication and Culture (Chen)
+ANTHR-257
+Language, Gender and Sexuality (LaDousa)
+ANTHR-264
+Ethnography of Literacy and Visual Language (LaDousa)
+ANTHR-270
+The Ethnography of Communication (LaDousa)
+ANTHR-323
+Verbal Art and Performance (LaDousa)
+ANTHR-370
+Sociolinguistics of Globalization (LaDousa)

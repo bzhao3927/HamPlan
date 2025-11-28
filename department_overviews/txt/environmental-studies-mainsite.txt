@@ -1,0 +1,135 @@
+Department: environmental-studies
+Source: Main Site
+URL: https://www.hamilton.edu/academics/departments/environmental-studies
+======================================================================
+
+Environmental Studies
+The goals of the Hamilton College Environmental Studies Program are to provide students with the knowledge, skills, and interdisciplinary perspectives to understand the causes and consequences of, as well as potential solutions to, the world’s pressing environmental challenges, and to enable them to become environmentally conscious citizens.
+In This Section
+﻿
+Close
+﻿
+About the Major
+Environmental Studies addresses the challenges of creating a just and sustainable future in the face of the climate crisis, environmental problems, and inequality from local to global scales. At Hamilton, students in Environmental Studies work with interdisciplinary faculty in environmental justice, environmental data science, and climate change, as well as with faculty from other disciplines to develop the skills and perspectives needed to tackle these problems.
+Students Will Learn To:
+Explain the causes of, impacts of, and potential solutions to climate change
+Analyze how history, power, and identity shape environmental justice
+Apply appropriate research methods to answer a research question about a pressing environmental problem
+A Sampling of Courses
+Changing Arctic Ecosystems
+An examination of the primary literature on environmental and climate change in Arctic and sub-Arctic ecosystems. We will investigate the interplay between anthropogenic, physical, and biological processes in high latitude regions. We will explore current research on the cycling of water, carbon and energy throughout high latitude ecosystems and the potential for these regions to amplify global climate change.
+Explore these select courses:
+Carbon Footprints and Sustainability
+What is a carbon footprint? Is it a useful concept? What are the scientific, social and economic implications of measuring environmental impacts through the billion dollar industry of sustainability accounting? In seeking to answer these questions, this course uses the concept of the carbon footprint as a lens through which to understand and critically assess scientific, economic practices and social discourses around sustainability as it is practiced across American and global society today.
+Resilience and Collapse: Archaeological Perspectives on People and the Environment
+Archaeology offers the opportunity to examine social-ecological systems over long time scales. This course explores different ways of conceptualizing these systems and considers major topics such as: decreasing biodiversity, traditional ecological knowledge, human-environment interactions related to food production, social responses to natural disasters and climate change, and resilience and collapse of past societies. We’ll engage with discussions on sustainability and our ecological impact on the environment.
+Environmental Justice
+This interdisciplinary seminar examines environmental justice as a movement and concept. We interrogate and discuss the historical role of racism, heteropatriarchy, colonialism and globalization in (re)producing and justifying place-based environmental contamination and toxicity. Through close analysis of case studies in the US and the Global South, students analyze and present on how disenfranchised groups have made political demands, scaled up, forged solidarities, asserted climate justice, challenged state and corporate projects and conducted citizen science in rural and urban settings.
+Political Theory and the Environment
+What should humanity’s relationship with the environment look like, and why? Explores theoretical and practical debates surrounding the environmental challenges of our time. Key topics and controversies in the history of environmental political thought will be discussed. Students will be encouraged to develop their own vision of the proper relationship between human society and the environment in the 21st century.
+Environmental Data Science
+This course will focus on the application of statistical programming for big data associated with ongoing environmental issues. Students will gain experience in statistical programming throughout the entire data life cycle including data management and provenance, analysis, visualization, and communication. Students will learn the fundamentals of applying statistical modelling and machine learning for making predictions and inferences for environmental data. Students will also learn considerations of data science that are unique to environmental data including spatial, temporal, ethical, and justice concerns. Environmental topics will include climate change, pollution, natural disasters, and agricultural impacts.
+All Courses
+﻿
+Requirements
+﻿
+Meet Our Faculty
+Aaron Strong
+﻿
+Director, Associate Professor of Environmental Studies
+astrong@hamilton.edu
+Areas of Expertise
+climate change, carbon accounting, climate resilience, renewable energy, and coastal and marine systems
+Brianna Burke
+﻿
+Visiting Associate Professor of Environmental Studies
+brburke@hamilton.edu
+Areas of Expertise
+Native and Indigenous Studies, Environmental Justice, Climate Change studies, Animal Studies, and Environmental Humanities
+Kwabena Edusei
+﻿
+Assistant Professor of Environmental Studies
+kedusei@hamilton.edu
+Areas of Expertise
+Environmental philosophy (esp. environmental justice & Indigenous environmental philosophy), decolonial philosophy, soundscape studies, hermeneutics, and philosophy of race
+Nathan Goodale
+﻿
+William R. Kenan Jr. Professor of Anthropology, Associate Provost, Co-Director of Geoarchaeology
+ngoodale@hamilton.edu
+Areas of Expertise
+complex hunter-gatherers in the interior Pacific Northwest; the forager/farmer transition in Southwest Asia; rural coastal adaptations in western Ireland
+Heather Kropp
+﻿
+Assistant Professor of Environmental Studies
+hkropp@hamilton.edu
+Areas of Expertise
+environmental data science, ecohydrology, ecology, and geospatial analysis
+Onno Oerlemans
+﻿
+Elizabeth J. McCormack Professor of Literature
+ooerlema@hamilton.edu
+Areas of Expertise
+Romantic period literature; animals in literature; animal rights; nature writing – literature and environmentalism; cultural and political history of the Adirondack Park
+Jason Townsend
+﻿
+Assistant Professor of Instruction in Biology
+jtownsen@hamilton.edu
+Areas of Expertise
+conservation biology, agroecology, ornithology, Nearctic-Neotropical migratory birds, and ecotoxicology
+Alma Lowry
+﻿
+Lecturer in Environmental Studies
+alowry@hamilton.edu
+Alicia Luhrssen-Zombek
+﻿
+Lecturer in Environmental Studies
+aluhrsse@hamilton.edu
+Areas of Expertise
+food system, regenerative agriculture, soil health science, plant nutrition, climate-smart farming, reclamation agriculture for underserved communities, community engagement, food business, entrepreneurship, food safety
+Andrea Townsend
+﻿
+Chair and Associate Professor of Biology
+aktownse@hamilton.edu
+Areas of Expertise
+behavioral ecology, disease ecology
+Faces & Spaces
+The Taylor Science Center houses the offices for many faculty members in environmental studies. The complex contains an atrium with a coffeehouse, an auditorium, a greenhouse, and more than 100 teaching and student research laboratories.
+Jade Joyce takes you through a tour of the Taylor Science Center.
+Watch
+﻿
+Taylor Science Center
+﻿
+Virtual Tour
+﻿
+Climate storyteller Wanjiku “Wawa” Gatheru visits Professor Peter Cannavò’s class.
+From left, Professor Aaron Strong chats with students as they use equipment to measure the amount of methane gas being released from the Hamilton Reservoir.
+Ellie Sangree pulls anchors from a research vessel in the Hamilton College reservoir to prep it for removal for the winter.
+Secretary of Agriculture Tom Vilsack talks with students in the ENVST-212 Climate Change class.
+Careers After Hamilton
+Hamilton graduates who concentrated in environmental studies are pursuing careers in a variety of fields, including:
+Corps Member, Teach for America
+Chair, Department of Rheumatology, Cleveland Clinic
+Trip Leader, Naturalists At Large
+Alaska Representative, Defenders of Wildlife
+Policy Coordinator, National Oceanic & Atmospheric Administration
+Clinical Research Coordinator, Dana-Farber Cancer Institute
+Program Assistant, Natural Resources Defense Council
+Explore Hamilton Stories
+Hockey Team Scores for Climate Action
+﻿
+Winning a NESCAC championship requires a bit of travel, and climate action requires a bit of cooperation. Carson Hall ’26 and Ben Zimmerman ’26 understand this, and are doing something about it. On a Saturday in early September, the men’s hockey team planted over 50 trees in Utica. The initiative seeks to offset the emissions of athletics travel.
+Strong Co-Authors UN Report on Ocean Acidification
+﻿
+Associate Professor of Environmental Studies Aaron Strong co-authored a United Nations report on ocean acidification.
+Contact
+Department Name
+Environmental Studies Program
+Contact Name
+Aaron Strong, Program Director
+Office Location
+198 College Hill Road
+Clinton, NY 13323
+Phone
+315-859-4863
+Email
+environmentalstudies@hamilton.edu
