@@ -86,28 +86,14 @@ def load_department_overviews(txt_folder, model):
 # =============================================
 # LOAD COURSE CATALOG
 # =============================================
-def load_course_catalog(json_path, requirements_path=None, model=None):
-    """Load course catalog with prerequisites resolved."""
+def load_course_catalog(json_path, model=None):
+    """Load course catalog with prerequisites from DisplayText."""
     print(f"\n📚 Loading course catalog: {json_path}")
-    
+
     with open(json_path, 'r', encoding='utf-8') as f:
         courses = json.load(f)
-    
-    # Load requirements mapping if provided
-    req_mapping = {}
-    if requirements_path and Path(requirements_path).exists():
-        print(f"📋 Loading requirements mapping: {requirements_path}")
-        with open(requirements_path, 'r', encoding='utf-8') as f:
-            requirements = json.load(f)
-            for req in requirements:
-                req_code = req.get('RequirementCode', '')
-                req_courses = req.get('Courses', [])
-                if req_code:
-                    req_mapping[req_code] = req_courses
-    
+
     print(f"✅ Loaded {len(courses)} courses")
-    if req_mapping:
-        print(f"✅ Loaded {len(req_mapping)} prerequisite mappings")
     print("🔄 Creating embeddings...")
     
     catalog_docs = []
@@ -139,17 +125,13 @@ def load_course_catalog(json_path, requirements_path=None, model=None):
         if course_types:
             requirements_text = f"Satisfies: {', '.join(course_types)}\n"
         
-        # Resolve prerequisites
-        requisites = course_obj.get('Requisites', [])
+        # Extract prerequisites from DisplayText
+        prerequisites = course.get('Prerequisites', [])
         prereq_text = ""
-        if requisites and req_mapping:
-            prereq_courses = []
-            for req in requisites:
-                req_code = req.get('RequirementCode', '')
-                if req_code in req_mapping:
-                    prereq_courses.extend(req_mapping[req_code])
-            if prereq_courses:
-                prereq_text = f"Prerequisites: {', '.join(set(prereq_courses))}\n"
+        if prerequisites:
+            prereq_list = [prereq.get('DisplayText', '') for prereq in prerequisites if prereq.get('DisplayText')]
+            if prereq_list:
+                prereq_text = f"Prerequisites: {'; '.join(prereq_list)}\n"
         
         # Build searchable text
         text = f"{course_name}: {title}\n"
@@ -371,11 +353,10 @@ def main():
     model = None
     
     # Paths (FIXED)
-    catalog_json = "../course-catalog-scraper/courses_fall_2025.json"
-    requirements_json = "../course-catalog-scraper/requirements_data.json"
+    catalog_json = "../course-catalog-scraper/courses_with_prerequisites.json"
     department_overviews_txt = "../course-catalog-scraper/department_overviews/txt"
     syllabi_folder = "/Users/CS/Documents/GitHub/Final-Project/RAG/syllabi"
-    cache_file = "cache/complete_system_v3.pkl"
+    cache_file = "cache/complete_system_v4.pkl"
     
     # Check cache
     if Path(cache_file).exists():                                                                                                                                                                                                                                                                                                                                                                       
@@ -385,9 +366,9 @@ def main():
         print(f"✅ Loaded {len(documents)} documents")
     else:
         all_documents = []
-        
+
         # Load catalog
-        catalog_docs = load_course_catalog(catalog_json, requirements_json, model)
+        catalog_docs = load_course_catalog(catalog_json, model)
         all_documents.extend(catalog_docs)
         
         # Load department overviews
