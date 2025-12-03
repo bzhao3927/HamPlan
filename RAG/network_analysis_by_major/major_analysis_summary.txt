@@ -1,0 +1,1235 @@
+================================================================================
+HAMILTON COLLEGE MAJOR NETWORK ANALYSIS SUMMARY
+================================================================================
+
+
+================================================================================
+LITERATURE
+================================================================================
+
+Total courses in network: 28
+Courses in major: 28
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • LIT-110W
+    • LIT-118W
+    • LIT-120
+    • LIT-127W
+    • LIT-136W
+    • LIT-140W
+    • LIT-148W
+    • LIT-151W
+    • LIT-157W
+    • LIT-203
+    • LIT-204W
+    • LIT-217
+    • LIT-221
+    • LIT-222W
+    • LIT-227
+    ... and 13 more
+
+ENTRY POINTS (no prerequisites):
+  • LIT-110W
+  • LIT-118W
+  • LIT-120
+  • LIT-127W
+  • LIT-136W
+  • LIT-140W
+  • LIT-148W
+  • LIT-151W
+  • LIT-157W
+  • LIT-203
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • LIT-110W
+  • LIT-118W
+  • LIT-120
+  • LIT-127W
+  • LIT-136W
+  • LIT-140W
+  • LIT-148W
+  • LIT-151W
+  • LIT-157W
+  • LIT-203
+
+
+================================================================================
+PHYED
+================================================================================
+
+Total courses in network: 28
+Courses in major: 28
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • PHYED-103
+    • PHYED-104
+    • PHYED-106
+    • PHYED-107
+    • PHYED-108
+    • PHYED-110
+    • PHYED-113
+    • PHYED-116
+    • PHYED-119
+    • PHYED-120
+    • PHYED-121
+    • PHYED-122
+    • PHYED-127
+    • PHYED-128
+    • PHYED-131
+    ... and 13 more
+
+ENTRY POINTS (no prerequisites):
+  • PHYED-103
+  • PHYED-104
+  • PHYED-106
+  • PHYED-107
+  • PHYED-108
+  • PHYED-110
+  • PHYED-113
+  • PHYED-116
+  • PHYED-119
+  • PHYED-120
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • PHYED-103
+  • PHYED-104
+  • PHYED-106
+  • PHYED-107
+  • PHYED-108
+  • PHYED-110
+  • PHYED-113
+  • PHYED-116
+  • PHYED-119
+  • PHYED-120
+
+
+================================================================================
+GOVERNMENT
+================================================================================
+
+Total courses in network: 28
+Courses in major: 25
+Prerequisite relationships: 8
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 1 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • GOVT-112W
+    • GOVT-114
+    • GOVT-116W
+    • GOVT-117
+    • GOVT-207
+    • GOVT-230
+    • GOVT-239
+    • GOVT-251
+    • GOVT-258
+    • GOVT-275
+    • GOVT-305W
+    • GOVT-321
+    • GOVT-323
+    • GOVT-325
+    • GOVT-327
+    ... and 7 more
+
+  Level 1 (Build on Level 0 courses):
+    • GOVT-216
+    • GOVT-240
+    • GOVT-290
+
+ENTRY POINTS (no prerequisites):
+  • GOVT-112W
+  • GOVT-114
+  • GOVT-116W
+  • GOVT-117
+  • GOVT-207
+  • GOVT-230
+  • GOVT-239
+  • GOVT-258
+  • GOVT-305W
+  • GOVT-321
+
+FOUNDATIONAL COURSES (most depended upon):
+  • GOVT-114        (3 courses depend on this)
+  • GOVT-117        (1 courses depend on this)
+  • GOVT-251        (1 courses depend on this)
+  • ECON-100        (1 courses depend on this)
+  • PHIL-117        (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • GOVT-275        (requires 2 prerequisites)
+  • GOVT-383W       (requires 2 prerequisites)
+  • GOVT-216        (requires 1 prerequisites)
+  • GOVT-240        (requires 1 prerequisites)
+  • GOVT-251        (requires 1 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • GOVT-112W
+  • GOVT-116W
+  • GOVT-207
+  • GOVT-216
+  • GOVT-230
+  • GOVT-239
+  • GOVT-240
+  • GOVT-258
+  • GOVT-275
+  • GOVT-290
+
+
+================================================================================
+HISTORY
+================================================================================
+
+Total courses in network: 26
+Courses in major: 26
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • HIST-110
+    • HIST-116W
+    • HIST-117W
+    • HIST-120
+    • HIST-124W
+    • HIST-125W
+    • HIST-144W
+    • HIST-156W
+    • HIST-160W
+    • HIST-183
+    • HIST-203
+    • HIST-209
+    • HIST-215
+    • HIST-221
+    • HIST-230
+    ... and 11 more
+
+ENTRY POINTS (no prerequisites):
+  • HIST-110
+  • HIST-116W
+  • HIST-117W
+  • HIST-120
+  • HIST-124W
+  • HIST-125W
+  • HIST-144W
+  • HIST-156W
+  • HIST-160W
+  • HIST-183
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • HIST-110
+  • HIST-116W
+  • HIST-117W
+  • HIST-120
+  • HIST-124W
+  • HIST-125W
+  • HIST-144W
+  • HIST-156W
+  • HIST-160W
+  • HIST-183
+
+
+================================================================================
+MUSIC
+================================================================================
+
+Total courses in network: 26
+Courses in major: 26
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • MUSIC-100
+    • MUSIC-110
+    • MUSIC-113
+    • MUSIC-117
+    • MUSIC-125
+    • MUSIC-126
+    • MUSIC-141
+    • MUSIC-156
+    • MUSIC-161
+    • MUSIC-180
+    • MUSIC-181
+    • MUSIC-204W
+    • MUSIC-210
+    • MUSIC-211
+    • MUSIC-217
+    ... and 11 more
+
+ENTRY POINTS (no prerequisites):
+  • MUSIC-100
+  • MUSIC-110
+  • MUSIC-113
+  • MUSIC-117
+  • MUSIC-125
+  • MUSIC-126
+  • MUSIC-141
+  • MUSIC-156
+  • MUSIC-161
+  • MUSIC-180
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • MUSIC-100
+  • MUSIC-110
+  • MUSIC-113
+  • MUSIC-117
+  • MUSIC-125
+  • MUSIC-126
+  • MUSIC-141
+  • MUSIC-156
+  • MUSIC-161
+  • MUSIC-180
+
+
+================================================================================
+BIOLOGY
+================================================================================
+
+Total courses in network: 25
+Courses in major: 24
+Prerequisite relationships: 8
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 1 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • BIO-100A
+    • BIO-100D
+    • BIO-100E
+    • BIO-100I
+    • BIO-100J
+    • BIO-100L
+    • BIO-200
+    • BIO-203
+    • BIO-211
+    • BIO-237
+    • BIO-237L
+    • BIO-263
+    • BIO-290
+    • BIO-298
+    • BIO-330
+    ... and 6 more
+
+  Level 1 (Build on Level 0 courses):
+    • BIO-211L
+    • BIO-263L
+    • BIO-429
+
+ENTRY POINTS (no prerequisites):
+  • BIO-100A
+  • BIO-100D
+  • BIO-100E
+  • BIO-100I
+  • BIO-100J
+  • BIO-100L
+  • BIO-200
+  • BIO-203
+  • BIO-211
+  • BIO-263
+
+FOUNDATIONAL COURSES (most depended upon):
+  • BIO-211         (2 courses depend on this)
+  • BIO-237         (2 courses depend on this)
+  • BIO-331         (2 courses depend on this)
+  • BIO-263         (1 courses depend on this)
+  • CHEM-120        (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • BIO-331         (requires 2 prerequisites)
+  • BIO-211L        (requires 1 prerequisites)
+  • BIO-237         (requires 1 prerequisites)
+  • BIO-237L        (requires 1 prerequisites)
+  • BIO-263L        (requires 1 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • BIO-100A
+  • BIO-100D
+  • BIO-100E
+  • BIO-100I
+  • BIO-100J
+  • BIO-100L
+  • BIO-200
+  • BIO-203
+  • BIO-211L
+  • BIO-237L
+
+
+================================================================================
+ECONOMICS
+================================================================================
+
+Total courses in network: 19
+Courses in major: 18
+Prerequisite relationships: 31
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 3 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • ECON-100
+    • ECON-231
+    • ECON-275
+    • ECON-421
+    • ECON-424
+    • ECON-463
+    • ECON-503
+    • ECON-505
+    • ECON-517
+    • ECON-560
+
+  Level 1 (Build on Level 0 courses):
+    • ECON-166
+
+  Level 2 (Build on Level 1 courses):
+    • ECON-266
+    • ECON-285
+    • ECON-331
+    • ECON-339
+    • ECON-346
+    • ECON-380
+
+  Level 3 (Build on Level 2 courses):
+    • ECON-433
+
+ENTRY POINTS (no prerequisites):
+  • ECON-100
+  • ECON-231
+
+FOUNDATIONAL COURSES (most depended upon):
+  • ECON-266        (8 courses depend on this)
+  • ECON-166        (7 courses depend on this)
+  • ECON-275        (7 courses depend on this)
+  • ECON-285        (4 courses depend on this)
+  • ECON-100        (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • ECON-503        (requires 4 prerequisites)
+  • ECON-517        (requires 4 prerequisites)
+  • ECON-424        (requires 3 prerequisites)
+  • ECON-505        (requires 3 prerequisites)
+  • ECON-560        (requires 3 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • ECON-231
+  • ECON-331
+  • ECON-339
+  • ECON-346
+  • ECON-380
+  • ECON-424
+  • ECON-503
+  • ECON-505
+  • ECON-517
+  • ECON-560
+
+
+================================================================================
+PHYSICS
+================================================================================
+
+Total courses in network: 18
+Courses in major: 15
+Prerequisite relationships: 13
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 1 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • PHYS-100
+    • PHYS-100L
+    • PHYS-135
+    • PHYS-190
+    • PHYS-190L
+    • PHYS-200
+    • PHYS-215
+    • PHYS-290
+    • PHYS-290L
+    • PHYS-298
+    • PHYS-350
+    • PHYS-370
+    • PHYS-390W
+    • PHYS-550
+
+  Level 1 (Build on Level 0 courses):
+    • PHYS-480
+
+ENTRY POINTS (no prerequisites):
+  • PHYS-135
+  • PHYS-298
+  • PHYS-350
+  • PHYS-550
+
+FOUNDATIONAL COURSES (most depended upon):
+  • PHYS-290        (4 courses depend on this)
+  • PHYS-100        (2 courses depend on this)
+  • PHYS-190        (2 courses depend on this)
+  • MATH-116        (2 courses depend on this)
+  • PHYS-350        (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • PHYS-190        (requires 2 prerequisites)
+  • PHYS-290        (requires 2 prerequisites)
+  • PHYS-100        (requires 1 prerequisites)
+  • PHYS-100L       (requires 1 prerequisites)
+  • PHYS-190L       (requires 1 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • PHYS-100L
+  • PHYS-135
+  • PHYS-190L
+  • PHYS-200
+  • PHYS-215
+  • PHYS-290L
+  • PHYS-298
+  • PHYS-370
+  • PHYS-390W
+  • PHYS-480
+
+
+================================================================================
+MATHEMATICS
+================================================================================
+
+Total courses in network: 17
+Courses in major: 15
+Prerequisite relationships: 15
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • MATH-113
+    • MATH-116
+    • MATH-152
+    • MATH-216
+    • MATH-224W
+    • MATH-235
+    • MATH-254
+    • MATH-314W
+    • MATH-325W
+    • MATH-351
+    • MATH-503
+    • MATH-506
+    • MATH-508
+    • MATH-514
+    • MATH-525
+
+ENTRY POINTS (no prerequisites):
+  • MATH-152
+  • MATH-235
+  • MATH-325W
+  • MATH-506
+  • MATH-508
+  • MATH-525
+
+FOUNDATIONAL COURSES (most depended upon):
+  • MATH-116        (4 courses depend on this)
+  • MATH-113        (2 courses depend on this)
+  • MATH-152        (2 courses depend on this)
+  • ECON-166        (2 courses depend on this)
+  • GOVT-230        (2 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • MATH-351        (requires 4 prerequisites)
+  • MATH-254        (requires 3 prerequisites)
+  • MATH-503        (requires 2 prerequisites)
+  • MATH-113        (requires 1 prerequisites)
+  • MATH-116        (requires 1 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • MATH-224W
+  • MATH-235
+  • MATH-314W
+  • MATH-325W
+  • MATH-503
+  • MATH-506
+  • MATH-508
+  • MATH-514
+  • MATH-525
+
+
+================================================================================
+AFRICANA STUDIES
+================================================================================
+
+Total courses in network: 16
+Courses in major: 16
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • AFRST-102
+    • AFRST-112W
+    • AFRST-131W
+    • AFRST-151W
+    • AFRST-161
+    • AFRST-190W
+    • AFRST-203
+    • AFRST-215
+    • AFRST-220W
+    • AFRST-257
+    • AFRST-261
+    • AFRST-265W
+    • AFRST-282
+    • AFRST-319W
+    • AFRST-357
+    ... and 1 more
+
+ENTRY POINTS (no prerequisites):
+  • AFRST-102
+  • AFRST-112W
+  • AFRST-131W
+  • AFRST-151W
+  • AFRST-161
+  • AFRST-190W
+  • AFRST-203
+  • AFRST-215
+  • AFRST-220W
+  • AFRST-257
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • AFRST-102
+  • AFRST-112W
+  • AFRST-131W
+  • AFRST-151W
+  • AFRST-161
+  • AFRST-190W
+  • AFRST-203
+  • AFRST-215
+  • AFRST-220W
+  • AFRST-257
+
+
+================================================================================
+ART
+================================================================================
+
+Total courses in network: 16
+Courses in major: 16
+Prerequisite relationships: 4
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 1 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • ART-104
+    • ART-106
+    • ART-107
+    • ART-109
+    • ART-113
+    • ART-116
+    • ART-160
+    • ART-213
+    • ART-221
+    • ART-233
+    • ART-304
+    • ART-319
+    • ART-380
+    • ART-501
+
+  Level 1 (Build on Level 0 courses):
+    • ART-303
+    • ART-307
+
+ENTRY POINTS (no prerequisites):
+  • ART-104
+  • ART-106
+  • ART-107
+  • ART-109
+  • ART-113
+  • ART-116
+  • ART-160
+  • ART-213
+  • ART-221
+  • ART-233
+
+FOUNDATIONAL COURSES (most depended upon):
+  • ART-106         (1 courses depend on this)
+  • ART-107         (1 courses depend on this)
+  • ART-109         (1 courses depend on this)
+  • ART-116         (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • ART-307         (requires 3 prerequisites)
+  • ART-303         (requires 1 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • ART-104
+  • ART-113
+  • ART-160
+  • ART-213
+  • ART-221
+  • ART-233
+  • ART-303
+  • ART-304
+  • ART-307
+  • ART-319
+
+
+================================================================================
+PHILOSOPHY
+================================================================================
+
+Total courses in network: 16
+Courses in major: 16
+Prerequisite relationships: 1
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 1 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • PHIL-112W
+    • PHIL-117
+    • PHIL-123
+    • PHIL-127W
+    • PHIL-135W
+    • PHIL-137W
+    • PHIL-175W
+    • PHIL-201
+    • PHIL-210
+    • PHIL-225W
+    • PHIL-240
+    • PHIL-281W
+    • PHIL-319W
+    • PHIL-412
+    • PHIL-550
+
+  Level 1 (Build on Level 0 courses):
+    • PHIL-430
+
+ENTRY POINTS (no prerequisites):
+  • PHIL-112W
+  • PHIL-117
+  • PHIL-123
+  • PHIL-127W
+  • PHIL-135W
+  • PHIL-137W
+  • PHIL-175W
+  • PHIL-201
+  • PHIL-210
+  • PHIL-225W
+
+FOUNDATIONAL COURSES (most depended upon):
+  • PHIL-201        (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • PHIL-430        (requires 1 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • PHIL-112W
+  • PHIL-117
+  • PHIL-123
+  • PHIL-127W
+  • PHIL-135W
+  • PHIL-137W
+  • PHIL-175W
+  • PHIL-210
+  • PHIL-225W
+  • PHIL-240
+
+
+================================================================================
+PSYCHOLOGY
+================================================================================
+
+Total courses in network: 16
+Courses in major: 16
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • PSYCH-101
+    • PSYCH-201
+    • PSYCH-204
+    • PSYCH-205
+    • PSYCH-298
+    • PSYCH-311W
+    • PSYCH-321W
+    • PSYCH-328
+    • PSYCH-330
+    • PSYCH-357
+    • PSYCH-360
+    • PSYCH-367
+    • PSYCH-370
+    • PSYCH-380
+    • PSYCH-455
+    ... and 1 more
+
+ENTRY POINTS (no prerequisites):
+  • PSYCH-101
+  • PSYCH-201
+  • PSYCH-204
+  • PSYCH-205
+  • PSYCH-298
+  • PSYCH-311W
+  • PSYCH-321W
+  • PSYCH-328
+  • PSYCH-330
+  • PSYCH-357
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • PSYCH-101
+  • PSYCH-201
+  • PSYCH-204
+  • PSYCH-205
+  • PSYCH-298
+  • PSYCH-311W
+  • PSYCH-321W
+  • PSYCH-328
+  • PSYCH-330
+  • PSYCH-357
+
+
+================================================================================
+RELST
+================================================================================
+
+Total courses in network: 15
+Courses in major: 15
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • RELST-116W
+    • RELST-134W
+    • RELST-141W
+    • RELST-144W
+    • RELST-153W
+    • RELST-157W
+    • RELST-160
+    • RELST-198
+    • RELST-209
+    • RELST-240
+    • RELST-247W
+    • RELST-291
+    • RELST-305
+    • RELST-313
+    • RELST-498
+
+ENTRY POINTS (no prerequisites):
+  • RELST-116W
+  • RELST-134W
+  • RELST-141W
+  • RELST-144W
+  • RELST-153W
+  • RELST-157W
+  • RELST-160
+  • RELST-198
+  • RELST-209
+  • RELST-240
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • RELST-116W
+  • RELST-134W
+  • RELST-141W
+  • RELST-144W
+  • RELST-153W
+  • RELST-157W
+  • RELST-160
+  • RELST-198
+  • RELST-209
+  • RELST-240
+
+
+================================================================================
+NEUROSCIENCE
+================================================================================
+
+Total courses in network: 15
+Courses in major: 13
+Prerequisite relationships: 2
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • NEURO-198
+    • NEURO-201
+    • NEURO-204
+    • NEURO-205
+    • NEURO-211
+    • NEURO-211L
+    • NEURO-298
+    • NEURO-328
+    • NEURO-330
+    • NEURO-331
+    • NEURO-331L
+    • NEURO-370
+    • NEURO-500
+
+ENTRY POINTS (no prerequisites):
+  • NEURO-198
+  • NEURO-201
+  • NEURO-204
+  • NEURO-205
+  • NEURO-211
+  • NEURO-211L
+  • NEURO-298
+  • NEURO-328
+  • NEURO-330
+  • NEURO-370
+
+FOUNDATIONAL COURSES (most depended upon):
+  • CHEM-120        (1 courses depend on this)
+  • BIO-331         (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • NEURO-331       (requires 1 prerequisites)
+  • NEURO-331L      (requires 1 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • NEURO-198
+  • NEURO-201
+  • NEURO-204
+  • NEURO-205
+  • NEURO-211
+  • NEURO-211L
+  • NEURO-298
+  • NEURO-328
+  • NEURO-330
+  • NEURO-331
+
+
+================================================================================
+CHEMISTRY
+================================================================================
+
+Total courses in network: 14
+Courses in major: 13
+Prerequisite relationships: 10
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • CHEM-120
+    • CHEM-120L
+    • CHEM-255
+    • CHEM-255L
+    • CHEM-263
+    • CHEM-263L
+    • CHEM-298
+    • CHEM-321
+    • CHEM-329
+    • CHEM-348
+    • CHEM-366
+    • CHEM-371W
+    • CHEM-551
+
+ENTRY POINTS (no prerequisites):
+  • CHEM-298
+  • CHEM-348
+  • CHEM-371W
+  • CHEM-551
+
+FOUNDATIONAL COURSES (most depended upon):
+  • CHEM-255        (4 courses depend on this)
+  • CHEM-120        (3 courses depend on this)
+  • CHEM-263        (2 courses depend on this)
+  • MATH-116        (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • CHEM-263        (requires 2 prerequisites)
+  • CHEM-120        (requires 1 prerequisites)
+  • CHEM-120L       (requires 1 prerequisites)
+  • CHEM-255        (requires 1 prerequisites)
+  • CHEM-255L       (requires 1 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • CHEM-120L
+  • CHEM-255L
+  • CHEM-263L
+  • CHEM-298
+  • CHEM-321
+  • CHEM-329
+  • CHEM-348
+  • CHEM-366
+  • CHEM-371W
+  • CHEM-551
+
+
+================================================================================
+COMPUTER SCIENCE
+================================================================================
+
+Total courses in network: 14
+Courses in major: 12
+Prerequisite relationships: 2
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • CPSCI-101
+    • CPSCI-101L
+    • CPSCI-102
+    • CPSCI-102L
+    • CPSCI-200
+    • CPSCI-220
+    • CPSCI-230
+    • CPSCI-240
+    • CPSCI-298
+    • CPSCI-320
+    • CPSCI-366
+    • CPSCI-410
+
+ENTRY POINTS (no prerequisites):
+  • CPSCI-101
+  • CPSCI-101L
+  • CPSCI-102
+  • CPSCI-102L
+  • CPSCI-200
+  • CPSCI-220
+  • CPSCI-230
+  • CPSCI-240
+  • CPSCI-298
+  • CPSCI-320
+
+FOUNDATIONAL COURSES (most depended upon):
+  • MATH-216        (1 courses depend on this)
+  • MATH-254        (1 courses depend on this)
+
+ADVANCED COURSES (most prerequisites):
+  • CPSCI-366       (requires 2 prerequisites)
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • CPSCI-101
+  • CPSCI-101L
+  • CPSCI-102
+  • CPSCI-102L
+  • CPSCI-200
+  • CPSCI-220
+  • CPSCI-230
+  • CPSCI-240
+  • CPSCI-298
+  • CPSCI-320
+
+
+================================================================================
+ARTH
+================================================================================
+
+Total courses in network: 13
+Courses in major: 13
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • ARTH-100
+    • ARTH-108W
+    • ARTH-120
+    • ARTH-131W
+    • ARTH-205
+    • ARTH-208
+    • ARTH-238
+    • ARTH-246
+    • ARTH-252
+    • ARTH-301
+    • ARTH-313
+    • ARTH-318
+    • ARTH-330W
+
+ENTRY POINTS (no prerequisites):
+  • ARTH-100
+  • ARTH-108W
+  • ARTH-120
+  • ARTH-131W
+  • ARTH-205
+  • ARTH-208
+  • ARTH-238
+  • ARTH-246
+  • ARTH-252
+  • ARTH-301
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • ARTH-100
+  • ARTH-108W
+  • ARTH-120
+  • ARTH-131W
+  • ARTH-205
+  • ARTH-208
+  • ARTH-238
+  • ARTH-246
+  • ARTH-252
+  • ARTH-301
+
+
+================================================================================
+ENVIRONMENTAL STUDIES
+================================================================================
+
+Total courses in network: 13
+Courses in major: 13
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • ENVST-110
+    • ENVST-206
+    • ENVST-223
+    • ENVST-234
+    • ENVST-258
+    • ENVST-265
+    • ENVST-266
+    • ENVST-269
+    • ENVST-291
+    • ENVST-318
+    • ENVST-342
+    • ENVST-380
+    • ENVST-549
+
+ENTRY POINTS (no prerequisites):
+  • ENVST-110
+  • ENVST-206
+  • ENVST-223
+  • ENVST-234
+  • ENVST-258
+  • ENVST-265
+  • ENVST-266
+  • ENVST-269
+  • ENVST-291
+  • ENVST-318
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • ENVST-110
+  • ENVST-206
+  • ENVST-223
+  • ENVST-234
+  • ENVST-258
+  • ENVST-265
+  • ENVST-266
+  • ENVST-269
+  • ENVST-291
+  • ENVST-318
+
+
+================================================================================
+HSPST
+================================================================================
+
+Total courses in network: 13
+Courses in major: 13
+Prerequisite relationships: 0
+
+COURSE PROGRESSION PATHWAY (by prerequisite depth):
+Maximum depth: 0 levels
+
+  Level 0 (Entry-level - no prerequisites):
+    • HSPST-115
+    • HSPST-130
+    • HSPST-150
+    • HSPST-151
+    • HSPST-200W
+    • HSPST-211
+    • HSPST-217
+    • HSPST-224
+    • HSPST-250
+    • HSPST-301
+    • HSPST-303
+    • HSPST-338
+    • HSPST-481
+
+ENTRY POINTS (no prerequisites):
+  • HSPST-115
+  • HSPST-130
+  • HSPST-150
+  • HSPST-151
+  • HSPST-200W
+  • HSPST-211
+  • HSPST-217
+  • HSPST-224
+  • HSPST-250
+  • HSPST-301
+
+FOUNDATIONAL COURSES (most depended upon):
+  None
+
+ADVANCED COURSES (most prerequisites):
+  None
+
+TERMINAL COURSES (no dependents - potential capstones):
+  • HSPST-115
+  • HSPST-130
+  • HSPST-150
+  • HSPST-151
+  • HSPST-200W
+  • HSPST-211
+  • HSPST-217
+  • HSPST-224
+  • HSPST-250
+  • HSPST-301
+

@@ -36,7 +36,7 @@ except ImportError:
 # CONFIGURATION
 # =============================================
 CONFIG = {
-    "catalog_json": "courses_fall_2025.json",
+    "catalog_json": "../course-catalog-scraper/courses_with_prerequisites.json",
     "output_dir": "network_analysis/",
 }
 
@@ -75,27 +75,39 @@ def parse_courses(courses):
     Returns dict: {course_id: {info}}
     """
     print("\n🔍 Parsing course data...")
-    
+
     course_dict = {}
-    
+
     for course in courses:
-        # Extract fields
-        subject = course.get('Subject', '').strip()
-        number = course.get('CourseNumber', '').strip()
-        title = course.get('CourseTitle', 'Untitled')
-        description = course.get('CourseDescription', '')
-        prereq_text = course.get('Prerequisites', '')
-        credits = course.get('Credits', '')
-        
+        # Extract fields from the JSON structure
+        course_obj = course.get('Course', {})
+
+        subject = course_obj.get('SubjectCode', '').strip()
+        number = course_obj.get('Number', '').strip()
+        title = course_obj.get('Title', 'Untitled')
+        description = course_obj.get('Description', '')
+        credits = course.get('MinimumCredits', '')
+
+        # Extract prerequisites from DisplayText
+        prerequisites = course.get('Prerequisites', [])
+        prereq_texts = []
+        for prereq in prerequisites:
+            display_text = prereq.get('DisplayText', '')
+            if display_text:
+                prereq_texts.append(display_text)
+
+        # Combine all prerequisite texts
+        prereq_text = '; '.join(prereq_texts) if prereq_texts else ''
+
         if not subject or not number:
             continue
-        
+
         # Create course ID
         course_id = f"{subject}-{number}"
-        
-        # Parse prerequisites
+
+        # Parse prerequisites to extract course codes
         prereqs = extract_prerequisites(prereq_text)
-        
+
         course_dict[course_id] = {
             'id': course_id,
             'subject': subject,
@@ -106,13 +118,13 @@ def parse_courses(courses):
             'prereq_text': prereq_text,
             'credits': credits,
         }
-    
+
     print(f"✅ Parsed {len(course_dict)} courses")
-    
+
     # Count courses with prerequisites
     with_prereqs = sum(1 for c in course_dict.values() if c['prereqs'])
     print(f"   Courses with prerequisites: {with_prereqs}")
-    
+
     return course_dict
 
 # =============================================
@@ -481,8 +493,7 @@ def visualize_network_plotly(G, course_dict, communities, output_dir):
             colorbar=dict(
                 thickness=15,
                 title='Community' if communities else 'In-Degree',
-                xanchor='left',
-                titleside='right'
+                xanchor='left'
             ),
             line_width=2
         )
@@ -490,8 +501,7 @@ def visualize_network_plotly(G, course_dict, communities, output_dir):
     
     fig = go.Figure(data=[edge_trace, node_trace],
                    layout=go.Layout(
-                       title='Interactive Hamilton Course Network',
-                       titlefont_size=16,
+                       title=dict(text='Interactive Hamilton Course Network', font=dict(size=16)),
                        showlegend=False,
                        hovermode='closest',
                        margin=dict(b=0, l=0, r=0, t=40),
