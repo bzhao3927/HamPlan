@@ -19,7 +19,6 @@ RAG/cache/
 
 # Ignore cache and temporary files
 __pycache__/
-*.py[cod]
 *.log
 *.tmp
 *.swp
