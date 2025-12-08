@@ -1,5 +1,4 @@
 # Hamilton College Course Scraper
-Built by Auggie Trajanov
 
 This Python script scrapes all courses from Hamilton College's course registration system for Fall 2025.
 
