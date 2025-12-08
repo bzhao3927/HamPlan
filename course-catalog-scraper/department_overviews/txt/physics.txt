@@ -1,0 +1,140 @@
+Department: physics
+URL: https://hamilton.smartcatalogiq.com/current/college-catalogue/academicprograms/physics/physics-overview
+======================================================================
+
+Overview
+Faculty
+Sally Booth
+Katherine Brown
+Charles Collett
+Viva Horowitz (on leave 2025-26)
+Gordon Jones, chair
+Adam Lark
+Seth Major
+Ariel Rock
+Megan Smith
+Special Appointment
+Brian Collett
+Department/Program Goals
+We aspire to help students forge tools to reveal the stunning quantitative vistas on our universe. Given the various trajectories of Hamilton students, this education prepares students for physics graduate school; supports students in their pursuit of different quantitative interests including engineering, chemical physics, and careers where quantitative analysis is employed; fulfills the one-year introductory physics requirements for students pursuing health professions, chemistry, and graduate work in other sciences; and includes courses accessible to students across the campus with a wide variety of interests and mathematical backgrounds.
+Department/Program Student Learning Outcomes
+Students Will Learn to:
+Exhibit broad understanding in foundational physics
+Use foundational physics to analyze a diverse set of complex problems
+Demonstrate skills for experimental physics
+Demonstrate skills in technical communication
+Concentration/Minor Description and Requirements
+A concentration in physics normally consists of 11 courses:
+PHYS-190
+,
+PHYS-195
+,
+PHYS-290
+,
+PHYS-295
+,
+PHYS-215
+or
+PHYS-348
+,
+PHYS-390
+,
+PHYS-550
+, and four other electives chosen in consultation with an advisor who is a member of the physics faculty. At least one of the electives will be selected from physics courses at the 300-level or above, not including
+PHYS-348
+and
+PHYS-390
+.  One of the electives may be taken credit/no credit. Students who wish to prepare for graduate school in physics or engineering should choose electives from physics courses at the 300-level and above. Students with other interests may, in consultation with their advisor, select up to two electives from other science departments. Such courses should support interdisciplinary interests or career goals. Normally
+PHYS-390
+is taken in the spring semester of the junior year in preparation for the research project undertaken in
+PHYS-550
+. To be eligible for honors in physics students must have a grade point average of at least 3.5 in the courses that satisfy the concentration requirements and must complete outstanding work in the senior project.
+In the first year, prospective concentrators should normally take
+PHYS-190
+and
+PHYS-195
+, and mathematics. In the first semester, the appropriate mathematics course may be Calculus I (
+MATH-113
+), which is a co-requisite for
+PHYS-190
+. However if the Mathematics Department grants advanced placement, the student may wish to take Calculus II (
+MATH-116
+), Multivariable Calculus (
+MATH-216
+), or Linear Algebra (
+MATH-224
+). Students with significant experience with physics, including advanced placement courses, should consult with a member of the department before registering for a physics class.
+Students who wish to major in physics but who have taken either
+PHYS-100
+-
+PHYS-205
+or
+PHYS-200
+-
+PHYS-205
+, or who wish to begin the major should consult with the department chair.
+PHYS-290
+and
+PHYS-295
+are normally taken in the second year. Additionally, during the spring of the second year, we recommend taking one course from Electronics and/or General Relativity. Other options should be discussed with a member of the physics faculty.
+We believe that our students need to be aware how historical contributions of underrepresented groups in science illuminate inequalities of opportunity to contribute to science and technology, that a diversity of perspectives are crucial to science when dealing with complex problems, that the impact of science is both local and global, and that science policy decisions are made in the real world in which biases might be hidden. Concentrators may satisfy the SSIH requirement by completing
+PHYS-215
+or
+PHYS-348
+.
+A minor in physics consists of five courses:
+PHYS-190
+,
+PHYS-195
+,
+PHYS-290
+or
+PHYS-295
+, and two other physics courses. One of the other physics courses may be taken credit/no credit. Students can complete the minor with
+PHYS-100
+-
+PHYS-205
+or
+PHYS-200
+-
+PHYS-205
+, plus three other physics courses, of which one must be at the 200 level or above. Students may use Advanced Placement, International Baccalaureate, or A-level courses to meet only one of the five required courses for the minor. A minor in astronomy consists of five courses: a 2-course introductory sequence (
+PHYS-190
+-
+PHYS-195
+,
+PHYS-100
+-
+PHYS-205
+, or
+PHYS-200
+-
+PHYS-205
+),
+PHYS-290
+,
+PHYS-160
+and an upper level elective chosen in consultation with the chair. A student who majors in physics may not minor in astronomy.
+Students interested in the 3-2, 2-1-1-1, or 4-2 engineering programs affiliating Hamilton with engineering schools should normally take
+PHYS-190
+,
+PHYS-195
+, and calculus (or linear algebra if mathematics placement so warrants) in their first year. Students in the 3-2 program are expected to complete the first three years of the major including at least 8 courses in physics. There are many possible options in engineering programs, and because of their complexity, interested students should consult the engineering advisor, Professor Gordon Jones. This is also the case for those who have taken 100-105 or 200-205 and have then become interested in engineering.
+Students seeking to transfer credit in physics for part of the introductory sequence (100-205 or 200-205) at another institution must successfully complete one course of introductory sequence at Hamilton. Successful completion requires a minimum grade of B.
+Juniors or seniors without prior courses in the department may enroll in
+PHYS-100
+,
+PHYS-120
+,
+PHYS-135
+,
+PHYS-136
+,
+PHYS-160
+,
+PHYS-175
+,
+PHYS-200
+and
+PHYS-245
+.

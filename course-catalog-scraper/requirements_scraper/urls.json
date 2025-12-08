@@ -1,0 +1,1696 @@
+{
+    "Path": "/Current/College-Catalogue",
+    "Name": "2025-2026 College Catalogue",
+    "Children": [
+        {
+            "Path": "/Current/College-Catalogue/AcademicPrograms",
+            "Name": "Academic Programs",
+            "Children": [
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Africana-Studies",
+                    "Name": "Africana Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Africana-Studies/Africana-Studies-Overview",
+                            "Name": "Africana Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Africana-Studies/Africana-Studies-Concentration",
+                            "Name": "Africana Studies Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Africana-Studies/Africana-Studies-Minor",
+                            "Name": "Africana Studies Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Africana-Studies/AFRST-Africana-Studies-Courses",
+                            "Name": "Africana Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/American-Indian-and-Indigenous-Studies",
+                    "Name": "American Indian and Indigenous Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/American-Indian-and-Indigenous-Studies/American-Indian-and-Indigenous-Studies-Overview",
+                            "Name": "American Indian and Indigenous Studies Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/American-Indian-and-Indigenous-Studies/American-Indian-and-Indigenous-Studies-Minor",
+                            "Name": "American Indian and Indigenous Studies Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/American-Indian-and-Indigenous-Studies/AIIS-American-Indian-and-Indigenous-Studies-Courses",
+                            "Name": "American Indian and Indigenous Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/American-Studies",
+                    "Name": "American Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/American-Studies/American-Studies-Overview",
+                            "Name": "American Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/American-Studies/American-Studies-Concentration",
+                            "Name": "American Studies Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/American-Studies/American-Studies-Minor",
+                            "Name": "American Studies Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/American-Studies/American-Studies-Courses",
+                            "Name": "American Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Anthropology",
+                    "Name": "Anthropology",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Anthropology-Overview",
+                            "Name": "Anthropology - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Cultural-Anthropology-Concentration",
+                            "Name": "Cultural Anthropology Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Cultural-Anthropology-Minor",
+                            "Name": "Cultural Anthropology Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Archaeology-Concentration",
+                            "Name": "Archaeology Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Anthropology-Courses",
+                            "Name": "Anthropology Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Archaeology-Courses",
+                            "Name": "Archaeology Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Art",
+                    "Name": "Art",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Art/Art-Overview",
+                            "Name": "Art - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Art/Art-Concentration",
+                            "Name": "Art Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Art/Art-Minor",
+                            "Name": "Art Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Art/Art-Courses",
+                            "Name": "Art Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Art-History",
+                    "Name": "Art History",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Art-History/Art-History-Overview",
+                            "Name": "Art History - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Art-History/Art-History-Art-History-Concentration",
+                            "Name": "Art History - Art History Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Art-History/Art-History-Courses",
+                            "Name": "Art History Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Asian-Studies",
+                    "Name": "Asian Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Asian-Studies/Asian-Studies-Overview",
+                            "Name": "Asian Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Asian-Studies/Asian-Studies-Courses",
+                            "Name": "Asian Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Biochemistry-Molecular-Biology",
+                    "Name": "Biochemistry/Molecular Biology",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Biochemistry-Molecular-Biology/BiochemistryMolecular-Biology-Overview",
+                            "Name": "BiochemistryMolecular Biology - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Biochemistry-Molecular-Biology/BiochemistryMolecular-Biology-Biochemistry-Concentration",
+                            "Name": "BiochemistryMolecular Biology - Biochemistry Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Biochemistry-Molecular-Biology/Biochemistry-Molecular-Biology-Courses",
+                            "Name": "Biochemistry/Molecular Biology Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Biology",
+                    "Name": "Biology",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Biology/Biology-Overview",
+                            "Name": "Biology - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Biology/Biology-Biology-Concentration",
+                            "Name": "Biology - Biology Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Biology/Biology-Minor",
+                            "Name": "Biology Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Biology/Biology-Courses",
+                            "Name": "Biology Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Chemical-Physics",
+                    "Name": "Chemical Physics",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Chemical-Physics/Chemical-Physics-Overview",
+                            "Name": "Chemical Physics - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Chemical-Physics/Chemical-Physics-Chemical-Physics-Concentration",
+                            "Name": "Chemical Physics - Chemical Physics Concentration"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Chemistry",
+                    "Name": "Chemistry",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Chemistry/Chemistry-Overview",
+                            "Name": "Chemistry - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Chemistry/Chemistry-Concentration",
+                            "Name": "Chemistry Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Chemistry/Chemistry-Minor",
+                            "Name": "Chemistry Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Chemistry/Chemistry-Courses",
+                            "Name": "Chemistry Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Cinema-and-Media-Studies",
+                    "Name": "Cinema and Media Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Cinema-and-Media-Studies/Cinema-and-Media-Studies-Overview",
+                            "Name": "Cinema and Media Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Cinema-and-Media-Studies/Cinema-and-Media-Studies-Courses",
+                            "Name": "Cinema and Media Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Classics",
+                    "Name": "Classics",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Classics/Classics-Overview",
+                            "Name": "Classics - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Classics/Classics-Courses",
+                            "Name": "Classics Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Classics/Greek-Courses",
+                            "Name": "Greek Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Classics/Latin-Courses",
+                            "Name": "Latin Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/College-Courses-and-Seminars",
+                    "Name": "College Courses and Seminars",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/College-Courses-and-Seminars/Overview",
+                            "Name": "Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/College-Courses-and-Seminars/College-Courses-and-Seminars-Courses",
+                            "Name": "College Courses and Seminars Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Computer-Science",
+                    "Name": "Computer Science",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Computer-Science/Computer-Science-Overview",
+                            "Name": "Computer Science - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Computer-Science/Computer-Science-Computer-Science-Concentration",
+                            "Name": "Computer Science - Computer Science Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Computer-Science/Computer-Science-Computer-Science-Minor",
+                            "Name": "Computer Science - Computer Science Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Computer-Science/Computer-Science-Courses",
+                            "Name": "Computer Science Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Critical-Languages",
+                    "Name": "Critical Languages"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Dance-and-Movement-Studies",
+                    "Name": "Dance and Movement Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Dance-and-Movement-Studies/Dance-and-Movement-Studies-Overview",
+                            "Name": "Dance and Movement Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Dance-and-Movement-Studies/Dance-and-Movement-Studies-Dance-Concentration",
+                            "Name": "Dance and Movement Studies - Dance Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Dance-and-Movement-Studies/Dance-Minor",
+                            "Name": "Dance Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Dance-and-Movement-Studies/Dance-and-Movement-Studies-Courses",
+                            "Name": "Dance and Movement Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Data-Science",
+                    "Name": "Data Science",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Data-Science/Data-Science-Data-Science-Overview",
+                            "Name": "Data Science - Data Science Overview"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Digital-Arts",
+                    "Name": "Digital Arts",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Digital-Arts/Digital-Arts-Overview",
+                            "Name": "Digital Arts - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Digital-Arts/Digital-Arts-Courses",
+                            "Name": "Digital Arts Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/East-Asian-Languages-and-Literatures",
+                    "Name": "East Asian Languages and Literatures",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/East-Asian-Languages-and-Literatures/East-Asian-Languages-and-Literatures-Overview",
+                            "Name": "East Asian Languages and Literatures - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/East-Asian-Languages-and-Literatures/East-Asian-Languages-and-Literatures-Chinese-Concentration",
+                            "Name": "East Asian Languages and Literatures - Chinese Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/East-Asian-Languages-and-Literatures/East-Asian-Languages-and-Literatures-Japanese-Concentration",
+                            "Name": "East Asian Languages and Literatures - Japanese Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/East-Asian-Languages-and-Literatures/Chinese-Courses",
+                            "Name": "Chinese Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/East-Asian-Languages-and-Literatures/Japanese-Courses",
+                            "Name": "Japanese Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Economics",
+                    "Name": "Economics",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Economics/Economics-Overview",
+                            "Name": "Economics - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Economics/Economics-Economics-Concentration",
+                            "Name": "Economics - Economics Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Economics/Economics-Minor",
+                            "Name": "Economics Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Economics/Economics-Courses",
+                            "Name": "Economics Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Education-Studies",
+                    "Name": "Education Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Education-Studies/Overview",
+                            "Name": "Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Education-Studies/Education-Studies-Courses",
+                            "Name": "Education Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/English-for-Speakers-of-Other-Languages",
+                    "Name": "English for Speakers of Other Languages",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/English-for-Speakers-of-Other-Languages/Overview",
+                            "Name": "Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/English-for-Speakers-of-Other-Languages/English-for-Speakers-of-Other-Languages-Courses",
+                            "Name": "English for Speakers of Other Languages Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Environmental-Studies",
+                    "Name": "Environmental Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Environmental-Studies/Environmental-Studies-Overview",
+                            "Name": "Environmental Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Environmental-Studies/Environmental-Studies-Environmental-Studies-Concentration",
+                            "Name": "Environmental Studies - Environmental Studies Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Environmental-Studies/Environmental-Studies-Courses",
+                            "Name": "Environmental Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/French-and-Francophone-Studies",
+                    "Name": "French and Francophone Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/French-and-Francophone-Studies/French-and-Francophone-Studies-Overview",
+                            "Name": "French and Francophone Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/French-and-Francophone-Studies/French-and-Francophone-Studies-Courses",
+                            "Name": "French and Francophone Studies Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/French-and-Francophone-Studies/Translation-Taught-in-English-Courses",
+                            "Name": "Translation Taught in English Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Geoarchaeology",
+                    "Name": "Geoarchaeology",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Geoarchaeology/Geoarchaeology-Overview",
+                            "Name": "Geoarchaeology - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Geoarchaeology/Geoarchaeology-Concentration",
+                            "Name": "Geoarchaeology Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Geoarchaeology/Geoarchaeology-Courses",
+                            "Name": "Geoarchaeology Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Geosciences",
+                    "Name": "Geosciences",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Geosciences/Geosciences-Overview",
+                            "Name": "Geosciences - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Geosciences/Geoscience-Concentration",
+                            "Name": "Geoscience Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Geosciences/Geosciences-Minor",
+                            "Name": "Geosciences Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Geosciences/Geosciences-Courses",
+                            "Name": "Geosciences Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic",
+                    "Name": "German, Russian, Italian, and Arabic",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/German-Russian-Italian-and-Arabic-Overview",
+                            "Name": "German Russian Italian and Arabic  Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/German-Studies",
+                            "Name": "German Studies",
+                            "Children": [
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/German-Studies/German-Studies-Overview",
+                                    "Name": "German Studies Overview"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/German-Studies/German-Studies-Concentration",
+                                    "Name": "German Studies Concentration"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/German-Studies/German-Studies-Minor",
+                                    "Name": "German Studies Minor"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/German-Studies/German-Studies-Courses",
+                                    "Name": "German Studies Courses"
+                                }
+                            ]
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Russian-Studies",
+                            "Name": "Russian Studies",
+                            "Children": [
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Russian-Studies/Russian-Studies-Overview",
+                                    "Name": "Russian Studies  Overview"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Russian-Studies/Russian-Language-Courses",
+                                    "Name": "Russian Language Courses"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Russian-Studies/Translation-Courses",
+                                    "Name": "Translation Courses"
+                                }
+                            ]
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Italian",
+                            "Name": "Italian",
+                            "Children": [
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Italian/Italian-Overview",
+                                    "Name": "Italian Overview"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Italian/Italian-Courses",
+                                    "Name": "Italian Courses"
+                                }
+                            ]
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Arabic-Courses",
+                            "Name": "Arabic",
+                            "Children": [
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Arabic-Courses/German-Russian-Italian-and-Arabic-Overview",
+                                    "Name": "Overview"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/Arabic-Courses/Arabic-Courses",
+                                    "Name": "Arabic Courses"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Government",
+                    "Name": "Government",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Government/Government-Overview",
+                            "Name": "Government - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Government/World-Politics-Concentration",
+                            "Name": "World Politics Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Government/Government-Courses",
+                            "Name": "Government Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Hebrew",
+                    "Name": "Hebrew",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Hebrew/Overview",
+                            "Name": "Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Hebrew/Hebrew-Courses",
+                            "Name": "Hebrew Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Hispanic-Studies",
+                    "Name": "Hispanic Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Hispanic-Studies/Hispanic-Studies-Overview",
+                            "Name": "Hispanic Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Hispanic-Studies/Hispanic-Studies-Hispanic-Studies-Concentration",
+                            "Name": "Hispanic Studies - Hispanic Studies Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Hispanic-Studies/Hispanic-Studies-Hispanic-Studies-Minor",
+                            "Name": "Hispanic Studies - Hispanic Studies Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Hispanic-Studies/Hispanic-Studies-Courses",
+                            "Name": "Hispanic Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/History",
+                    "Name": "History",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/History/History-Overview",
+                            "Name": "History - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/History/History-History-Concentration",
+                            "Name": "History - History Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/History/History-Courses",
+                            "Name": "History Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Jewish-Studies",
+                    "Name": "Jewish Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Jewish-Studies/Jewish-Studies-Overview",
+                            "Name": "Jewish Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Jewish-Studies/Jewish-Studies-Courses",
+                            "Name": "Jewish Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Jurisprudence-Law-and-Justice-Studies",
+                    "Name": "Jurisprudence, Law and Justice Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Jurisprudence-Law-and-Justice-Studies/Jurisprudence-Law-and-Justice-Studies-Overview",
+                            "Name": "Jurisprudence Law and Justice Studies  Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Jurisprudence-Law-and-Justice-Studies/Jurisprudence-Law-and-Justice-Studies-Jurisprudence-Law-and-Justice-Studies-Minor",
+                            "Name": "Jurisprudence Law and Justice Studies  Jurisprudence Law and Justice Studies Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Jurisprudence-Law-and-Justice-Studies/JLJS-Courses",
+                            "Name": "Jurisprudence Law and Justice Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Latin-American-and-Latine-Studies",
+                    "Name": "Latin American and Latine Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Latin-American-and-Latine-Studies/Latin-American-Studies-Latin-American-and-Latine-Studies",
+                            "Name": "Latin American Studies - Latin American and Latine Studies"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Latin-American-and-Latine-Studies/Latin-American-and-Latine-Studies",
+                            "Name": "Latin American and Latine Studies"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Linguistics",
+                    "Name": "Linguistics",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Linguistics/Linguistics-Overview",
+                            "Name": "Linguistics - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Linguistics/Linguistics-Linguistics-Minor",
+                            "Name": "Linguistics - Linguistics Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Linguistics/Linguistics-Courses",
+                            "Name": "Linguistics Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Literature-and-Creative-Writing",
+                    "Name": "Literature and Creative Writing",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Literature-and-Creative-Writing/Literature-and-Creative-Writing-Overview",
+                            "Name": "Literature and Creative Writing - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Literature-and-Creative-Writing/Creative-Writing-Courses",
+                            "Name": "Creative Writing Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Literature-and-Creative-Writing/Literature-Courses",
+                            "Name": "Literature Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics",
+                    "Name": "Mathematics and Statistics",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics/Mathematics-and-Statistics-Overview",
+                            "Name": "Mathematics and Statistics - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics/Mathematics-Concentration",
+                            "Name": "Mathematics Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics/Mathematics-Minor",
+                            "Name": "Mathematics Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics/Statistics-Minor",
+                            "Name": "Statistics Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics/Mathematics-and-Statistics-Courses",
+                            "Name": "Mathematics and Statistics Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Medieval-and-Renaissance-Studies",
+                    "Name": "Medieval and Renaissance Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Medieval-and-Renaissance-Studies/Medieval-and-Renaissance-Studies-Overview",
+                            "Name": "Medieval and Renaissance Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Medieval-and-Renaissance-Studies/Medieval-and-Renaissance-Studies-Courses",
+                            "Name": "Medieval and Renaissance Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Middle-East-and-Islamicate-Worlds-Studies",
+                    "Name": "Middle East and Islamicate Worlds Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Middle-East-and-Islamicate-Worlds-Studies/Middle-East-and-Islamicate-Worlds-Studies-Overview",
+                            "Name": "Middle East and Islamicate Worlds Studies Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Middle-East-and-Islamicate-Worlds-Studies/Middle-East-and-Islamicate-Worlds-Studies-Concentration",
+                            "Name": "Middle East and Islamicate Worlds Studies Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Middle-East-and-Islamicate-Worlds-Studies/Middle-East-and-Islamicate-Worlds-Studies-Minor",
+                            "Name": "Middle East and Islamicate Worlds Studies Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Middle-East-and-Islamicate-Worlds-Studies/Middle-East-and-Islamicate-Worlds-Studies-Courses",
+                            "Name": "Middle East and Islamicate Worlds Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Music",
+                    "Name": "Music",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Music/Music-Overview",
+                            "Name": "Music - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Music/Music-Music-Concentration",
+                            "Name": "Music - Music Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Music/Music-Minor",
+                            "Name": "Music Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Music/Literature-and-History-of-Music-Courses",
+                            "Name": "Literature and History of Music Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Music/Music-Courses",
+                            "Name": "Music Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Music/Performance-Courses",
+                            "Name": "Performance Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Music/Theory-and-Composition-Courses",
+                            "Name": "Theory and Composition Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Music/Third-year-Seminars-and-the-Senior-Project-Courses",
+                            "Name": "Third-year Seminars and the Senior Project Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Neuroscience",
+                    "Name": "Neuroscience",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Neuroscience/Neuroscience-Overview",
+                            "Name": "Neuroscience - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Neuroscience/Neuroscience-Neuroscience-Concentration",
+                            "Name": "Neuroscience - Neuroscience Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Neuroscience/Neuroscience-Courses",
+                            "Name": "Neuroscience Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Oral-Communication",
+                    "Name": "Oral Communication",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Oral-Communication/Overview",
+                            "Name": "Overview"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Philosophy",
+                    "Name": "Philosophy",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Philosophy/Philosophy-Overview",
+                            "Name": "Philosophy - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Philosophy/Philosophy-Philosophy-Concentration",
+                            "Name": "Philosophy - Philosophy Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Philosophy/Philosophy-Philosophy-Minor",
+                            "Name": "Philosophy - Philosophy Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Philosophy/Philosophy-Courses",
+                            "Name": "Philosophy Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Physical-Education",
+                    "Name": "Physical Education",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Physical-Education/Physical-Education-Overview",
+                            "Name": "Physical Education - Overview"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Physics",
+                    "Name": "Physics",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Physics/Physics-Overview",
+                            "Name": "Physics - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Physics/Physics-Concentration",
+                            "Name": "Physics Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Physics/Physics-Minor",
+                            "Name": "Physics Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Physics/Physics-Courses",
+                            "Name": "Physics Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Psychology",
+                    "Name": "Psychology",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Psychology/Psychology-Overview",
+                            "Name": "Psychology - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Psychology/Psychology-Psychology-Concentration",
+                            "Name": "Psychology - Psychology Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Psychology/Psychology-Psychology-Minor",
+                            "Name": "Psychology - Psychology Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Psychology/New-England-Center-for-Children-Courses",
+                            "Name": "New England Center for Children Courses"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Psychology/Psychology-Courses",
+                            "Name": "Psychology Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Public-Policy",
+                    "Name": "Public Policy",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Public-Policy/Public-Policy-Overview",
+                            "Name": "Public Policy - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Public-Policy/Public-Policy-Public-Policy-Concentration",
+                            "Name": "Public Policy - Public Policy Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Public-Policy/Public-Policy-Minor",
+                            "Name": "Public Policy Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Public-Policy/Public-Policy-Courses",
+                            "Name": "Public Policy Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Religious-Studies",
+                    "Name": "Religious Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Religious-Studies/Religious-Studies-Overview",
+                            "Name": "Religious Studies - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Religious-Studies/Religious-Studies-Religious-Studies-Concentration",
+                            "Name": "Religious Studies - Religious Studies Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Religious-Studies/Religious-Studies-Religious-Studies-Minor",
+                            "Name": "Religious Studies - Religious Studies Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Religious-Studies/Religious-Studies-Courses",
+                            "Name": "Religious Studies Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Sociology",
+                    "Name": "Sociology",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Sociology/Sociology-Overview",
+                            "Name": "Sociology - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Sociology/Sociology-Concentration",
+                            "Name": "Sociology Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Sociology/Sociology-Sociology-Minor",
+                            "Name": "Sociology - Sociology Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Sociology/Sociology-Courses",
+                            "Name": "Sociology Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Theatre",
+                    "Name": "Theatre",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Theatre/Theatre-Overview",
+                            "Name": "Theatre - Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Theatre/Theatre-Minor",
+                            "Name": "Theatre Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Theatre/Theatre-Courses",
+                            "Name": "Theatre Courses"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/AcademicPrograms/Women-s-and-Gender-Studies",
+                    "Name": "Women's and Gender Studies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Women-s-and-Gender-Studies/Womens-and-Gender-Studies-Overview",
+                            "Name": "Womens and Gender Studies  Overview"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Women-s-and-Gender-Studies/Womens-and-Gender-Studies-Concentration",
+                            "Name": "Womens and Gender Studies  Womens and Gender Studies Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Women-s-and-Gender-Studies/Women-s-and-Gender-Studies-Minor",
+                            "Name": "Women’s and Gender Studies Minor"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/AcademicPrograms/Women-s-and-Gender-Studies/Womens-and-Gender-Studies-Courses",
+                            "Name": "Women's and Gender Studies Courses"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Path": "/Current/College-Catalogue/Educational-Goals-and-Curriculum",
+            "Name": "Educational Goals and Curriculum",
+            "Children": [
+                {
+                    "Path": "/Current/College-Catalogue/Educational-Goals-and-Curriculum/A-Liberal-Arts-Education-at-Hamilton-College",
+                    "Name": "A Liberal Arts Education at Hamilton College",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Educational-Goals-and-Curriculum/A-Liberal-Arts-Education-at-Hamilton-College/I-Foundations",
+                            "Name": "I. Foundations"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Educational-Goals-and-Curriculum/A-Liberal-Arts-Education-at-Hamilton-College/II-Breadth-in-the-Liberal-Arts",
+                            "Name": "II. Breadth in the Liberal Arts"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Educational-Goals-and-Curriculum/A-Liberal-Arts-Education-at-Hamilton-College/III-Concentration",
+                            "Name": "III. Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Educational-Goals-and-Curriculum/A-Liberal-Arts-Education-at-Hamilton-College/IV-Senior-Program",
+                            "Name": "IV. Senior Program"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Educational-Goals-and-Curriculum/A-Liberal-Arts-Education-at-Hamilton-College/V-Student-Learning-Outcomes",
+                            "Name": "V. Student Learning Outcomes"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Educational-Goals-and-Curriculum/Academic-Advising",
+                    "Name": "Academic Advising"
+                }
+            ]
+        },
+        {
+            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations",
+            "Name": "Academic Policies and Regulations",
+            "Children": [
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree",
+                    "Name": "Requirements for the Baccalaureate Degree",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Honor-Code",
+                            "Name": "Honor Code"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Course-Units",
+                            "Name": "Course Units"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Residence",
+                            "Name": "Residence"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Time-for-Completion-of-the-Degree",
+                            "Name": "Time for Completion of the Degree"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Concentration",
+                            "Name": "Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Single-Concentration",
+                            "Name": "Single Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Double-Concentration",
+                            "Name": "Double Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Interdisciplinary-Concentration",
+                            "Name": "Interdisciplinary Concentration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Minors",
+                            "Name": "Minors"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Requirements-for-the-Baccalaureate-Degree/Senior-Program",
+                            "Name": "Senior Program"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Standards-for-Written-Work",
+                    "Name": "Standards for Written Work"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Standards-for-Oral-Communication",
+                    "Name": "Standards for Oral Communication"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Standards-for-Quantitative-Work",
+                    "Name": "Standards for Quantitative Work"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Physical-Education-Requirement",
+                    "Name": "Physical Education Requirement"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations",
+                    "Name": "Academic Performance and Expectations ",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Grades-and-Grading-Policies",
+                            "Name": "Grades and Grading Policies",
+                            "Children": [
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Grades-and-Grading-Policies/Limitation-on-Repeating-Courses",
+                                    "Name": "Limitation on Repeating Courses"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Grades-and-Grading-Policies/Grades-of-Incomplete-and-Grade-Changes",
+                                    "Name": "Grades of Incomplete and Grade Changes"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Grades-and-Grading-Policies/Grade-Appeals",
+                                    "Name": "Grade Appeals"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Grades-and-Grading-Policies/Credit-No-Credit-Option",
+                                    "Name": "Credit/No Credit Option"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Grades-and-Grading-Policies/Grade-Point-Average-GPA",
+                                    "Name": "Grade Point Average (GPA)"
+                                }
+                            ]
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Class-Attendance",
+                            "Name": "Class Attendance"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Academic-Standing",
+                            "Name": "Academic Standing",
+                            "Children": [
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Academic-Standing/Academic-Warnings",
+                                    "Name": "Academic Warnings"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Academic-Standing/Class-Status",
+                                    "Name": "Class Status"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Academic-Standing/Academic-Risk",
+                                    "Name": "Academic Risk"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Academic-Standing/Academic-Probation",
+                                    "Name": "Academic Probation"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Academic-Standing/Suspension-from-the-College-for-Academic-Deficiency",
+                                    "Name": "Suspension from the College for Academic Deficiency"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Academic-Standing/Expulsion-from-the-College-for-Academic-Deficiency",
+                                    "Name": "Expulsion from the College for Academic Deficiency"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Academic-Performance-and-Expectations/Academic-Standing/Permanent-Record",
+                                    "Name": "Permanent Record"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Conferral-of-Degrees",
+                    "Name": "Conferral of Degrees"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Course-Election-and-Exams",
+                    "Name": "Course Election and Exams",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Course-Election-and-Exams/Course-Election",
+                            "Name": "Course Election"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Course-Election-and-Exams/Course-Changes-for-Fall-and-Spring-Semesters",
+                            "Name": "Course Changes for Fall and Spring Semesters"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Course-Election-and-Exams/Independent-Study",
+                            "Name": "Independent Study"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Course-Election-and-Exams/Independent-Coverage-of-Coursework",
+                            "Name": "Independent Coverage of Coursework"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Course-Election-and-Exams/Internships",
+                            "Name": "Internships"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Course-Election-and-Exams/Reading-Period-and-Final-Examinations",
+                            "Name": "Reading Period and Final Examinations"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Study-Away-from-Hamilton",
+                    "Name": "Study Away from Hamilton",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Study-Away-from-Hamilton/Transfer-of-Credit-to-Hamilton-for-Study-Away",
+                            "Name": "Transfer of Credit to Hamilton for Study Away"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Study-Away-from-Hamilton/Off-Campus-Study-Programs",
+                            "Name": "Off-Campus Study Programs"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Study-Away-from-Hamilton/Study-Prior-to-Matriculation-at-Hamilton",
+                            "Name": "Study Prior to Matriculation at Hamilton"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Changes-to-the-Four-Year-Schedule-for-Completion-of-Degree",
+                    "Name": "Changes to the Four-Year Schedule for Completion of Degree",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Changes-to-the-Four-Year-Schedule-for-Completion-of-Degree/Acceleration",
+                            "Name": "Acceleration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Changes-to-the-Four-Year-Schedule-for-Completion-of-Degree/Leaves-of-Absence",
+                            "Name": "Leaves of Absence",
+                            "Children": [
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Changes-to-the-Four-Year-Schedule-for-Completion-of-Degree/Leaves-of-Absence/Personal-Leave-of-Absence",
+                                    "Name": "Personal Leave of Absence"
+                                },
+                                {
+                                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Changes-to-the-Four-Year-Schedule-for-Completion-of-Degree/Leaves-of-Absence/Medical-or-Psychological-Leave-of-Absence",
+                                    "Name": "Medical or Psychological Leave of Absence"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Suspension-Withdrawal-and-Readmission",
+                    "Name": "Suspension, Withdrawal and Readmission",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Suspension-Withdrawal-and-Readmission/Academic-Suspension",
+                            "Name": "Academic Suspension"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Suspension-Withdrawal-and-Readmission/Disciplinary-and-Honor-Code-Suspension",
+                            "Name": "Disciplinary and Honor Code Suspension"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Suspension-Withdrawal-and-Readmission/Withdrawal",
+                            "Name": "Withdrawal"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Suspension-Withdrawal-and-Readmission/Readmission",
+                            "Name": "Readmission"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Continuation-at-Hamilton",
+                    "Name": "Continuation at Hamilton",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Continuation-at-Hamilton/Preregistration",
+                            "Name": "Preregistration"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Continuation-at-Hamilton/Housing-Selection",
+                            "Name": "Housing Selection"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Continuation-at-Hamilton/Meal-Plan-Placement",
+                            "Name": "Meal Plan Placement"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies",
+                    "Name": "Advanced Placement Policies",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/African-American-Studies",
+                            "Name": "African American Studies"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Art",
+                            "Name": "Art"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Art-History",
+                            "Name": "Art History"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Biology",
+                            "Name": "Biology"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Chinese",
+                            "Name": "Chinese"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Chemistry",
+                            "Name": "Chemistry"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Economics",
+                            "Name": "Economics"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Environmental-Studies",
+                            "Name": "Environmental Studies"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/French-Literature-and-Language",
+                            "Name": "French Literature and Language"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/German",
+                            "Name": "German"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Government-and-World-Politics",
+                            "Name": "Government and World Politics"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/History",
+                            "Name": "History"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Human-Geography",
+                            "Name": "Human Geography"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Italian",
+                            "Name": "Italian"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Japanese",
+                            "Name": "Japanese"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Latin",
+                            "Name": "Latin"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Literature-and-Creative-Writing",
+                            "Name": "Literature and Creative Writing"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Mathematics-and-Statistics",
+                            "Name": "Mathematics"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Music-Theory",
+                            "Name": "Music Theory"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Physics",
+                            "Name": "Physics"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Psychology",
+                            "Name": "Psychology"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Advanced-Placement-Policies/Spanish-Literature-and-Language",
+                            "Name": "Spanish Literature and Language"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Special-Academic-Opportunities",
+                    "Name": "Special Academic Opportunities"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors",
+                    "Name": "Honors",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Commencement-Honors",
+                            "Name": "Commencement Honors"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Departmental-Honors",
+                            "Name": "Departmental Honors"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Phi-Beta-Kappa",
+                            "Name": "Phi Beta Kappa"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Sigma-Xi",
+                            "Name": "Sigma Xi"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Lambda-Pi-Eta",
+                            "Name": "Lambda Pi Eta"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Omicron-Delta-Epsilon",
+                            "Name": "Omicron Delta Epsilon"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Phi-Alpha-Theta",
+                            "Name": "Phi Alpha Theta"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Phi-Sigma-Iota",
+                            "Name": "Phi Sigma Iota"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Pi-Sigma-Alpha",
+                            "Name": "Pi Sigma Alpha"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Academic-Policies-and-Regulations/Honors/Psi-Chi",
+                            "Name": "Psi Chi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Path": "/Current/College-Catalogue/Financial-Information",
+            "Name": "Financial Information",
+            "Children": [
+                {
+                    "Path": "/Current/College-Catalogue/Financial-Information/College-Loan",
+                    "Name": "College Loan"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Financial-Information/Tuition-and-Fees",
+                    "Name": "Tuition and Fees",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Tuition-and-Fees/Tuition-and-Fees-Adjustments",
+                            "Name": "Tuition and Fees Adjustments",
+                            "Children": [
+                                {
+                                    "Path": "/Current/College-Catalogue/Financial-Information/Tuition-and-Fees/Tuition-and-Fees-Adjustments/Tuition-rates-and-fees-for-the-2025-26-academic-year",
+                                    "Name": "Tuition rates and fees for the 2025-26 academic year:"
+                                }
+                            ]
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Tuition-and-Fees/Tuition-Refund-Policy",
+                            "Name": "Tuition Refund Policy"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships",
+                    "Name": "Fellowships, Prizes and Prize Scholarships",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships/General-Scholarships",
+                            "Name": "General Scholarships"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships/Special-Scholarships",
+                            "Name": "Special Scholarships"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships/Other-Special-Scholarships",
+                            "Name": "Other Special Scholarships"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships/Prize-Scholarships",
+                            "Name": "Prize Scholarships"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships/Internship-and-Research-Support",
+                            "Name": "Internship and Research Support"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships/Achievement-Prizes",
+                            "Name": "Achievement Prizes"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships/Public-Speaking-and-Writing-Prizes",
+                            "Name": "Public Speaking and Writing Prizes"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Fellowships-Prizes-and-Prize-Scholarships/Fellowships-and-Scholarships",
+                            "Name": "Fellowships and Scholarships"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs",
+                    "Name": "Federal and State Assistance Programs",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Federal-Awards",
+                            "Name": "Federal Awards"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Pell-Grants",
+                            "Name": "Pell Grants"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Supplemental-Educational-Opportunity-Grants-FSEOG",
+                            "Name": "Supplemental Educational Opportunity Grants (FSEOG)"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Federal-Direct-Loan-Program",
+                            "Name": "Federal Direct Loan Program"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Federal-Direct-Student-Loans",
+                            "Name": "Federal Direct Student Loans"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Federal-Direct-Parent-Loans-PLUS",
+                            "Name": "Federal Direct Parent Loans (PLUS)"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/College-Work-Study-Program",
+                            "Name": "College Work-Study Program"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/U-S-Bureau-of-Indian-Affairs-Aid-to-Native-Americans",
+                            "Name": "U.S. Bureau of Indian Affairs Aid to Native Americans"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Veterans-Administration-VA-Educational-Benefits",
+                            "Name": "Veterans Administration (VA) Educational Benefits"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/State-Awards",
+                            "Name": "State Awards"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Tuition-Assistance-Program-TAP",
+                            "Name": "Tuition Assistance Program (TAP)"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Awards-for-Children-of-Veterans-CV",
+                            "Name": "Awards for Children of Veterans (CV)"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/State-Aid-to-Native-Americans",
+                            "Name": "State Aid to Native Americans"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Memorial-Scholarships",
+                            "Name": "Memorial Scholarships"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/NYS-Scholarship-for-Academic-Excellence",
+                            "Name": "NYS Scholarship for Academic Excellence"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/World-Trade-Center-Memorial-Scholarship",
+                            "Name": "World Trade Center Memorial Scholarship"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Financial-Information/Federal-and-State-Assistance-Programs/Arthur-O-Eve-Higher-Education-Opportunity-Program-HEOP",
+                            "Name": "Arthur O. Eve Higher Education Opportunity Program (HEOP)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Path": "/Current/College-Catalogue/Leadership",
+            "Name": "Leadership",
+            "Children": [
+                {
+                    "Path": "/Current/College-Catalogue/Leadership/Faculty",
+                    "Name": "Faculty",
+                    "Children": [
+                        {
+                            "Path": "/Current/College-Catalogue/Leadership/Faculty/Special-Appointment",
+                            "Name": "Special Appointment"
+                        },
+                        {
+                            "Path": "/Current/College-Catalogue/Leadership/Faculty/Emeriti-Emeritae",
+                            "Name": "Emeriti/Emeritae"
+                        }
+                    ]
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Leadership/Senior-Staff",
+                    "Name": "Senior Staff"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Leadership/Trustees",
+                    "Name": "Trustees"
+                }
+            ]
+        },
+        {
+            "Path": "/Current/College-Catalogue/Other-Information",
+            "Name": "Other Information",
+            "Children": [
+                {
+                    "Path": "/Current/College-Catalogue/Other-Information/Academic-Calendar",
+                    "Name": "Academic Calendar"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Other-Information/Accreditation",
+                    "Name": "Accreditation"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Other-Information/Crime-Statistics",
+                    "Name": "Crime Statistics"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Other-Information/Degree-Programs",
+                    "Name": "Degree Programs"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Other-Information/Disclaimer-Notice",
+                    "Name": "Disclaimer Notice"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Other-Information/Family-Educational-Rights-and-Privacy-Act-Annual-Notice",
+                    "Name": "Family Educational Rights and Privacy Act Annual Notice"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Other-Information/Statement-0n-non-discrimination",
+                    "Name": "Statement on Non-Discrimination"
+                },
+                {
+                    "Path": "/Current/College-Catalogue/Other-Information/Students-with-Disabilities",
+                    "Name": "Students with Disabilities"
+                }
+            ]
+        }
+    ]
+}

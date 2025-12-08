@@ -1,0 +1,111 @@
+Department: data-science
+URL: https://hamilton.smartcatalogiq.com/current/college-catalogue/academicprograms/data-science/data-science-data-science-overview
+======================================================================
+
+Data Science Overview
+Faculty
+Program Committee
+Clark Bowman
+Courtney Gibbons, director
+Karyn Doke
+Heather Kropp
+Erin Tripp
+Department/Program Goals
+The goal of the Data Science Program is to provide comprehensive training in this growing interdisciplinary field. Through courses in statistics, computing, and applied domains (e.g. government, environmental science, sociology), students explore the societal impact of data science and such ethical concerns as privacy rights and data validity.
+Department/Program Student Learning Outcomes
+Students will learn to:
+Gain proficiency in the data life cycle: creation, curation, documentation, analysis, and communication.
+Apply data science tools to real world problems and produce well documented and reproducible analyses.
+Understand the social and ethical impact of the tools used in data science.
+Concentration/Minor Description and Requirements
+A Concentration in Data Science consists of 12 courses:
+4 Required courses from Mathematics and Statistics Department:
+MATH-116
+,
+MATH-216
+,
+MATH-254
+and
+MATH-351
+.
+Note 1:  An introductory applied statistics course such as
+MATH-152
+,
+ECON-166
+,
+GOVT-230
+,
+ENVST-206
+or PSYCH/
+NEURO-201
+is a prerequisite for
+MATH-254
+.
+4 Required courses from Computer Science Department:
+CPSCI-101
+,
+CPSCI-102
+,
+CPSCI-230
+and
+CPSCI-330
+.
+A Senior Program consisting of a Senior Seminar in Mathematics and Statistics or the Senior Seminar in Computer Science.
+And one elective from each of the following
+three
+categories:
+Foundational depth:
+This is satisfied by an elective in either the Mathematics and Statistics Department or the Computer Science Department at the 300-level or above.
+Suggested courses:
+MATH-352
+– Statistical Theory and Computation
+MATH-356
+– Statistical Methods in Machine Learning
+MATH-509 – Senior Seminar in Applied Probability
+CPSCI-350 – Database Theory and Practice
+CPSCI-375
+– Artificial Intelligence
+CPSCI-380
+– Theory of Computation
+Ethics and social impact:
+This elective should feature an examination of ethical and social concerns that can arise in the collection of data and application of algorithms. Pre-approved courses are:
+ENVST-290
+: Nature and Technology
+PHIL-222
+: Race, Gender and Culture
+SOC-286
+: Sociology of Science
+GOVT-412
+: The Politics of AI: Algorithms, "Big Data," and "Humans in the Loop"
+ANTHR-259
+: Digital Technology and Social Transformations
+Domain of application:
+This elective should demonstrate how the collection, visualization and interpretation of data have been integrated to advance knowledge within a specific domain. Pre-approved courses are:
+BIO-212
+: Introduction to Bioinformatics
+BIO-214
+: Health Care Systems
+ECON-266
+: Introduction to Econometrics
+DARTS-203: Performance, Ritual and Technology
+ENVST-222
+: Environmental Spatial Analysis
+ENVST-325
+: Environmental Data Science
+Students may petition the program committee to accept a course other than those on the pre-approved list to satisfy the ethics and social impact requirement and/or the domain of application requirement by providing a written rationale indicating how the course meets the goal of the elective category.
+SSIH Requirement
+SSIH requirement can be fulfilled by taking Math 254 (with a data analysis project focused on SSIH issues) which is the natural choice for many students in this program or by taking SSIH courses offered by other departments that are pre-approved by the Math department which are listed below:
+MATH-498
+,
+ECON-166
+, HIST-226 or, for those interested in pursuing a career in education,
+EDUC-204
+,
+EDUC-206
+,
+EDUC-339
+or EDUC-415.
+Credit/No Credit Policy
+Only Math 116 or Math 216 can be taken on a CR/NC basis and can be applied towards the concentration.
+Honors Policy
+Students may earn honors by completing courses that satisfy the concentration with an average of 3.6 or higher, by taking a fourth full-credit elective that is at the 300 level or higher, and by making a public presentation to the department on a Data Science topic (outside of class work) during their senior year.

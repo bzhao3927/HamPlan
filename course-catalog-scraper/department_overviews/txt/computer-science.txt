@@ -1,0 +1,49 @@
+Department: computer-science
+URL: https://hamilton.smartcatalogiq.com/current/college-catalogue/academicprograms/computer-science/computer-science-overview
+======================================================================
+
+Overview
+Faculty
+Mark Bailey
+Mason Brown
+Shawn Chen
+Karyn Doke
+Han Dong
+Thomas Helmuth (on leave 2025-26)
+Sarah Morrison-Smith (on leave 2025-26)
+Darren Strash, chair
+Wenbo Wang
+Department/Program Goals
+The goal of the Computer Science Department is to prepare students to adapt and excel in an ever-changing field by combining a strong foundation in mathematics, logic, and language with exposure to the latest innovations in technology.
+Department/Program Student Learning Outcomes
+Students Will Learn to:
+Apply core principles of program execution by developing an assembler
+Demonstrate knowledge of programming language environments by implementing an interpreter
+Solve a given problem by writing an efficient algorithm that uses an appropriate data structure, analyzing its running time, and demonstrating that their algorithm works
+Demonstrate their mastery of appropriate programming constructs in written code
+Concentration/Minor Description and Requirements
+A concentration in computer science consists of
+CPSCI-101
+,
+CPSCI-102
+,
+CPSCI-200
+,
+CPSCI-220
+,
+CPSCI-230
+,
+CPSCI-240
+,
+CPSCI-410
+, and two 300-level courses.
+Concentrators fulfill the Senior Program requirement by taking 410. Students may earn departmental honors by a concentration average of not less than 3.3, earning at least four credits in electives numbered 298 and above in the department, and achieving an average of not less than 3.5 in all 300-level courses taken in the department.
+Students concentrating in Computer Science satisfy the SSIH requirement by selecting a course, in consultation with their academic advisor, from any department on campus that would help the individual student to address and expand his/her understanding of SSIH issues. The department will approve course selections. This requirement must be fulfilled by the end of the studentâs junior year.
+A minor in computer science consists of five courses:
+CPSCI-101
+CPSCI-102
+, two courses numbered 210 or higher, and one course numbered 300 or higher.
+CPSCI-290
+and
+CPSCI-298
+may not be counted towards satisfying the requirements for the minor.

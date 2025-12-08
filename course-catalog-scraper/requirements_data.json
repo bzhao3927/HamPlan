@@ -1,0 +1,4970 @@
+[
+  {
+    "program_title": "Africana Studies Concentration",
+    "requirements": [
+      {
+        "section": "A Concentration in Africana Studies consists of at least 9 courses",
+        "courses": [
+          {
+            "course_number": "AFRST-112 / PHIL-112",
+            "title": "Fundamentals of Race",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-130",
+            "title": "Black Spaces",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-190",
+            "title": "Exploring Social Justice",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take 1 course from the following:",
+        "courses": [
+          {
+            "course_number": "AFRST-112 / PHIL-112",
+            "title": "Fundamentals of Race",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-130",
+            "title": "Black Spaces",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-190",
+            "title": "Exploring Social Justice",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must complete:",
+        "courses": []
+      },
+      {
+        "section": "Two courses selected from among:",
+        "courses": [
+          {
+            "course_number": "AFRST-221",
+            "title": "Africa in Diaspora",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-224 / WMGST-224",
+            "title": "Gender, Space and Identity in the African Diaspora",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-306",
+            "title": "Afro Futures, Decolonization",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-382",
+            "title": "Global African Social Movements",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-405 / WMGST-405",
+            "title": "Seminar: Black Feminist Thought",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Concentrators must complete both courses below for the Senior Program:",
+        "courses": [
+          {
+            "course_number": "AFRST-550",
+            "title": "Senior Program",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Three electives selected from African Studies or other approved courses",
+        "courses": []
+      },
+      {
+        "section": "SSIH Requirement",
+        "courses": []
+      }
+    ],
+    "program_name": "Africana Studies Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Africana-Studies/Africana-Studies-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/africana-studies/africana-studies-concentration"
+  },
+  {
+    "program_title": "Africana Studies Minor",
+    "requirements": [
+      {
+        "section": "A minor in Africana Studies consists of 5 courses",
+        "courses": [
+          {
+            "course_number": "AFRST-112 / PHIL-112",
+            "title": "Fundamentals of Race",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-130",
+            "title": "Black Spaces",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-190",
+            "title": "Exploring Social Justice",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take 1 course from",
+        "courses": [
+          {
+            "course_number": "AFRST-112 / PHIL-112",
+            "title": "Fundamentals of Race",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-130",
+            "title": "Black Spaces",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-190",
+            "title": "Exploring Social Justice",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Complete",
+        "courses": []
+      },
+      {
+        "section": "Take one course selected from",
+        "courses": [
+          {
+            "course_number": "AFRST-221",
+            "title": "Africa in Diaspora",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-224 / WMGST-224",
+            "title": "Gender, Space and Identity in the African Diaspora",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-382",
+            "title": "Global African Social Movements",
+            "credits": "1"
+          },
+          {
+            "course_number": "AFRST-405 / WMGST-405",
+            "title": "Seminar: Black Feminist Thought",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Two electives from African Studies Courses",
+        "courses": []
+      }
+    ],
+    "program_name": "Africana Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Africana-Studies/Africana-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/africana-studies/africana-studies-minor"
+  },
+  {
+    "program_title": "American Indian and Indigenous Studies Minor",
+    "requirements": [
+      {
+        "section": "The minor in American Indian and Indigenous Studies consists of five courses including two Core Courses and three Context Courses.  At least one of the five courses must be at the 300 level.",
+        "courses": [
+          {
+            "course_number": "AMST-128",
+            "title": "Indigenous Lifeways",
+            "credits": "1"
+          },
+          {
+            "course_number": "AMST-129 / RELST-129",
+            "title": "Native American Spiritualities",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-310 / AMST-310",
+            "title": "Seminar: Indigenous Ecologies",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-265 / LIT-265",
+            "title": "Indigenous North American Literature",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-305",
+            "title": "Native and Indigenous Political Thought",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Core Courses: Choose two courses",
+        "courses": [
+          {
+            "course_number": "AMST-128",
+            "title": "Indigenous Lifeways",
+            "credits": "1"
+          },
+          {
+            "course_number": "AMST-129 / RELST-129",
+            "title": "Native American Spiritualities",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-310 / AMST-310",
+            "title": "Seminar: Indigenous Ecologies",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-265 / LIT-265",
+            "title": "Indigenous North American Literature",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-305",
+            "title": "Native and Indigenous Political Thought",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Context Courses: Choose three courses",
+        "courses": [
+          {
+            "course_number": "AMST-239",
+            "title": "Native American Religious Freedom",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARCH-243",
+            "title": "North American Archaeology",
+            "credits": "1"
+          },
+          {
+            "course_number": "LIT-269 / ENVST -269",
+            "title": "Climate Fiction and Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-392 / LIT-392",
+            "title": "Decolonizing the Anthropocene",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-393 / LIT-393",
+            "title": "Multispecies Kinship",
+            "credits": "1"
+          },
+          {
+            "course_number": "HIST-105 / LTAM-105",
+            "title": "Introduction to Latin American Studies: History, Society, and Culture",
+            "credits": "1"
+          },
+          {
+            "course_number": "HIST-126 / HSPST-126 / LTAM-126 / MDRST-126",
+            "title": "Conquest of the Americas",
+            "credits": "1"
+          },
+          {
+            "course_number": "HIST-225 / LTAM-225 / MDRST-225",
+            "title": "The Scientific Revolution: Making Knowledge in the Early Modern World",
+            "credits": "1"
+          },
+          {
+            "course_number": "HIST-327",
+            "title": "Mexico-Tenochtitlan: The City and the World, 1300-1800",
+            "credits": "1"
+          },
+          {
+            "course_number": "HIST-351",
+            "title": "Race, Science, and the Origins of the Modern World",
+            "credits": "1"
+          },
+          {
+            "course_number": "HIST-355 / ENVST-355 / LTAM-355 / MDRST-355",
+            "title": "Bioprospecting and the Ecologies of Medicine",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "American Indian and Indigenous Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/American-Indian-and-Indigenous-Studies/American-Indian-and-Indigenous-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/american-indian-and-indigenous-studies/american-indian-and-indigenous-studies-minor"
+  },
+  {
+    "program_title": "American Studies Concentration",
+    "requirements": [
+      {
+        "section": "The concentration in American Studies consists of 10 courses",
+        "courses": [
+          {
+            "course_number": "AMST-420",
+            "title": "Seminar in American Studies",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "AMST-420",
+            "title": "Seminar in American Studies",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take two courses in American Literature",
+        "courses": []
+      },
+      {
+        "section": "Take two courses in American History",
+        "courses": []
+      },
+      {
+        "section": "Four electives:",
+        "courses": []
+      }
+    ],
+    "program_name": "American Studies Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/American-Studies/American-Studies-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/american-studies/american-studies-concentration"
+  },
+  {
+    "program_title": "American Studies Minor",
+    "requirements": [
+      {
+        "section": "A minor in American Studies consists of five courses",
+        "courses": []
+      },
+      {
+        "section": "Take:",
+        "courses": []
+      },
+      {
+        "section": "Take one course in US Literature or US History:",
+        "courses": []
+      },
+      {
+        "section": "Take three electives:",
+        "courses": []
+      }
+    ],
+    "program_name": "American Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/American-Studies/American-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/american-studies/american-studies-minor"
+  },
+  {
+    "program_title": "Cultural Anthropology Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Cultural Anthropology consists of a minimum of 10 courses",
+        "courses": [
+          {
+            "course_number": "ANTHR-113",
+            "title": "Principles of Social and Cultural Anthropology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-358",
+            "title": "History of Anthropological Ideas",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-500",
+            "title": "Senior Seminar in Cultural Anthropology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-501",
+            "title": "Senior Thesis Project in Cultural Anthropology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "ANTHR-113",
+            "title": "Principles of Social and Cultural Anthropology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-358",
+            "title": "History of Anthropological Ideas",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-500",
+            "title": "Senior Seminar in Cultural Anthropology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-501",
+            "title": "Senior Thesis Project in Cultural Anthropology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take five other Anthropology or Archaeology courses",
+        "courses": []
+      }
+    ],
+    "program_name": "Cultural Anthropology Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Cultural-Anthropology-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/anthropology/cultural-anthropology-concentration"
+  },
+  {
+    "program_title": "Cultural Anthropology Minor",
+    "requirements": [
+      {
+        "section": "A minor in anthropology consists of five courses",
+        "courses": [
+          {
+            "course_number": "ANTHR-113",
+            "title": "Principles of Social and Cultural Anthropology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take:",
+        "courses": [
+          {
+            "course_number": "ANTHR-113",
+            "title": "Principles of Social and Cultural Anthropology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take two courses at the 200-level or 300-level in Anthropology or Archaeology",
+        "courses": []
+      },
+      {
+        "section": "Take one 300-level course in Anthropology or Archaeology:",
+        "courses": []
+      }
+    ],
+    "program_name": "Cultural Anthropology Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Cultural-Anthropology-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/anthropology/cultural-anthropology-minor"
+  },
+  {
+    "program_title": "Archaeology Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in archaeology consists of a minimum of 10 courses",
+        "courses": [
+          {
+            "course_number": "ANTHR-113",
+            "title": "Principles of Social and Cultural Anthropology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARCH-325 / GEARC-325",
+            "title": "Analytic Methods in Archaeology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-358",
+            "title": "History of Anthropological Ideas",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARCH-510",
+            "title": "Senior Seminar in Archaeology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARCH-511",
+            "title": "Senior Thesis Project in Archaeology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "ANTHR-113",
+            "title": "Principles of Social and Cultural Anthropology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARCH-325 / GEARC-325",
+            "title": "Analytic Methods in Archaeology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-358",
+            "title": "History of Anthropological Ideas",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARCH-510",
+            "title": "Senior Seminar in Archaeology",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARCH-511",
+            "title": "Senior Thesis Project in Archaeology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take four other courses in Anthropology or Archaeology:",
+        "courses": []
+      }
+    ],
+    "program_name": "Archaeology Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Anthropology/Archaeology-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/anthropology/archaeology-concentration"
+  },
+  {
+    "program_title": "Art Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Art consists of 11 courses",
+        "courses": [
+          {
+            "course_number": "ART-160",
+            "title": "Figure Drawing",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "ART-160",
+            "title": "Figure Drawing",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "ART-233",
+            "title": "Introduction to Printmaking",
+            "credits": "1"
+          },
+          {
+            "course_number": "ART-235",
+            "title": "Intaglio Printmaking",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "ART-107",
+            "title": "Art and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "ART-109",
+            "title": "Introduction to Sculpture",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "ART-213 / DARTS-213",
+            "title": "Introduction to Video",
+            "credits": "1"
+          },
+          {
+            "course_number": "ART-221 / DARTS-221",
+            "title": "Introduction to Animation",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All Concentrators must take:",
+        "courses": [
+          {
+            "course_number": "ART-501",
+            "title": "Senior Project",
+            "credits": "1"
+          },
+          {
+            "course_number": "ART-502",
+            "title": "Senior Project Exhibition",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one 300-level course in the same area as the Senior Project before the end of Junior year",
+        "courses": []
+      },
+      {
+        "section": "Take one Art Elective (may not be a cross-listed course)",
+        "courses": []
+      },
+      {
+        "section": "Take one Art History course that spans a broad range of periods",
+        "courses": []
+      },
+      {
+        "section": "Take one other Art History course",
+        "courses": []
+      },
+      {
+        "section": "SSIH Requirement",
+        "courses": []
+      }
+    ],
+    "program_name": "Art Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Art/Art-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/art/art-concentration"
+  },
+  {
+    "program_title": "Art Minor",
+    "requirements": [
+      {
+        "section": "A minor in Art consists of Five courses",
+        "courses": [
+          {
+            "course_number": "ART-160",
+            "title": "Figure Drawing",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one course:",
+        "courses": [
+          {
+            "course_number": "ART-160",
+            "title": "Figure Drawing",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one course in Art History:",
+        "courses": []
+      },
+      {
+        "section": "Choose Three additional Studio Art courses (which are not repeatable and are not all in the same media area):",
+        "courses": []
+      }
+    ],
+    "program_name": "Art Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Art/Art-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/art/art-minor"
+  },
+  {
+    "program_title": "Art History Concentration",
+    "requirements": [
+      {
+        "section": "Beginning with the Class of 2028, a concentration in Art History consists of a minimum of 10 courses",
+        "courses": []
+      },
+      {
+        "section": "Take two courses at the 100 level",
+        "courses": []
+      },
+      {
+        "section": "Take four courses at the 200 level",
+        "courses": []
+      },
+      {
+        "section": "All concentrators must take",
+        "courses": []
+      },
+      {
+        "section": "Take one 300 level course",
+        "courses": []
+      },
+      {
+        "section": "Take a 400 level seminar",
+        "courses": []
+      },
+      {
+        "section": "Take one course in Studio Art:",
+        "courses": []
+      },
+      {
+        "section": "SSIH Requirement",
+        "courses": [
+          {
+            "course_number": "ARTH-125 / ASNST-125 / MEIWS-125",
+            "title": "Image, Spire, Dome: Art in South Asia",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-152",
+            "title": "Intersections in Global Art",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-231 / WMGST-231",
+            "title": "Art & Feminism",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-223",
+            "title": "City Senses: Urbanism Beyond Visual Spectacle",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-237 / CNMS-237 / HIST-237",
+            "title": "Visual Culture of World War II",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-246 / ASNST-246 / MEIWS-246",
+            "title": "Collecting India",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-287",
+            "title": "Art & Social Change",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-295",
+            "title": "History of Performance Art",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-305 / DARTS-305",
+            "title": "Documentary Photography",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-320 / MDRST-320",
+            "title": "Race and Racism in the Middle Ages",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARTH-330",
+            "title": "Theories and Methods of Art History",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "Art History - Art History Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Art-History/Art-History-Art-History-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/art-history/art-history-art-history-concentration"
+  },
+  {
+    "program_title": "Biochemistry Concentration",
+    "requirements": [
+      {
+        "section": "The concentration in Biochemistry consists of 10 credits",
+        "courses": [
+          {
+            "course_number": "BIO-100C",
+            "title": "Explorations of Biology: Life at the extreme",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100G",
+            "title": "Explorations in Biology: Reproducing Life",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one course from the Biology 100-sequence",
+        "courses": [
+          {
+            "course_number": "BIO-100C",
+            "title": "Explorations of Biology: Life at the extreme",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100G",
+            "title": "Explorations in Biology: Reproducing Life",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": []
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "CHEM-190",
+            "title": "Organic Chemistry I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-255",
+            "title": "Organic Chemistry II",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-211 / NEURO-211",
+            "title": "Genes, Molecules, and Cells",
+            "credits": "1"
+          },
+          {
+            "course_number": "BICHM-270 / CHEM-270 / BIO-270",
+            "title": "Biological Chemistry",
+            "credits": "1"
+          },
+          {
+            "course_number": "BICHM-346 / BIO-346",
+            "title": "Biochemistry",
+            "credits": "1"
+          },
+          {
+            "course_number": "BICHM-550",
+            "title": "Senior Thesis I",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose either:",
+        "courses": [
+          {
+            "course_number": "BICHM-322 / CHEM-322",
+            "title": "Physical Chemistry II",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one full credit from the list provided below. Note that Chem 322, 327, 331, and 362 are 0.5 credit courses.",
+        "courses": [
+          {
+            "course_number": "BIO-202",
+            "title": "Applied Biostatistics",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-203",
+            "title": "Biomaterials",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO -205 / PSYCH-205 / NEURO-205",
+            "title": "Fundamentals of Neurobiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-212",
+            "title": "Introduction to Bioinformatics",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-221",
+            "title": "Microbiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-234",
+            "title": "Mechanisms of Developmental Evolution",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-263",
+            "title": "General Medical Microbiology and Infectious Disease",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-331 / NEURO-331",
+            "title": "Physiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-330 / PSYCH-330 / NEURO-330",
+            "title": "Systems Neuroscience",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-334 / NEURO-334",
+            "title": "Developmental Genetics",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-336",
+            "title": "Cell Biology",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-348",
+            "title": "Advanced Genetics",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-355",
+            "title": "Molecular Methods in Microbial Ecology",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-425",
+            "title": "Seminar in Epigenetics",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-428",
+            "title": "Seminar in Genetic Medicine",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-429",
+            "title": "Seminar in Cancer Biology",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-443",
+            "title": "Seminar in Bioinformatics",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-454",
+            "title": "Molecular Genetics",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-321 / BICHM-321",
+            "title": "Physical Chemistry I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-322 / BICHM-322",
+            "title": "Physical Chemistry II",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-327",
+            "title": "Metals in Biology",
+            "credits": ".50"
+          },
+          {
+            "course_number": "CHEM-329",
+            "title": "Antibiotics",
+            "credits": "0.5"
+          },
+          {
+            "course_number": "BICHM-331 / CHEM-331",
+            "title": "Biochemistry of Marine Mammals",
+            "credits": ".5"
+          },
+          {
+            "course_number": "CHEM-360",
+            "title": "Organic Synthesis Toward Improved Human Health",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-362",
+            "title": "Structural Biology",
+            "credits": "0.5"
+          },
+          {
+            "course_number": "CHEM-364",
+            "title": "Enzyme Reaction Mechanisms",
+            "credits": "0.5"
+          },
+          {
+            "course_number": "CHEM-365",
+            "title": "Chemical Biology",
+            "credits": "0.5"
+          }
+        ]
+      },
+      {
+        "section": "SSIH Requirement",
+        "courses": []
+      }
+    ],
+    "program_name": "BiochemistryMolecular Biology - Biochemistry Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Biochemistry-Molecular-Biology/BiochemistryMolecular-Biology-Biochemistry-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/biochemistry-molecular-biology/biochemistrymolecular-biology-biochemistry-concentration"
+  },
+  {
+    "program_title": "Biology Concentration",
+    "requirements": [
+      {
+        "section": "A Biology concentration consists of 12 credits",
+        "courses": [
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-550",
+            "title": "Senior Thesis I",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take one BIO-100 and BIO-550, the Senior Thesis:",
+        "courses": [
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-550",
+            "title": "Senior Thesis I",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take at least four additional courses with laboratories, at least one from within each of the following curricular categories:",
+        "courses": []
+      },
+      {
+        "section": "Take two credits in Chemistry",
+        "courses": [
+          {
+            "course_number": "CHEM-190",
+            "title": "Organic Chemistry I",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Students must take three biology courses that carry an SSIH designation.",
+        "courses": []
+      }
+    ],
+    "program_name": "Biology - Biology Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Biology/Biology-Biology-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/biology/biology-biology-concentration"
+  },
+  {
+    "program_title": "Biology Minor",
+    "requirements": [
+      {
+        "section": "A minor in biology consists of five biology courses",
+        "courses": [
+          {
+            "course_number": "BIO-100B",
+            "title": "Explorations in Biology: Frankenstein Fish",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one course from BIO-100:",
+        "courses": [
+          {
+            "course_number": "BIO-100B",
+            "title": "Explorations in Biology: Frankenstein Fish",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Additional Biology electives",
+        "courses": []
+      }
+    ],
+    "program_name": "Biology Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Biology/Biology-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/biology/biology-minor"
+  },
+  {
+    "program_title": "Chemical Physics Concentration",
+    "requirements": [
+      {
+        "section": "The concentration consists of 11 courses.",
+        "courses": [
+          {
+            "course_number": "CHEM-190",
+            "title": "Organic Chemistry I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-321 / BICHM-321",
+            "title": "Physical Chemistry I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-322 / BICHM-322",
+            "title": "Physical Chemistry II",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-190",
+            "title": "The Mechanical Universe",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-195",
+            "title": "Waves and Fields",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-290",
+            "title": "Quantum Physics",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-295",
+            "title": "Electromagnetism",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "CHEM-190",
+            "title": "Organic Chemistry I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-321 / BICHM-321",
+            "title": "Physical Chemistry I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-322 / BICHM-322",
+            "title": "Physical Chemistry II",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-190",
+            "title": "The Mechanical Universe",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-195",
+            "title": "Waves and Fields",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-290",
+            "title": "Quantum Physics",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-295",
+            "title": "Electromagnetism",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "SSIH course in Physics or Chemistry: Choose one of the following",
+        "courses": [
+          {
+            "course_number": "PHYS-348 / CHEM-348",
+            "title": "Science, Technology, and Society",
+            "credits": "0.5"
+          },
+          {
+            "course_number": "CHEM-348 / PHYS-348",
+            "title": "Science, Technology, and Society",
+            "credits": "0.5"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "PHYS-390",
+            "title": "Research Seminar",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take a Senior Project chosen in consultation with the Committee of the appropriate Department",
+        "courses": []
+      }
+    ],
+    "program_name": "Chemical Physics - Chemical Physics Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Chemical-Physics/Chemical-Physics-Chemical-Physics-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/chemical-physics/chemical-physics-chemical-physics-concentration"
+  },
+  {
+    "program_title": "Chemistry Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Chemistry consists of 10 credits, including the following courses",
+        "courses": []
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": []
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "CHEM-270 / BICHM-270",
+            "title": "Biological Chemistry",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "CHEM-322 / BICHM-322",
+            "title": "Physical Chemistry II",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take",
+        "courses": [
+          {
+            "course_number": "CHEM-255",
+            "title": "Organic Chemistry II",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-325",
+            "title": "Physical Methods for Chemical Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-348 / PHYS-348",
+            "title": "Science, Technology, and Society",
+            "credits": "0.5"
+          },
+          {
+            "course_number": "CHEM-371",
+            "title": "Research Methods in Chemistry",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-551",
+            "title": "",
+            "credits": ""
+          }
+        ]
+      },
+      {
+        "section": "Take one additional credit at the 300-level or 400-level in Chemistry",
+        "courses": []
+      }
+    ],
+    "program_name": "Chemistry Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Chemistry/Chemistry-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/chemistry/chemistry-concentration"
+  },
+  {
+    "program_title": "Chemistry Minor",
+    "requirements": [
+      {
+        "section": "A minor in Chemistry consists of five credits",
+        "courses": []
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": []
+      },
+      {
+        "section": "Must complete:",
+        "courses": [
+          {
+            "course_number": "CHEM-255",
+            "title": "Organic Chemistry II",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one credit at the 300-level in Chemistry",
+        "courses": []
+      },
+      {
+        "section": "Take one additional credit at the 200-level in Chemistry",
+        "courses": []
+      }
+    ],
+    "program_name": "Chemistry Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Chemistry/Chemistry-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/chemistry/chemistry-minor"
+  },
+  {
+    "program_title": "Computer Science Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Computer Science consists of 9 courses:",
+        "courses": [
+          {
+            "course_number": "CPSCI-102",
+            "title": "Design Principles",
+            "credits": "1"
+          },
+          {
+            "course_number": "CPSCI-200",
+            "title": "Social, Structural, and Institutional Hierarchies",
+            "credits": "0"
+          },
+          {
+            "course_number": "CPSCI-220",
+            "title": "Principles of Programming Languages",
+            "credits": "1"
+          },
+          {
+            "course_number": "CPSCI-230",
+            "title": "Algorithms and Data Structures",
+            "credits": "1"
+          },
+          {
+            "course_number": "CPSCI-240",
+            "title": "Computer Organization and Assembly Language",
+            "credits": "1"
+          },
+          {
+            "course_number": "CPSCI-410",
+            "title": "Senior Seminar",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take",
+        "courses": [
+          {
+            "course_number": "CPSCI-102",
+            "title": "Design Principles",
+            "credits": "1"
+          },
+          {
+            "course_number": "CPSCI-200",
+            "title": "Social, Structural, and Institutional Hierarchies",
+            "credits": "0"
+          },
+          {
+            "course_number": "CPSCI-220",
+            "title": "Principles of Programming Languages",
+            "credits": "1"
+          },
+          {
+            "course_number": "CPSCI-230",
+            "title": "Algorithms and Data Structures",
+            "credits": "1"
+          },
+          {
+            "course_number": "CPSCI-240",
+            "title": "Computer Organization and Assembly Language",
+            "credits": "1"
+          },
+          {
+            "course_number": "CPSCI-410",
+            "title": "Senior Seminar",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose two 300-level courses",
+        "courses": []
+      }
+    ],
+    "program_name": "Computer Science - Computer Science Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Computer-Science/Computer-Science-Computer-Science-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/computer-science/computer-science-computer-science-concentration"
+  },
+  {
+    "program_title": "Computer Science Minor",
+    "requirements": [
+      {
+        "section": "A minor in Computer Science consists of five courses",
+        "courses": []
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": []
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": []
+      },
+      {
+        "section": "Take two courses numbered CPSCI-210 or higher:",
+        "courses": []
+      },
+      {
+        "section": "Take one course number CPSCI-300 or higher",
+        "courses": []
+      },
+      {
+        "section": "CPSCI-290 and CPSCI-298 may not be counted towards satisfying the requirements for the minor",
+        "courses": []
+      }
+    ],
+    "program_name": "Computer Science - Computer Science Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Computer-Science/Computer-Science-Computer-Science-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/computer-science/computer-science-computer-science-minor"
+  },
+  {
+    "program_title": "Dance Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Dance consists of",
+        "courses": [
+          {
+            "course_number": "DANCE-203",
+            "title": "Movement Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-205",
+            "title": "Kinesiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-305",
+            "title": "Composition",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-307",
+            "title": "Choreography",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must complete:",
+        "courses": [
+          {
+            "course_number": "DANCE-203",
+            "title": "Movement Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-205",
+            "title": "Kinesiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-305",
+            "title": "Composition",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-307",
+            "title": "Choreography",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "DANCE-560",
+            "title": "Senior Performance/Choreography",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take Four semesters of Technique:",
+        "courses": []
+      }
+    ],
+    "program_name": "Dance and Movement Studies - Dance Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Dance-and-Movement-Studies/Dance-and-Movement-Studies-Dance-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/dance-and-movement-studies/dance-and-movement-studies-dance-concentration"
+  },
+  {
+    "program_title": "Dance Minor",
+    "requirements": [
+      {
+        "section": "A minor in Dance consists of five courses",
+        "courses": [
+          {
+            "course_number": "DANCE-203",
+            "title": "Movement Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-205",
+            "title": "Kinesiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-305",
+            "title": "Composition",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-307",
+            "title": "Choreography",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose three of the following course:",
+        "courses": [
+          {
+            "course_number": "DANCE-203",
+            "title": "Movement Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-205",
+            "title": "Kinesiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-305",
+            "title": "Composition",
+            "credits": "1"
+          },
+          {
+            "course_number": "DANCE-307",
+            "title": "Choreography",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take Two semesters of:",
+        "courses": []
+      }
+    ],
+    "program_name": "Dance Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Dance-and-Movement-Studies/Dance-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/dance-and-movement-studies/dance-minor"
+  },
+  {
+    "program_title": "Chinese Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Chinese includes up to six courses selected from the list below or approved by the department.",
+        "courses": [
+          {
+            "course_number": "CHNSE-140",
+            "title": "Fourth-Term Chinese",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-160 / CNMS-160",
+            "title": "The Chinese-Speaking World in Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-165",
+            "title": "Americans & Chinese: Case Studies of Cross-Cultural Communication",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-169",
+            "title": "Psychology of Language Learning",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-200",
+            "title": "Third-Year Chinese I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-220",
+            "title": "Advanced Chinese II",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-240",
+            "title": "Exploring the Roots of Contemporary Issues in China",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-243 / CNMS-243",
+            "title": "East Asian Women in Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-380 / CNMS-380",
+            "title": "Seminar: Transcultural Chinese-Language Cinema and Hollywood",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-550",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "CHNSE-140",
+            "title": "Fourth-Term Chinese",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-160 / CNMS-160",
+            "title": "The Chinese-Speaking World in Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-165",
+            "title": "Americans & Chinese: Case Studies of Cross-Cultural Communication",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-169",
+            "title": "Psychology of Language Learning",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-200",
+            "title": "Third-Year Chinese I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-220",
+            "title": "Advanced Chinese II",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-240",
+            "title": "Exploring the Roots of Contemporary Issues in China",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-243 / CNMS-243",
+            "title": "East Asian Women in Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-380 / CNMS-380",
+            "title": "Seminar: Transcultural Chinese-Language Cinema and Hollywood",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-550",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "A concentration in Chinese includes at least two courses chosen from the list below or approved by the department, typically taken during the studentâs senior year.",
+        "courses": [
+          {
+            "course_number": "CHNSE-438",
+            "title": "Filming Chinese Identities",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-442 / CNMS-442",
+            "title": "Cinematic Heroes and Heroines in Post-Mao China",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-446",
+            "title": "Understanding Taiwan through Film",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "CHNSE-438",
+            "title": "Filming Chinese Identities",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-442 / CNMS-442",
+            "title": "Cinematic Heroes and Heroines in Post-Mao China",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-446",
+            "title": "Understanding Taiwan through Film",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "A concentration in Chinese includes a senior thesis completed in the studentâs senior year.",
+        "courses": []
+      },
+      {
+        "section": "",
+        "courses": []
+      },
+      {
+        "section": "A minor in Chinese includes up to four courses selected from the list below or approved by the department.",
+        "courses": [
+          {
+            "course_number": "CHNSE-140",
+            "title": "Fourth-Term Chinese",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-160 / CNMS-160",
+            "title": "The Chinese-Speaking World in Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-165",
+            "title": "Americans & Chinese: Case Studies of Cross-Cultural Communication",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-169",
+            "title": "Psychology of Language Learning",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-200",
+            "title": "Third-Year Chinese I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-220",
+            "title": "Advanced Chinese II",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-240",
+            "title": "Exploring the Roots of Contemporary Issues in China",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-243 / CNMS-243",
+            "title": "East Asian Women in Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-380 / CNMS-380",
+            "title": "Seminar: Transcultural Chinese-Language Cinema and Hollywood",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "CHNSE-140",
+            "title": "Fourth-Term Chinese",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-160 / CNMS-160",
+            "title": "The Chinese-Speaking World in Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-165",
+            "title": "Americans & Chinese: Case Studies of Cross-Cultural Communication",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-169",
+            "title": "Psychology of Language Learning",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-200",
+            "title": "Third-Year Chinese I",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-220",
+            "title": "Advanced Chinese II",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-240",
+            "title": "Exploring the Roots of Contemporary Issues in China",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-243 / CNMS-243",
+            "title": "East Asian Women in Film",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-380 / CNMS-380",
+            "title": "Seminar: Transcultural Chinese-Language Cinema and Hollywood",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "A minor in Chinese includes at least one course selected from the list below or approved by the department, typically taken during the studentâs senior year.",
+        "courses": [
+          {
+            "course_number": "CHNSE-438",
+            "title": "Filming Chinese Identities",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-442 / CNMS-442",
+            "title": "Cinematic Heroes and Heroines in Post-Mao China",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-446",
+            "title": "Understanding Taiwan through Film",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "CHNSE-438",
+            "title": "Filming Chinese Identities",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-442 / CNMS-442",
+            "title": "Cinematic Heroes and Heroines in Post-Mao China",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHNSE-446",
+            "title": "Understanding Taiwan through Film",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "East Asian Languages and Literatures - Chinese Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/East-Asian-Languages-and-Literatures/East-Asian-Languages-and-Literatures-Chinese-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/east-asian-languages-and-literatures/east-asian-languages-and-literatures-chinese-concentration"
+  },
+  {
+    "program_title": "Japanese Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Japanese consists of nine courses",
+        "courses": [
+          {
+            "course_number": "JAPN-140",
+            "title": "Fourth-Term Japanese",
+            "credits": "1"
+          },
+          {
+            "course_number": "JAPN-200",
+            "title": "Advanced Japanese I",
+            "credits": "1"
+          },
+          {
+            "course_number": "JAPN-220",
+            "title": "Advanced Japanese II",
+            "credits": "1"
+          },
+          {
+            "course_number": "JAPN-401",
+            "title": "Selected Readings in Japanese",
+            "credits": "1"
+          },
+          {
+            "course_number": "JAPN-500",
+            "title": "Japanese Seminar: Advanced Writing and Research",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take JAPN-130 or higher",
+        "courses": [
+          {
+            "course_number": "JAPN-140",
+            "title": "Fourth-Term Japanese",
+            "credits": "1"
+          },
+          {
+            "course_number": "JAPN-200",
+            "title": "Advanced Japanese I",
+            "credits": "1"
+          },
+          {
+            "course_number": "JAPN-220",
+            "title": "Advanced Japanese II",
+            "credits": "1"
+          },
+          {
+            "course_number": "JAPN-401",
+            "title": "Selected Readings in Japanese",
+            "credits": "1"
+          },
+          {
+            "course_number": "JAPN-500",
+            "title": "Japanese Seminar: Advanced Writing and Research",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Three electives at the 200- or 300-level",
+        "courses": []
+      }
+    ],
+    "program_name": "East Asian Languages and Literatures - Japanese Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/East-Asian-Languages-and-Literatures/East-Asian-Languages-and-Literatures-Japanese-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/east-asian-languages-and-literatures/east-asian-languages-and-literatures-japanese-concentration"
+  },
+  {
+    "program_title": "Economics Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Economics consists of nine courses",
+        "courses": [
+          {
+            "course_number": "ECON-166",
+            "title": "Economic Theory and Evidence",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-266",
+            "title": "Introduction to Econometrics",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-275",
+            "title": "Microeconomic Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-285",
+            "title": "Macroeconomic Theory",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take the following five core course:",
+        "courses": [
+          {
+            "course_number": "ECON-166",
+            "title": "Economic Theory and Evidence",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-266",
+            "title": "Introduction to Econometrics",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-275",
+            "title": "Microeconomic Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-285",
+            "title": "Macroeconomic Theory",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take two electives at the 300 level or higher.",
+        "courses": []
+      }
+    ],
+    "program_name": "Economics - Economics Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Economics/Economics-Economics-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/economics/economics-economics-concentration"
+  },
+  {
+    "program_title": "Economics Minor",
+    "requirements": [
+      {
+        "section": "A minor in Economics consists of four core courses and one additional Economics course",
+        "courses": [
+          {
+            "course_number": "ECON-166",
+            "title": "Economic Theory and Evidence",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-275",
+            "title": "Microeconomic Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-285",
+            "title": "Macroeconomic Theory",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take the following four core courses:",
+        "courses": [
+          {
+            "course_number": "ECON-166",
+            "title": "Economic Theory and Evidence",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-275",
+            "title": "Microeconomic Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-285",
+            "title": "Macroeconomic Theory",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one additional Economics course",
+        "courses": []
+      }
+    ],
+    "program_name": "Economics Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Economics/Economics-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/economics/economics-minor"
+  },
+  {
+    "program_title": "Environmental Studies Concentration",
+    "requirements": [
+      {
+        "section": "The concentration for Environmental Studies consists of 11 courses and the senior program",
+        "courses": [
+          {
+            "course_number": "ENVST-212",
+            "title": "Climate Change",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-234",
+            "title": "Environmental Justice",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-206",
+            "title": "Introduction to Environmental Data",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take all four of the following core courses",
+        "courses": [
+          {
+            "course_number": "ENVST-212",
+            "title": "Climate Change",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-234",
+            "title": "Environmental Justice",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-206",
+            "title": "Introduction to Environmental Data",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following earth science courses",
+        "courses": [
+          {
+            "course_number": "GEOSC-103 / AFRST-103",
+            "title": "Principles of Geoscience: Geology and Human Events in North Africa and the Middle East",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-105",
+            "title": "Principles of Geoscience: Our Interconnected Earth",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-107",
+            "title": "Principles of Geoscience: Geological & Environmental Challenges Around the World",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-110",
+            "title": "Principles of Geoscience: Geology and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-111",
+            "title": "Principles of Geoscience: Natural Hazards and Society",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-112",
+            "title": "Principles of Geoscience: The Marine Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-115",
+            "title": "Principles of Geoscience: Evolution and the Environment",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following life science courses",
+        "courses": [
+          {
+            "course_number": "BIO-100B",
+            "title": "Explorations in Biology: Frankenstein Fish",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100G",
+            "title": "Explorations in Biology: Reproducing Life",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100I",
+            "title": "Explorations in Biology: You Are What You Eat",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-120",
+            "title": "Principles of Chemistry",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose two of the following social sciences/humanities courses",
+        "courses": [
+          {
+            "course_number": "ENVST-221",
+            "title": "Environment and the City",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-266 / HIST-266",
+            "title": "Global Environmental History",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-285 / GOVT-285",
+            "title": "Introduction to Environmental Politics",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-287 / GOVT-287",
+            "title": "Political Theory and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "ENVST-290",
+            "title": "Nature and Technology",
+            "credits": "1"
+          },
+          {
+            "course_number": "LIT-267",
+            "title": "Literature and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-235",
+            "title": "Environmental Ethics",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-380",
+            "title": "Environmental Economics",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose three electives in ENVST (all listed courses excluding the core courses), including at least one at the 300-level or above, and not more than one at the 100-Level. The full list of electives is updated on the Masthead.",
+        "courses": []
+      },
+      {
+        "section": "Take either the senior thesis (ENVST-549 and ENVST-550) OR senior capstone (ENVST-520)",
+        "courses": [
+          {
+            "course_number": "ENVST-549",
+            "title": "Preparatory Research for Senior Project",
+            "credits": "0.50-1.00"
+          },
+          {
+            "course_number": "ENVST-550",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": []
+      }
+    ],
+    "program_name": "Environmental Studies - Environmental Studies Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Environmental-Studies/Environmental-Studies-Environmental-Studies-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/environmental-studies/environmental-studies-environmental-studies-concentration"
+  },
+  {
+    "program_title": "Geoarchaeology Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Geoarchaeology consists of 10 units of credit",
+        "courses": [
+          {
+            "course_number": "ARCH-325 / GEARC-325",
+            "title": "Analytic Methods in Archaeology",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-211",
+            "title": "Paleoenvironmental Reconstruction: Applications of Sedimentology and Stratigraphy",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEARC-500/501",
+            "title": "Senior Project",
+            "credits": "1"
+          },
+          {
+            "course_number": "-",
+            "title": "Any 100-level GEOSC course",
+            "credits": ""
+          }
+        ]
+      },
+      {
+        "section": "Required Courses:",
+        "courses": [
+          {
+            "course_number": "ARCH-325 / GEARC-325",
+            "title": "Analytic Methods in Archaeology",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-211",
+            "title": "Paleoenvironmental Reconstruction: Applications of Sedimentology and Stratigraphy",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEARC-500/501",
+            "title": "Senior Project",
+            "credits": "1"
+          },
+          {
+            "course_number": "-",
+            "title": "Any 100-level GEOSC course",
+            "credits": ""
+          }
+        ]
+      },
+      {
+        "section": "Choose two courses from the following:",
+        "courses": [
+          {
+            "course_number": "ARCH-245",
+            "title": "Human Ancestors",
+            "credits": "1"
+          },
+          {
+            "course_number": "ARCH-249",
+            "title": "Archaeology of Migration",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose two courses from the following:",
+        "courses": [
+          {
+            "course_number": "GEOSC-236",
+            "title": "Soils and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-290",
+            "title": "Paleontology",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "Geoarchaeology Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Geoarchaeology/Geoarchaeology-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/geoarchaeology/geoarchaeology-concentration"
+  },
+  {
+    "program_title": "Geoscience Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Geosciences consists of 10 units of credit",
+        "courses": [
+          {
+            "course_number": "GEOSC-103 / AFRST-103",
+            "title": "Principles of Geoscience: Geology and Human Events in North Africa and the Middle East",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-110",
+            "title": "Principles of Geoscience: Geology and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-112",
+            "title": "Principles of Geoscience: The Marine Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-115",
+            "title": "Principles of Geoscience: Evolution and the Environment",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "GEOSC-103 / AFRST-103",
+            "title": "Principles of Geoscience: Geology and Human Events in North Africa and the Middle East",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-110",
+            "title": "Principles of Geoscience: Geology and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-112",
+            "title": "Principles of Geoscience: The Marine Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-115",
+            "title": "Principles of Geoscience: Evolution and the Environment",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "GEOSC-211",
+            "title": "Paleoenvironmental Reconstruction: Applications of Sedimentology and Stratigraphy",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-220",
+            "title": "Earth Materials",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-230",
+            "title": "Structural Geology and Tectonics",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-290",
+            "title": "Paleontology",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-510/511",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take Two courses in Geosciences at the 200-level or higher",
+        "courses": []
+      },
+      {
+        "section": "Select a Two course sequence in one of the supporting sciences from departments below:",
+        "courses": []
+      }
+    ],
+    "program_name": "Geoscience Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Geosciences/Geoscience-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/geosciences/geoscience-concentration"
+  },
+  {
+    "program_title": "Geosciences Minor",
+    "requirements": [
+      {
+        "section": "A minor in Geosciences consists of a course in Principles of Geoscience, one of the 200-level core Geosciences courses, and three units of credit in other 200-level or above Geoscience courses. Geosc 212 cannot count towards a minor in Geosciences.",
+        "courses": [
+          {
+            "course_number": "GEOSC-103 / AFRST-103",
+            "title": "Principles of Geoscience: Geology and Human Events in North Africa and the Middle East",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-110",
+            "title": "Principles of Geoscience: Geology and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-112",
+            "title": "Principles of Geoscience: The Marine Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-115",
+            "title": "Principles of Geoscience: Evolution and the Environment",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one course in Principles of Geoscience:",
+        "courses": [
+          {
+            "course_number": "GEOSC-103 / AFRST-103",
+            "title": "Principles of Geoscience: Geology and Human Events in North Africa and the Middle East",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-110",
+            "title": "Principles of Geoscience: Geology and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-112",
+            "title": "Principles of Geoscience: The Marine Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-115",
+            "title": "Principles of Geoscience: Evolution and the Environment",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one of the five 200-level core Geosciences courses from the list below:",
+        "courses": [
+          {
+            "course_number": "GEOSC-211",
+            "title": "Paleoenvironmental Reconstruction: Applications of Sedimentology and Stratigraphy",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-220",
+            "title": "Earth Materials",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-230",
+            "title": "Structural Geology and Tectonics",
+            "credits": "1"
+          },
+          {
+            "course_number": "GEOSC-290",
+            "title": "Paleontology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take three units of credit in other Geoscience courses at the 200-level or above. Geosc 212 cannot count towards a minor in Geosciences.",
+        "courses": []
+      }
+    ],
+    "program_name": "Geosciences Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Geosciences/Geosciences-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/geosciences/geosciences-minor"
+  },
+  {
+    "program_title": "German Studies Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in German Studies consists of Nine courses",
+        "courses": [
+          {
+            "course_number": "GERMN-310",
+            "title": "Survey of German Literature",
+            "credits": "1"
+          },
+          {
+            "course_number": "GERMN-500",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "GERMN-310",
+            "title": "Survey of German Literature",
+            "credits": "1"
+          },
+          {
+            "course_number": "GERMN-500",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take one 400-level German seminar:",
+        "courses": []
+      },
+      {
+        "section": "All concentrators must take five additional courses from the list of approved courses:",
+        "courses": [
+          {
+            "course_number": "GOVT-214",
+            "title": "Politics in Western Europe",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-291",
+            "title": "International Political Economy",
+            "credits": "1"
+          },
+          {
+            "course_number": "HIST-117",
+            "title": "Capturing Light and Time: Europe in Photographs, 1815-1968",
+            "credits": "1"
+          },
+          {
+            "course_number": "HIST-224 / GERMN-224",
+            "title": "The Art of Empire: Vienna, 1683-1945",
+            "credits": "1"
+          },
+          {
+            "course_number": "MUSIC-221",
+            "title": "From Bach to Bartok",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-463",
+            "title": "Nietzsche",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "German Studies Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/German-Studies/German-Studies-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/german-russian-italian-and-arabic/german-studies/german-studies-concentration"
+  },
+  {
+    "program_title": "German Studies Minor",
+    "requirements": [
+      {
+        "section": "A German Studies minor consists of Five courses",
+        "courses": []
+      },
+      {
+        "section": "Fifth semester language proficiency",
+        "courses": []
+      },
+      {
+        "section": "One course in translation:",
+        "courses": []
+      }
+    ],
+    "program_name": "German Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/German-Russian-Italian-and-Arabic/German-Studies/German-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/german-russian-italian-and-arabic/german-studies/german-studies-minor"
+  },
+  {
+    "program_title": "World Politics Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in World Politics consists of 11 courses",
+        "courses": [
+          {
+            "course_number": "GOVT-114",
+            "title": "International Relations",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-117 / PHIL-117",
+            "title": "Introduction to Political Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-550",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take the following courses, with one being a Writing Intensive course:",
+        "courses": [
+          {
+            "course_number": "GOVT-114",
+            "title": "International Relations",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-117 / PHIL-117",
+            "title": "Introduction to Political Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-550",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "GOVT-290",
+            "title": "U.S. Foreign Policy",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "GOVT-291",
+            "title": "International Political Economy",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose five courses from a particular region from the world:",
+        "courses": []
+      }
+    ],
+    "program_name": "World Politics Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Government/World-Politics-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/government/world-politics-concentration"
+  },
+  {
+    "program_title": "Hispanic Studies Concentration",
+    "requirements": [
+      {
+        "section": "The Hispanic Studies concentration consists of Nine courses",
+        "courses": []
+      },
+      {
+        "section": "Students must take HSPST-150 or higher:",
+        "courses": []
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "HSPST-201",
+            "title": "Spanish for Heritage/Bilingual Speakers",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one elective in the 200-series",
+        "courses": []
+      },
+      {
+        "section": "Take three electives at the 300-level or above, including at least one in both Latin American and Peninsular fields (one of these must focus on literature before 1800)",
+        "courses": []
+      },
+      {
+        "section": "Take one course at the 400-level",
+        "courses": []
+      },
+      {
+        "section": "Concentrators must also fulfill a cultural requirement that can be met through study abroad or a cultural studies course.",
+        "courses": []
+      }
+    ],
+    "program_name": "Hispanic Studies - Hispanic Studies Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Hispanic-Studies/Hispanic-Studies-Hispanic-Studies-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/hispanic-studies/hispanic-studies-hispanic-studies-concentration"
+  },
+  {
+    "program_title": "Hispanic Studies Minor",
+    "requirements": [
+      {
+        "section": "The Hispanic Studies Minor consists of Five courses numbered HSPST-150 or higher",
+        "courses": []
+      },
+      {
+        "section": "Students must take HSPST-150 or higher:",
+        "courses": []
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "HSPST-201",
+            "title": "Spanish for Heritage/Bilingual Speakers",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take at least one course at the 300-level",
+        "courses": []
+      }
+    ],
+    "program_name": "Hispanic Studies - Hispanic Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Hispanic-Studies/Hispanic-Studies-Hispanic-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/hispanic-studies/hispanic-studies-hispanic-studies-minor"
+  },
+  {
+    "program_title": "History Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in History consists of nine courses",
+        "courses": []
+      },
+      {
+        "section": "Take one 100-level Writing Intensive History course",
+        "courses": []
+      },
+      {
+        "section": "Take at least one course in three of the following regional categories:",
+        "courses": []
+      },
+      {
+        "section": "Take one course in US History:",
+        "courses": []
+      },
+      {
+        "section": "Take one course that covers the Pre-Modern Era (pre-1800):",
+        "courses": []
+      },
+      {
+        "section": "Take one 300-level course devoted to the study of historiography",
+        "courses": []
+      },
+      {
+        "section": "Senior Thesis",
+        "courses": []
+      }
+    ],
+    "program_name": "History - History Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/History/History-History-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/history/history-history-concentration"
+  },
+  {
+    "program_title": "Jurisprudence, Law and Justice Studies Minor",
+    "requirements": [
+      {
+        "section": "A minor consists of Five courses.",
+        "courses": []
+      },
+      {
+        "section": "Take five courses: no more than three can be counted from either of the two listing-in Analytic Perspectives and Theory, and Substantive Areas",
+        "courses": []
+      }
+    ],
+    "program_name": "Jurisprudence Law and Justice Studies  Jurisprudence Law and Justice Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Jurisprudence-Law-and-Justice-Studies/Jurisprudence-Law-and-Justice-Studies-Jurisprudence-Law-and-Justice-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/jurisprudence-law-and-justice-studies/jurisprudence-law-and-justice-studies-jurisprudence-law-and-justice-studies-minor"
+  },
+  {
+    "program_title": "Linguistics Minor",
+    "requirements": [
+      {
+        "section": "The minor in Linguistics consists of Five courses",
+        "courses": []
+      },
+      {
+        "section": "Complete:",
+        "courses": []
+      },
+      {
+        "section": "Choose one Language Structure Course:",
+        "courses": [
+          {
+            "course_number": "LING-205 / JAPN-205",
+            "title": "Topics in Japanese Linguistics",
+            "credits": "1"
+          },
+          {
+            "course_number": "LING-219 / JAPN-219",
+            "title": "Language Acquisition",
+            "credits": "1"
+          },
+          {
+            "course_number": "LING-322 / ANTHR-322",
+            "title": "Talk In Action",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one Language in Society Course:",
+        "courses": [
+          {
+            "course_number": "ANTHR-257 / LING-257 / SOC-257 / WMGST-257",
+            "title": "Language, Gender and Sexuality",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-264 / LING-264 / EDUC-264",
+            "title": "Ethnography of Literacy and Visual Language",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-270 / LING-270",
+            "title": "The Ethnography of Communication",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-323",
+            "title": "Verbal Art and Performance",
+            "credits": "1"
+          },
+          {
+            "course_number": "ANTHR-370",
+            "title": "Sociolinguistics of Globalization",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose Two Electives",
+        "courses": []
+      }
+    ],
+    "program_name": "Linguistics - Linguistics Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Linguistics/Linguistics-Linguistics-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/linguistics/linguistics-linguistics-minor"
+  },
+  {
+    "program_title": "Mathematics Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Mathematics consists of the following 9 courses",
+        "courses": [
+          {
+            "course_number": "MATH-216",
+            "title": "Multivariable Calculus",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-224",
+            "title": "Linear Algebra",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-314",
+            "title": "Real Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-325",
+            "title": "Modern Algebra",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "MATH-216",
+            "title": "Multivariable Calculus",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-224",
+            "title": "Linear Algebra",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-314",
+            "title": "Real Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-325",
+            "title": "Modern Algebra",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose Three Full credit electives, of which at least one must be at the 300-level or higher",
+        "courses": []
+      },
+      {
+        "section": "All concentrators must take a Senior Seminar",
+        "courses": []
+      }
+    ],
+    "program_name": "Mathematics Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics/Mathematics-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/mathematics-and-statistics/mathematics-concentration"
+  },
+  {
+    "program_title": "Mathematics Minor",
+    "requirements": [
+      {
+        "section": "A minor in Mathematics consists of five courses",
+        "courses": [
+          {
+            "course_number": "MATH-216",
+            "title": "Multivariable Calculus",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-224",
+            "title": "Linear Algebra",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Complete:",
+        "courses": [
+          {
+            "course_number": "MATH-216",
+            "title": "Multivariable Calculus",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-224",
+            "title": "Linear Algebra",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take two electives:",
+        "courses": []
+      }
+    ],
+    "program_name": "Mathematics Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics/Mathematics-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/mathematics-and-statistics/mathematics-minor"
+  },
+  {
+    "program_title": "Statistics Minor",
+    "requirements": [
+      {
+        "section": "A minor in Statistics consists of five courses:",
+        "courses": [
+          {
+            "course_number": "MATH-216",
+            "title": "Multivariable Calculus",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-152",
+            "title": "Statistical Analysis of Data",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-254",
+            "title": "Statistical Modeling and Applications",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-351",
+            "title": "Probability and Statistical Inference",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "MATH-216",
+            "title": "Multivariable Calculus",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-152",
+            "title": "Statistical Analysis of Data",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-254",
+            "title": "Statistical Modeling and Applications",
+            "credits": "1"
+          },
+          {
+            "course_number": "MATH-351",
+            "title": "Probability and Statistical Inference",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "Statistics Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Mathematics-and-Statistics/Statistics-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/mathematics-and-statistics/statistics-minor"
+  },
+  {
+    "program_title": "Middle East and Islamicate Worlds Studies Concentration",
+    "requirements": [
+      {
+        "section": "A concentration requires",
+        "courses": []
+      }
+    ],
+    "program_name": "Middle East and Islamicate Worlds Studies Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Middle-East-and-Islamicate-Worlds-Studies/Middle-East-and-Islamicate-Worlds-Studies-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/middle-east-and-islamicate-worlds-studies/middle-east-and-islamicate-worlds-studies-concentration"
+  },
+  {
+    "program_title": "Middle East and Islamicate Worlds Studies Minor",
+    "requirements": [
+      {
+        "section": "An interdisciplinary minor in Middle East and Islamicate Worlds Studies consists of five courses",
+        "courses": []
+      },
+      {
+        "section": "Take at least one course from each of three divisions:",
+        "courses": []
+      },
+      {
+        "section": "Take one introductory 100-level course:",
+        "courses": []
+      },
+      {
+        "section": "Take one advanced 300-level or 400-level course:",
+        "courses": []
+      }
+    ],
+    "program_name": "Middle East and Islamicate Worlds Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Middle-East-and-Islamicate-Worlds-Studies/Middle-East-and-Islamicate-Worlds-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/middle-east-and-islamicate-worlds-studies/middle-east-and-islamicate-worlds-studies-minor"
+  },
+  {
+    "program_title": "Music Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Music consists of 10 courses:",
+        "courses": [
+          {
+            "course_number": "MUSIC-221",
+            "title": "From Bach to Bartok",
+            "credits": "1"
+          },
+          {
+            "course_number": "MUSIC-310",
+            "title": "Advanced Topics in Music Theory",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take the following three courses in music history and theory:",
+        "courses": [
+          {
+            "course_number": "MUSIC-221",
+            "title": "From Bach to Bartok",
+            "credits": "1"
+          },
+          {
+            "course_number": "MUSIC-310",
+            "title": "Advanced Topics in Music Theory",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one of the following courses in music theory:",
+        "courses": [
+          {
+            "course_number": "MUSIC-211",
+            "title": "Chromatic Harmony",
+            "credits": "0.5"
+          }
+        ]
+      },
+      {
+        "section": "Take one SSIH-designated course:",
+        "courses": []
+      },
+      {
+        "section": "Take four electives:",
+        "courses": []
+      },
+      {
+        "section": "Choose one option for the Senior Project:",
+        "courses": [
+          {
+            "course_number": "MUSIC-550",
+            "title": "Honors Senior Project I",
+            "credits": "0.5"
+          },
+          {
+            "course_number": "MUSIC-551",
+            "title": "Honors Senior Project II",
+            "credits": "0.5"
+          }
+        ]
+      }
+    ],
+    "program_name": "Music - Music Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Music/Music-Music-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/music/music-music-concentration"
+  },
+  {
+    "program_title": "Music Minor",
+    "requirements": [
+      {
+        "section": "A minor in Music comprises five courses",
+        "courses": [
+          {
+            "course_number": "MUSIC-210",
+            "title": "Music Theory Fundamentals and Chromatic Harmony",
+            "credits": "1"
+          },
+          {
+            "course_number": "MUSIC-211",
+            "title": "Chromatic Harmony",
+            "credits": "0.5"
+          }
+        ]
+      },
+      {
+        "section": "Choose One Theory Course:",
+        "courses": [
+          {
+            "course_number": "MUSIC-210",
+            "title": "Music Theory Fundamentals and Chromatic Harmony",
+            "credits": "1"
+          },
+          {
+            "course_number": "MUSIC-211",
+            "title": "Chromatic Harmony",
+            "credits": "0.5"
+          }
+        ]
+      },
+      {
+        "section": "Take Four others from among these possibilities:",
+        "courses": []
+      }
+    ],
+    "program_name": "Music Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Music/Music-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/music/music-minor"
+  },
+  {
+    "program_title": "Neuroscience Concentration",
+    "requirements": [
+      {
+        "section": "The departments of Biology and Psychology offer an interdisciplinary concentration in Neuroscience. The Neuroscience concentration consists of 12 courses.",
+        "courses": [
+          {
+            "course_number": "PSYCH-201 / NEURO-201",
+            "title": "Statistics and Research Methods in Psychology",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-120",
+            "title": "Principles of Chemistry",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-500/501",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "NEUROSCIENCE CONCENTRATORS IN THE CLASSES OF 2025 and 2026 MUST TAKE",
+        "courses": [
+          {
+            "course_number": "PSYCH-201 / NEURO-201",
+            "title": "Statistics and Research Methods in Psychology",
+            "credits": "1"
+          },
+          {
+            "course_number": "CHEM-120",
+            "title": "Principles of Chemistry",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-500/501",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "NEUROSCIENCE CONCENTRATORS IN THE CLASSES OF 2025 and 2026 MUST TAKE ONE INTRODUCTORY BIOLOGY COURSE (BIO 100x)",
+        "courses": [
+          {
+            "course_number": "BIO-100B",
+            "title": "Explorations in Biology: Frankenstein Fish",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100G",
+            "title": "Explorations in Biology: Reproducing Life",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100I",
+            "title": "Explorations in Biology: You Are What You Eat",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "NEUROSCIENCE CONCENTRATORS IN THE CLASSES OF 2025 and 2026 MUST TAKE ONE INTRODUCTORY NEUROSCIENCE COURSE",
+        "courses": [
+          {
+            "course_number": "NEURO-205 / PSYCH-205 / BIO -205",
+            "title": "Fundamentals of Neurobiology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "NEUROSCIENCE CONCENTRATORS IN THE CLASSES OF 2025 and 2026 MUST TAKE ONE HUMAN NEUROSCIENCE LABORATORY COURSE",
+        "courses": [
+          {
+            "course_number": "NEURO-328 / PSYCH-328",
+            "title": "Cognitive Neuroscience",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-329 / PSYCH-329",
+            "title": "Stress and Psychophysiology",
+            "credits": ""
+          }
+        ]
+      },
+      {
+        "section": "NEUROSCIENCE CONCENTRATORS IN THE CLASSES OF 2025 and 2026 MUST TAKE TWO NEUROBIOLOGY LABS (AT LEAST ONE MUST BE 330 OR 357)",
+        "courses": [
+          {
+            "course_number": "BIO-331 / NEURO-331",
+            "title": "Physiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-334 / NEURO-334",
+            "title": "Developmental Genetics",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-335 / BIO-335",
+            "title": "Neurophysiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-357 / BIO-357",
+            "title": "Cellular Neurobiology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "NEUROSCIENCE CONCENTRATORS IN THE CLASSES OF 2025 and 2026 MUST TAKE TWO DEPTH COURSES (select two courses; must be from different options)",
+        "courses": []
+      },
+      {
+        "section": "NEUROSCIENCE CONCENTRATORS IN THE CLASSES OF 2025 and 2026 MUST TAKE ONE AFFILIATED COURSE (select one course from among three options)",
+        "courses": []
+      },
+      {
+        "section": "",
+        "courses": []
+      },
+      {
+        "section": "THIS IS THE END OF THE NEUROSCIENCE REQUIREMENTS FOR THE CLASS OF 2025 AND CLASS OF 2026",
+        "courses": [
+          {
+            "course_number": "PSYCH-101",
+            "title": "Introduction to Psychology",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-109 / NEURO-109",
+            "title": "Cognitive Neuroscience in Film, Art, and Media",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100A",
+            "title": "Explorations in Biology: The Secret Life of Plants",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100B",
+            "title": "Explorations in Biology: Frankenstein Fish",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100G",
+            "title": "Explorations in Biology: Reproducing Life",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100I",
+            "title": "Explorations in Biology: You Are What You Eat",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "The section below describes the Neuroscience requirements for concentrators in the class of 2027 and later.",
+        "courses": [
+          {
+            "course_number": "PSYCH-101",
+            "title": "Introduction to Psychology",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-109 / NEURO-109",
+            "title": "Cognitive Neuroscience in Film, Art, and Media",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100A",
+            "title": "Explorations in Biology: The Secret Life of Plants",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100B",
+            "title": "Explorations in Biology: Frankenstein Fish",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100G",
+            "title": "Explorations in Biology: Reproducing Life",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100I",
+            "title": "Explorations in Biology: You Are What You Eat",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "100-LEVEL COURSES (3)",
+        "courses": [
+          {
+            "course_number": "PSYCH-101",
+            "title": "Introduction to Psychology",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-109 / NEURO-109",
+            "title": "Cognitive Neuroscience in Film, Art, and Media",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100A",
+            "title": "Explorations in Biology: The Secret Life of Plants",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100B",
+            "title": "Explorations in Biology: Frankenstein Fish",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100G",
+            "title": "Explorations in Biology: Reproducing Life",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100I",
+            "title": "Explorations in Biology: You Are What You Eat",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "PSYCH-101",
+            "title": "Introduction to Psychology",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-109 / NEURO-109",
+            "title": "Cognitive Neuroscience in Film, Art, and Media",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100A",
+            "title": "Explorations in Biology: The Secret Life of Plants",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100B",
+            "title": "Explorations in Biology: Frankenstein Fish",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100D",
+            "title": "Explorations in Biology: A Diagnostic Odyssey",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100E",
+            "title": "Explorations in Biology: Microbes Rule",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100F",
+            "title": "Explorations in Biology: Genetic Engineering",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100G",
+            "title": "Explorations in Biology: Reproducing Life",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100H",
+            "title": "Explorations in Biology: Disease Ecology in a Changing World",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100I",
+            "title": "Explorations in Biology: You Are What You Eat",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100J",
+            "title": "Explorations in Biology: Our Blue Planet",
+            "credits": "1"
+          },
+          {
+            "course_number": "BIO-100K",
+            "title": "Explorations in Biology: Coming to Life â Embryogenesis and Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "200-LEVEL COURSES (4)",
+        "courses": [
+          {
+            "course_number": "NEURO-204 / PSYCH-204",
+            "title": "Fundamentals of Human Neuroscience",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-205 / PSYCH-205 / BIO -205",
+            "title": "Fundamentals of Neurobiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-211 / BIO-211",
+            "title": "Genes, Molecules, and Cells",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "NEURO-204 / PSYCH-204",
+            "title": "Fundamentals of Human Neuroscience",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-205 / PSYCH-205 / BIO -205",
+            "title": "Fundamentals of Neurobiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-211 / BIO-211",
+            "title": "Genes, Molecules, and Cells",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "HUMAN NEUROSCIENCE LABORATORY COURSE (1)",
+        "courses": [
+          {
+            "course_number": "NEURO-328 / PSYCH-328",
+            "title": "Cognitive Neuroscience",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-329 / PSYCH-329",
+            "title": "Stress and Psychophysiology",
+            "credits": ""
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "NEURO-328 / PSYCH-328",
+            "title": "Cognitive Neuroscience",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-329 / PSYCH-329",
+            "title": "Stress and Psychophysiology",
+            "credits": ""
+          }
+        ]
+      },
+      {
+        "section": "NEUROBIOLOGY LABORATORY COURSE (1)",
+        "courses": [
+          {
+            "course_number": "NEURO-331 / BIO-331",
+            "title": "Physiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-334 / BIO-334",
+            "title": "Developmental Genetics",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "",
+        "courses": [
+          {
+            "course_number": "NEURO-331 / BIO-331",
+            "title": "Physiology",
+            "credits": "1"
+          },
+          {
+            "course_number": "NEURO-334 / BIO-334",
+            "title": "Developmental Genetics",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "DEPTH COURSES (2)",
+        "courses": []
+      },
+      {
+        "section": "THE SENIOR PROJECT IN NEUROSCIENCE (1)",
+        "courses": []
+      }
+    ],
+    "program_name": "Neuroscience - Neuroscience Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Neuroscience/Neuroscience-Neuroscience-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/neuroscience/neuroscience-neuroscience-concentration"
+  },
+  {
+    "program_title": "Philosophy Concentration",
+    "requirements": [
+      {
+        "section": "The concentration in Philosophy consists of nine courses. No more than one of the nine courses counted toward the concentration may be at the 100-level.",
+        "courses": [
+          {
+            "course_number": "PHIL-203",
+            "title": "History of Modern Western Philosophy",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-550",
+            "title": "Senior Seminar",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must complete:",
+        "courses": [
+          {
+            "course_number": "PHIL-203",
+            "title": "History of Modern Western Philosophy",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-550",
+            "title": "Senior Seminar",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one logic course:",
+        "courses": [
+          {
+            "course_number": "PHIL-200",
+            "title": "Critical Reasoning",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-240",
+            "title": "Symbolic Logic",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose three additional courses at the 400-level, no more than one of which may be transferred from outside of Hamilton College.",
+        "courses": []
+      },
+      {
+        "section": "Take two electives in Philosophy",
+        "courses": []
+      }
+    ],
+    "program_name": "Philosophy - Philosophy Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Philosophy/Philosophy-Philosophy-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/philosophy/philosophy-philosophy-concentration"
+  },
+  {
+    "program_title": "Philosophy Minor",
+    "requirements": [
+      {
+        "section": "The Philosophy Minor",
+        "courses": []
+      }
+    ],
+    "program_name": "Philosophy - Philosophy Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Philosophy/Philosophy-Philosophy-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/philosophy/philosophy-philosophy-minor"
+  },
+  {
+    "program_title": "Physics Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Physics consists of 11 courses",
+        "courses": [
+          {
+            "course_number": "PHYS-195",
+            "title": "Waves and Fields",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-290",
+            "title": "Quantum Physics",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-295",
+            "title": "Electromagnetism",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-348 / CHEM-348",
+            "title": "Science, Technology, and Society",
+            "credits": "0.5"
+          },
+          {
+            "course_number": "PHYS-390",
+            "title": "Research Seminar",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-550",
+            "title": "Senior Research Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "PHYS-195",
+            "title": "Waves and Fields",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-290",
+            "title": "Quantum Physics",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-295",
+            "title": "Electromagnetism",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-348 / CHEM-348",
+            "title": "Science, Technology, and Society",
+            "credits": "0.5"
+          },
+          {
+            "course_number": "PHYS-390",
+            "title": "Research Seminar",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHYS-550",
+            "title": "Senior Research Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose four other electives chosen in consultation with an advisor who is a member of the Physics faculty",
+        "courses": []
+      }
+    ],
+    "program_name": "Physics Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Physics/Physics-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/physics/physics-concentration"
+  },
+  {
+    "program_title": "Physics Minor",
+    "requirements": [
+      {
+        "section": "A minor in Physics consists of five courses",
+        "courses": [
+          {
+            "course_number": "PHYS-195",
+            "title": "Waves and Fields",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Students must complete:",
+        "courses": [
+          {
+            "course_number": "PHYS-195",
+            "title": "Waves and Fields",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "PHYS-295",
+            "title": "Electromagnetism",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Complete two other Physics courses",
+        "courses": []
+      }
+    ],
+    "program_name": "Physics Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Physics/Physics-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/physics/physics-minor"
+  },
+  {
+    "program_title": "Psychology Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Psychology consists of ten courses",
+        "courses": [
+          {
+            "course_number": "PSYCH-105",
+            "title": "Thriving in the Classroom and Beyond",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-109 / NEURO-109",
+            "title": "Cognitive Neuroscience in Film, Art, and Media",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "PSYCH-105",
+            "title": "Thriving in the Classroom and Beyond",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-109 / NEURO-109",
+            "title": "Cognitive Neuroscience in Film, Art, and Media",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "PSYCH-380",
+            "title": "Research Design",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-500/501",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "PSYCH-205 / NEURO-205 / BIO -205",
+            "title": "Fundamentals of Neurobiology",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one Laboratory course numbered between PSYCH-300 â PSYCH-327 (except PSYCH-320):",
+        "courses": []
+      },
+      {
+        "section": "Take four additional courses at the 300 level or above, including the Senior Project",
+        "courses": []
+      },
+      {
+        "section": "To fulfill the Social, Structural, and Institutional Hierarchies requirement in Psychology, concentrators must take either ONE course from the following list:",
+        "courses": [
+          {
+            "course_number": "PSYCH-324",
+            "title": "Law and Human Behavior",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-359",
+            "title": "Stereotyping and Prejudice",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-367",
+            "title": "Psychological Bias in the Justice System",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-379 / EDUC-379",
+            "title": "Lifespan Development",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Or TWO courses from the following list:",
+        "courses": [
+          {
+            "course_number": "PSYCH-337",
+            "title": "Psychology of Friendship",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-353",
+            "title": "Adult Psychopathology",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-355 / NEURO-355",
+            "title": "Neurobiology of Addiction",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-356",
+            "title": "Social Psychology",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-373 / NEURO-373",
+            "title": "Health Psychology",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "Psychology - Psychology Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Psychology/Psychology-Psychology-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/psychology/psychology-psychology-concentration"
+  },
+  {
+    "program_title": "Psychology Minor",
+    "requirements": [
+      {
+        "section": "A minor in Psychology consists of five courses",
+        "courses": [
+          {
+            "course_number": "PSYCH-105",
+            "title": "Thriving in the Classroom and Beyond",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-109 / NEURO-109",
+            "title": "Cognitive Neuroscience in Film, Art, and Media",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following:",
+        "courses": [
+          {
+            "course_number": "PSYCH-105",
+            "title": "Thriving in the Classroom and Beyond",
+            "credits": "1"
+          },
+          {
+            "course_number": "PSYCH-109 / NEURO-109",
+            "title": "Cognitive Neuroscience in Film, Art, and Media",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take",
+        "courses": []
+      },
+      {
+        "section": "Take one Laboratory courses numbered between PSYCH-300 â PSYCH-327 (except PSYCH-320):",
+        "courses": []
+      },
+      {
+        "section": "Take two other courses (one of which may be PSYCH-204 or PSYCH 205)",
+        "courses": []
+      }
+    ],
+    "program_name": "Psychology - Psychology Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Psychology/Psychology-Psychology-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/psychology/psychology-psychology-minor"
+  },
+  {
+    "program_title": "Public Policy Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Public Policy consists of",
+        "courses": [
+          {
+            "course_number": "PPOL-382 / GOVT-382",
+            "title": "Public Policy Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-116",
+            "title": "The American Political Process",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-230",
+            "title": "Data Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "PPOL-500",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "PPOL-382 / GOVT-382",
+            "title": "Public Policy Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-116",
+            "title": "The American Political Process",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-230",
+            "title": "Data Analysis",
+            "credits": "1"
+          },
+          {
+            "course_number": "PPOL-500",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Starting with the class of 2022, follow this sequence:",
+        "courses": []
+      },
+      {
+        "section": "Take the following courses:",
+        "courses": [
+          {
+            "course_number": "ECON-166",
+            "title": "Economic Theory and Evidence",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators should choose two of the following Ethics courses:",
+        "courses": [
+          {
+            "course_number": "PHIL-117 / GOVT-117",
+            "title": "Introduction to Political Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-219",
+            "title": "Introduction to Moral Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-221",
+            "title": "Food and Philosophy",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-235",
+            "title": "Environmental Ethics",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-452",
+            "title": "Evolution and Morality",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following âIssue Areasâ course:",
+        "courses": [
+          {
+            "course_number": "ECON-331",
+            "title": "International Trade Theory and Policy",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-340",
+            "title": "Economic Development",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-350",
+            "title": "Economics of Poverty and Income Distribution",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-360",
+            "title": "Health Economics",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-380",
+            "title": "Environmental Economics",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-390",
+            "title": "Economics of Labor Market Policy",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-415",
+            "title": "Economics of Higher Education",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-433",
+            "title": "International Economics",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-435",
+            "title": "Industrial Organization Theory and Applications",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-440",
+            "title": "Public Economics",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-446",
+            "title": "Monetary Policy",
+            "credits": "1"
+          },
+          {
+            "course_number": "ECON-453",
+            "title": "Economic Development in Latin America",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-273",
+            "title": "Law and Justice Laboratory: Seminar in the Criminal Justice System in Oneida County, New York",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-285 / ENVST-285",
+            "title": "Introduction to Environmental Politics",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-287 / ENVST-287",
+            "title": "Political Theory and the Environment",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-335",
+            "title": "Seminar: Criminal Law",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-338",
+            "title": "American Public Administration",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-340 / AFRST-340",
+            "title": "Race and American Democracy",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-356",
+            "title": "The Political Theory of Personal Privacy",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-359",
+            "title": "The Organization and Politics of American Policing",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-360 / ENVST-360",
+            "title": "The Politics and Theory of Place and Space",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-363",
+            "title": "Poverty and Development",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-365",
+            "title": "Free Speech Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-376",
+            "title": "Government Failure?:The American Administrative State",
+            "credits": "1"
+          },
+          {
+            "course_number": "GOVT-389",
+            "title": "Capitalism, Democracy, and the Workplace",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-204",
+            "title": "Social Class in American Society",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-216",
+            "title": "Sociology of Aging",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-223",
+            "title": "Law and Society",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-226",
+            "title": "The Sociology of Health and Illness",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-278",
+            "title": "Race, Class, Gender",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-308",
+            "title": "Issues in Higher Education",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-319",
+            "title": "Seminar: Globalization and Its Discontents",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-345",
+            "title": "Race, Ethnicity, and Immigration in Urban America",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-372",
+            "title": "Sociology of Disability",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-373",
+            "title": "Seminar on the Constitution and Social Policy.",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "Public Policy - Public Policy Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Public-Policy/Public-Policy-Public-Policy-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/public-policy/public-policy-public-policy-concentration"
+  },
+  {
+    "program_title": "Public Policy Minor",
+    "requirements": [
+      {
+        "section": "A minor in Public Policy consists of five courses",
+        "courses": [
+          {
+            "course_number": "GOVT-230",
+            "title": "Data Analysis",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Must complete:",
+        "courses": [
+          {
+            "course_number": "GOVT-230",
+            "title": "Data Analysis",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following courses:",
+        "courses": [
+          {
+            "course_number": "ECON-101",
+            "title": "",
+            "credits": ""
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following courses:",
+        "courses": [
+          {
+            "course_number": "ECON-166",
+            "title": "Economic Theory and Evidence",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one of the required Ethics courses listed:",
+        "courses": [
+          {
+            "course_number": "PHIL-117 / GOVT-117",
+            "title": "Introduction to Political Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-219",
+            "title": "Introduction to Moral Theory",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-221",
+            "title": "Food and Philosophy",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-235",
+            "title": "Environmental Ethics",
+            "credits": "1"
+          },
+          {
+            "course_number": "PHIL-452",
+            "title": "Evolution and Morality",
+            "credits": "1"
+          }
+        ]
+      }
+    ],
+    "program_name": "Public Policy Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Public-Policy/Public-Policy-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/public-policy/public-policy-minor"
+  },
+  {
+    "program_title": "Religious Studies Concentration",
+    "requirements": [
+      {
+        "section": "The concentration in Religious Studies consists of nine courses.",
+        "courses": []
+      },
+      {
+        "section": "Take one RELST 100-level course.",
+        "courses": []
+      },
+      {
+        "section": "Take Imagining Religions (RELST 291).",
+        "courses": []
+      },
+      {
+        "section": "Take one RELST elective at any level.",
+        "courses": []
+      },
+      {
+        "section": "Take five RELST electives at the 200-level or higher. At least two must be at the 300-level.",
+        "courses": []
+      },
+      {
+        "section": "Take the Senior Project Seminar (RELST 498).",
+        "courses": []
+      }
+    ],
+    "program_name": "Religious Studies - Religious Studies Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Religious-Studies/Religious-Studies-Religious-Studies-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/religious-studies/religious-studies-religious-studies-concentration"
+  },
+  {
+    "program_title": "Religious Studies Minor",
+    "requirements": [
+      {
+        "section": "Beginning with the class of 2025, a minor in Religious Studies consists of five courses",
+        "courses": []
+      },
+      {
+        "section": "Take four courses",
+        "courses": []
+      },
+      {
+        "section": "Must Complete:",
+        "courses": []
+      }
+    ],
+    "program_name": "Religious Studies - Religious Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Religious-Studies/Religious-Studies-Religious-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/religious-studies/religious-studies-religious-studies-minor"
+  },
+  {
+    "program_title": "Sociology Concentration",
+    "requirements": [
+      {
+        "section": "A concentration in Sociology consists of nine courses",
+        "courses": [
+          {
+            "course_number": "SOC-110",
+            "title": "American Society",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following courses:",
+        "courses": [
+          {
+            "course_number": "SOC-110",
+            "title": "American Society",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take",
+        "courses": [
+          {
+            "course_number": "SOC-302",
+            "title": "Research Methods",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-549",
+            "title": "Senior Seminar",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-550",
+            "title": "Senior Project",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take four additional courses:",
+        "courses": []
+      }
+    ],
+    "program_name": "Sociology Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Sociology/Sociology-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/sociology/sociology-concentration"
+  },
+  {
+    "program_title": "Sociology Minor",
+    "requirements": [
+      {
+        "section": "A minor in Sociology consists of five courses",
+        "courses": [
+          {
+            "course_number": "SOC-110",
+            "title": "American Society",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-126",
+            "title": "The Sociology of Health and Illness",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Choose one of the following courses:",
+        "courses": [
+          {
+            "course_number": "SOC-110",
+            "title": "American Society",
+            "credits": "1"
+          },
+          {
+            "course_number": "SOC-126",
+            "title": "The Sociology of Health and Illness",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Must complete:",
+        "courses": []
+      },
+      {
+        "section": "Take three additional courses:",
+        "courses": []
+      }
+    ],
+    "program_name": "Sociology - Sociology Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Sociology/Sociology-Sociology-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/sociology/sociology-sociology-minor"
+  },
+  {
+    "program_title": "Theatre Minor",
+    "requirements": [
+      {
+        "section": "A minor in Theatre consists of five credits",
+        "courses": []
+      },
+      {
+        "section": "Complete:",
+        "courses": []
+      },
+      {
+        "section": "Take four electives, two electives must be at the 200-level",
+        "courses": []
+      }
+    ],
+    "program_name": "Theatre Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Theatre/Theatre-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/theatre/theatre-minor"
+  },
+  {
+    "program_title": "Womenâs and Gender Studies Concentration",
+    "requirements": [
+      {
+        "section": "The concentration in Womenâs and Gender Studies consists of nine courses:",
+        "courses": [
+          {
+            "course_number": "WMGST-201 / GOVT-201",
+            "title": "Introduction to Feminist Thought",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-301",
+            "title": "Feminist Methodological Perspectives",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-550",
+            "title": "Senior Program",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take:",
+        "courses": [
+          {
+            "course_number": "WMGST-201 / GOVT-201",
+            "title": "Introduction to Feminist Thought",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-301",
+            "title": "Feminist Methodological Perspectives",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-550",
+            "title": "Senior Program",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take two courses from the following:",
+        "courses": [
+          {
+            "course_number": "WMGST-327",
+            "title": "Seminar on Aging",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-401",
+            "title": "Seminar: Theories of Sexuality",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-405 / AFRST-405",
+            "title": "Seminar: Black Feminist Thought",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-408",
+            "title": "Feminist Epistemology, Methodology, Theory, Research and Praxis: Individual Topics",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-410",
+            "title": "Transnational Feminist Praxis",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "All concentrators must take three electives:",
+        "courses": []
+      }
+    ],
+    "program_name": "Womens and Gender Studies  Womens and Gender Studies Concentration",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Women-s-and-Gender-Studies/Womens-and-Gender-Studies-Concentration",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/women-s-and-gender-studies/womens-and-gender-studies-concentration"
+  },
+  {
+    "program_title": "Womenâs and Gender Studies Minor",
+    "requirements": [
+      {
+        "section": "A minor in Womenâs and Gender Studies consists of 5 courses",
+        "courses": [
+          {
+            "course_number": "WMGST-201 / GOVT-201",
+            "title": "Introduction to Feminist Thought",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-301",
+            "title": "Feminist Methodological Perspectives",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Complete:",
+        "courses": [
+          {
+            "course_number": "WMGST-201 / GOVT-201",
+            "title": "Introduction to Feminist Thought",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-301",
+            "title": "Feminist Methodological Perspectives",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one course selected from the following:",
+        "courses": [
+          {
+            "course_number": "WMGST-327",
+            "title": "Seminar on Aging",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-401",
+            "title": "Seminar: Theories of Sexuality",
+            "credits": "1"
+          },
+          {
+            "course_number": "WMGST-405 / AFRST-405",
+            "title": "Seminar: Black Feminist Thought",
+            "credits": "1"
+          }
+        ]
+      },
+      {
+        "section": "Take one elective:",
+        "courses": []
+      }
+    ],
+    "program_name": "Women’s and Gender Studies Minor",
+    "program_path": "/Current/College-Catalogue/AcademicPrograms/Women-s-and-Gender-Studies/Women-s-and-Gender-Studies-Minor",
+    "program_url": "https://hamilton.smartcatalogiq.com/en/current/college-catalogue/academicprograms/women-s-and-gender-studies/women-s-and-gender-studies-minor"
+  }
+]
