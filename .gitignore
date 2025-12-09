@@ -16,7 +16,6 @@ venv/
 *.har
 cache/
 RAG/cache/
-*.pdf
 
 # Ignore cache and temporary files
 __pycache__/
