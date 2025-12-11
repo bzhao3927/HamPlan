@@ -249,7 +249,7 @@ def trim_conversation_history(history, max_tokens=4000):
 
 def summarize_old_conversation(history, client):
     """Summarize older parts of conversation."""
-    if len(history) < 10:  # Don't summarize if short
+    if len(history) < 6:
         return history
 
     # Take first half of conversation
@@ -302,7 +302,7 @@ def answer_question_with_memory(query, documents, conversation_history, use_summ
     ])
 
     # Manage conversation history
-    if use_summary and len(conversation_history) > 10:
+    if use_summary and len(conversation_history) > 6:
         conversation_history = summarize_old_conversation(conversation_history, client)
     else:
         conversation_history = trim_conversation_history(conversation_history)
@@ -324,9 +324,9 @@ Guidelines:
     messages.extend(conversation_history)
 
     # Add current query with context
-    prompt = f"""Based on the following course information, answer the question concisely.
+    prompt = f"""IMPORTANT: Answer ONLY the current question below. Do not reference previous questions unless explicitly asked.
 
-Question: {query}
+Current Question: {query}
 
 Course Information:
 {context}
@@ -337,7 +337,7 @@ Guidelines:
 - Be accurate about course requirements
 - If information is incomplete, acknowledge limitations
 
-Provide a clear, direct answer based only on the information above. If referencing previous questions, be explicit about what you're referring to."""
+Provide a clear, direct answer to the current question based only on the information above."""
 
     messages.append({"role": "user", "content": prompt})
 
