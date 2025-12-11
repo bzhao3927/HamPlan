@@ -315,7 +315,7 @@ Guidelines:
 - Answer questions based ONLY on the course information provided
 - If Hamilton doesn't offer courses in a specific area, say so clearly and suggest related alternatives
 - Always cite specific course codes when discussing prerequisites
-- Be precise about requirements (e.g., "CPSCI-101 OR placement" not just "CPSCI-101")
+- Be precise about prerequisite requirements, including OR conditions
 - If information is uncertain or incomplete, acknowledge it
 - Maintain context from previous questions in the conversation"""}
     ]
@@ -333,7 +333,7 @@ Course Information:
 
 Guidelines:
 - If the question asks about a subject Hamilton doesn't offer, clearly state this and suggest related alternatives
-- When discussing prerequisites, always cite the specific course code and be precise about OR conditions
+- When discussing prerequisites, cite specific course codes and be precise about all conditions
 - Be accurate about course requirements
 - If information is incomplete, acknowledge limitations
 
