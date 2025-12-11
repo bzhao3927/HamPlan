@@ -309,7 +309,15 @@ def answer_question_with_memory(query, documents, conversation_history, use_summ
 
     # Build messages with history
     messages = [
-        {"role": "system", "content": "You are a helpful academic advisor at Hamilton College. Answer questions based on the course information provided and maintain context from previous questions."}
+        {"role": "system", "content": """You are a helpful academic advisor at Hamilton College. 
+
+Guidelines:
+- Answer questions based ONLY on the course information provided
+- If Hamilton doesn't offer courses in a specific area, say so clearly and suggest related alternatives
+- Always cite specific course codes when discussing prerequisites
+- Be precise about requirements (e.g., "CPSCI-101 OR placement" not just "CPSCI-101")
+- If information is uncertain or incomplete, acknowledge it
+- Maintain context from previous questions in the conversation"""}
     ]
 
     # Add conversation history
@@ -322,6 +330,12 @@ Question: {query}
 
 Course Information:
 {context}
+
+Guidelines:
+- If the question asks about a subject Hamilton doesn't offer, clearly state this and suggest related alternatives
+- When discussing prerequisites, always cite the specific course code and be precise about OR conditions
+- Be accurate about course requirements
+- If information is incomplete, acknowledge limitations
 
 Provide a clear, direct answer based only on the information above. If referencing previous questions, be explicit about what you're referring to."""
 
@@ -444,4 +458,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
