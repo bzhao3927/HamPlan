@@ -15,7 +15,7 @@ A RAG (Retrieval-Augmented Generation) system for Hamilton College courses using
 - OpenAI API key
 - Course catalog JSON file (`courses_with_prerequisites.json`)
 - Course syllabi PDFs (optional but recommended)
-- Department overview text files (optional)
+- Department overview text files
 
 ## Setup
 
