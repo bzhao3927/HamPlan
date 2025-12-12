@@ -386,8 +386,8 @@ def main():
 
     # Paths
     catalog_json = "../course-catalog-scraper/courses_with_prerequisites.json"
-    department_overviews_txt = "/Users/CS/Documents/GitHub/Final-Project/course-catalog-scraper/department_overviews/txt"
-    syllabi_folder = "/Users/CS/Documents/GitHub/Final-Project/RAG/syllabi"
+    department_overviews_txt = "../course-catalog-scraper/department_overviews/txt"
+    syllabi_folder = "syllabi"
     cache_file = "cache/complete_system_v3.pkl"
 
     # Check cache
