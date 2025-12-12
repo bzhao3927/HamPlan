@@ -35,7 +35,7 @@ This document details my use of Claude AI throughout the HamPlan development pro
 
 Sent evaluation forms to 5 faculty members across departments. Each tested the system with real course planning queries and adversarial edge cases.
 
-![Faculty Feedback Analysis](screenshots/Screenshot%202025-12-12%20at%202.49.39%20PM.png)
+![Faculty Feedback Analysis](screenshots/Faculty_Feedback.png)
 
 **Key findings:**
 
@@ -87,7 +87,7 @@ Sent evaluation forms to 5 faculty members across departments. Each tested the s
 
 ### Iteration 2: Conversation Memory Fix
 
-![Bug Analysis](screenshots/Screenshot%202025-12-12%20at%202.48.54%20PM.png)
+![Bug Analysis](screenshots/Bug_Analysis.png)
 
 **Problem:**
 CS professor reported system "failed after 4 messages" during aerospace query chain. After 6-7 conversational exchanges, accumulated context polluted responses.
@@ -109,7 +109,7 @@ in the conversation. Focus on what the user is asking RIGHT NOW.
 
 ### Iteration 3: Scope Control & Academic Integrity
 
-![Scope Control Refinements](screenshots/Screenshot%202025-12-12%20at%202.51.57%20PM.png)
+![Scope Control Refinements](screenshots/Scope_Control.png)
 
 **Problem:**
 Chemistry professor tested edge cases - system answered "Who played drums for Nirvana?" and chemistry homework questions. Faculty raised academic integrity concerns.
@@ -129,13 +129,13 @@ Chemistry professor tested edge cases - system answered "Who played drums for Ni
 **Tier 3 - DECLINE (Off-Topic):**
 - Trivia and unrelated queries
 
-![Key Refinements](screenshots/Screenshot%202025-12-12%20at%202.52.04%20PM.png)
+![Key Refinements](screenshots/Key_Refinements.png)
 
 ---
 
 ### Iteration 4: Testing & Validation
 
-![Test Queries](screenshots/Screenshot%202025-12-12%20at%202.50.28%20PM.png)
+![Test Queries](screenshots/Test_Queries.png)
 
 Comprehensive test suite:
 1. Verify CS-102 prerequisites
@@ -213,7 +213,7 @@ Institutionally-provided tools must maintain clear boundaries to avoid undermini
 
 ## Final System Status
 
-![Final System Summary](screenshots/Screenshot%202025-12-12%20at%202.52.31%20PM.png)
+![Final System Summary](screenshots/Final_System.png)
 
 **All Major Issues Resolved:**
 1. Multi-section display working
