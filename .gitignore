@@ -3,8 +3,6 @@
 env/
 venv/
 .env
-*.env
-RAG/.env
 
 # Ignore PyTorch binaries and build artifacts
 *.pt
