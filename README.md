@@ -29,15 +29,18 @@ A RAG (Retrieval-Augmented Generation) system for Hamilton College courses using
 
 3. **Organize your data:**
 ```
-   Final-Project/
-   ├── RAG/
-   │   ├── rag.py
-   │   ├── .env
-   │   ├── syllabi/          # PDF syllabi by subject
-   │   └── cache/            # Auto-created for embeddings
-   ├── course-catalog-scraper/
-   │   ├── courses_with_prerequisites.json
-   │   └── department_overviews/txt/
+HamPlan/
+├── RAG/
+│   ├── rag.py
+│   ├── .env
+│   ├── syllabi/          # PDF syllabi by subject
+│   └── cache/            # Auto-created for embeddings
+├── course-catalog-scraper/
+│   ├── courses_with_prerequisites.json
+│   └── department_overviews/txt/
+├── prompt_history/       # AI usage documentation
+├── CONTRIBUTION.md
+└── HamPlan_Report.pdf
 ```
 
 ## Usage
