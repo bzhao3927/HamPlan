@@ -5,6 +5,10 @@
 
 A RAG (Retrieval-Augmented Generation) system for Hamilton College courses using course catalog data, syllabi, and department overviews to answer student questions with conversation memory.
 
+**🌐 Try it live:** [hamiltoncourses.com](https://hamiltoncourses.com/)
+
+---
+
 ## Prerequisites
 
 - Python 3.8+
@@ -17,14 +21,14 @@ A RAG (Retrieval-Augmented Generation) system for Hamilton College courses using
 
 1. **Install dependencies:**
 ```bash
-   pip install openai numpy python-dotenv PyPDF2
+pip install openai numpy python-dotenv PyPDF2
 ```
 
 2. **Set up OpenAI API key:**
    
    Create a `.env` file in the project root:
 ```
-   OPENAI_API_KEY=your-api-key-here
+OPENAI_API_KEY=your-api-key-here
 ```
 
 3. **Organize your data:**
@@ -47,6 +51,7 @@ HamPlan/
 
 **Simply run:**
 ```bash
+cd RAG
 python rag.py
 ```
 
