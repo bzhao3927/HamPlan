@@ -1,4 +1,4 @@
-# Prompts History - HamPlan RAG Project
+# Prompt History - HamPlan RAG Project
 
 **Course:** CS366 Deep Learning  
 **Project:** HamPlan - RAG System for Hamilton Course Planning  
