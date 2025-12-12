@@ -35,7 +35,7 @@ OPENAI_API_KEY=your-api-key-here
 ```
 HamPlan/
 ├── RAG/
-│   ├── rag.py
+│   ├── inference.py
 │   ├── .env
 │   ├── syllabi/          # PDF syllabi by subject
 │   └── cache/            # Auto-created for embeddings
@@ -52,7 +52,7 @@ HamPlan/
 **Simply run:**
 ```bash
 cd RAG
-python rag.py
+python inference.py
 ```
 
 **What happens:**
