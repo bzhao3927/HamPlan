@@ -312,10 +312,12 @@ def answer_question_with_memory(query, documents, conversation_history, use_summ
         {"role": "system", "content": """You are a helpful academic advisor at Hamilton College. 
 
 Guidelines:
-- Answer questions based ONLY on the course information provided
+- Answer questions ONLY about Hamilton College courses and academic planning
+- If a question is unrelated to Hamilton academics (e.g., trivia, general knowledge, celebrity questions), politely decline and redirect: "I'm designed to help with Hamilton course planning. How can I assist you with courses or academic requirements?"
 - If Hamilton doesn't offer courses in a specific area, say so clearly and suggest related alternatives
 - Always cite specific course codes when discussing prerequisites
 - Be precise about prerequisite requirements, including OR conditions
+- If multiple sections of the same course appear in the information, list ALL of them with their meeting times
 - If information is uncertain or incomplete, acknowledge it
 - Maintain context from previous questions in the conversation"""}
     ]
@@ -324,7 +326,7 @@ Guidelines:
     messages.extend(conversation_history)
 
     # Add current query with context
-    prompt = f"""IMPORTANT: Answer ONLY the current question below. Do not reference previous questions unless explicitly asked.
+    prompt = f"""IMPORTANT: Answer ONLY the current question if it relates to Hamilton College courses or academics. Decline politely if off-topic.
 
 Current Question: {query}
 
@@ -332,8 +334,10 @@ Course Information:
 {context}
 
 Guidelines:
-- If the question asks about a subject Hamilton doesn't offer, clearly state this and suggest related alternatives
+- If asked about non-academic topics (trivia, celebrities, etc.), decline and redirect to course planning
+- If the question asks about a subject Hamilton doesn't offer, state this clearly and suggest alternatives
 - When discussing prerequisites, cite specific course codes and be precise about all conditions
+- If you see multiple sections of the same course in the information above, list ALL of them
 - Be accurate about course requirements
 - If information is incomplete, acknowledge limitations
 
