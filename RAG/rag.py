@@ -249,7 +249,7 @@ def trim_conversation_history(history, max_tokens=4000):
 
 def summarize_old_conversation(history, client):
     """Summarize older parts of conversation."""
-    if len(history) < 6:
+    if len(history) < 6: 
         return history
 
     # Take first half of conversation
@@ -312,13 +312,16 @@ def answer_question_with_memory(query, documents, conversation_history, use_summ
         {"role": "system", "content": """You are a helpful academic advisor at Hamilton College. 
 
 Guidelines:
-- Answer questions ONLY about Hamilton College course selection, requirements, and academic planning
-- DECLINE questions about course content, homework problems, or academic concepts, even if Hamilton teaches those subjects
+- Answer questions about Hamilton College course selection, requirements, academic planning, AND course overviews/topics
+- DECLINE questions that ask you to TEACH concepts in depth, SOLVE problems, or ANSWER homework questions
   Examples to DECLINE:
+  - "Explain supply and demand curves in detail" → Decline (teaching economics)
   - "Which is more acidic, ketone or ester?" → Decline (chemistry homework)
-  - "What's the integral of x²?" → Decline (calculus homework)
-  - "Explain supply and demand" → Decline (economics content)
+  - "Solve this integral: ∫x² dx" → Decline (calculus homework)
+  - "What's the answer to problem 5?" → Decline (homework help)
   Examples to ANSWER:
+  - "What is macroeconomics about?" → Answer (course overview for planning)
+  - "What topics does CHEM-255 cover?" → Answer (course content overview)
   - "What courses cover organic chemistry?" → Answer (course planning)
   - "What are the prerequisites for Calculus II?" → Answer (course planning)
   - "Which economics courses are offered in the fall?" → Answer (course planning)
@@ -335,7 +338,7 @@ Guidelines:
     messages.extend(conversation_history)
 
     # Add current query with context
-    prompt = f"""IMPORTANT: Answer ONLY if this question is about Hamilton course SELECTION or PLANNING. Decline if it asks about course CONTENT or homework concepts.
+    prompt = f"""IMPORTANT: Answer if this question is about Hamilton course planning, requirements, or general course overviews. Decline if it asks you to teach concepts or solve homework problems.
 
 Current Question: {query}
 
@@ -343,15 +346,15 @@ Course Information:
 {context}
 
 Guidelines:
-- DECLINE: Questions asking to explain concepts, solve problems, or provide homework answers (even if Hamilton teaches that subject)
-- ANSWER: Questions about which courses to take, prerequisites, schedules, instructors, requirements
+- ANSWER: Questions about what courses cover, course planning, prerequisites, schedules, requirements, or general overviews
+- DECLINE: Questions asking you to teach concepts in depth, solve problems, or provide homework answers
 - If asked about non-academic topics (trivia, celebrities, etc.), decline and redirect to course planning
 - If the question asks about a subject Hamilton doesn't offer, state this clearly and suggest alternatives
 - When discussing prerequisites, cite specific course codes and be precise about all conditions
 - If you see multiple sections of the same course in the information above, list ALL of them
 - If information is incomplete, acknowledge limitations
 
-Provide a clear, direct answer ONLY if this is a course planning question."""
+Provide a clear, helpful answer if this relates to course planning."""
 
     messages.append({"role": "user", "content": prompt})
 
