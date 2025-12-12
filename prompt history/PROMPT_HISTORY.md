@@ -172,7 +172,7 @@ def group_course_sections(docs):
 ## 4. Code Development
 
 **Components:**
-- Python RAG implementation (`complete_rag_system_final.py`)
+- Python RAG implementation (`rag.py`)
 - Conversation summarization logic
 - Multi-section display grouping
 - Embedding caching (pickle)
