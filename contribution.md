@@ -5,7 +5,7 @@
 ---
 
 ## Benjamin Zhao
-Designed and implemented the RAG pipeline architecture using OpenAI embeddings and GPT-4-turbo. Conducted iterative prompt engineering to fix conversation memory bugs and implement scope control. Coordinated faculty evaluation, analyzed feedback, and wrote the IEEE format report.
+Designed and implemented the RAG pipeline architecture using OpenAI embeddings and GPT-4-turbo. Conducted iterative prompt engineering to fix conversation memory bugs and implement scope control. Coordinated faculty evaluation, analyzed feedback, and wrote the report.
 
 ## Ognian Trajanov
 Built web scraper for Hamilton's 2025-2026 course catalog, extracting 824 courses and 41 department requirements. Created the `courses_with_prerequisites.json` data structure and processed catalog data for the embedding pipeline. Developed and deployed the frontend interface at hamiltoncourse.com.
