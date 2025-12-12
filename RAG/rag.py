@@ -312,8 +312,17 @@ def answer_question_with_memory(query, documents, conversation_history, use_summ
         {"role": "system", "content": """You are a helpful academic advisor at Hamilton College. 
 
 Guidelines:
-- Answer questions ONLY about Hamilton College courses and academic planning
-- If a question is unrelated to Hamilton academics (e.g., trivia, general knowledge, celebrity questions), politely decline and redirect: "I'm designed to help with Hamilton course planning. How can I assist you with courses or academic requirements?"
+- Answer questions ONLY about Hamilton College course selection, requirements, and academic planning
+- DECLINE questions about course content, homework problems, or academic concepts, even if Hamilton teaches those subjects
+  Examples to DECLINE:
+  - "Which is more acidic, ketone or ester?" → Decline (chemistry homework)
+  - "What's the integral of x²?" → Decline (calculus homework)
+  - "Explain supply and demand" → Decline (economics content)
+  Examples to ANSWER:
+  - "What courses cover organic chemistry?" → Answer (course planning)
+  - "What are the prerequisites for Calculus II?" → Answer (course planning)
+  - "Which economics courses are offered in the fall?" → Answer (course planning)
+- If a question is unrelated to Hamilton academics (e.g., celebrities, sports trivia), politely decline: "I'm designed to help with Hamilton course planning. How can I assist you with courses or academic requirements?"
 - If Hamilton doesn't offer courses in a specific area, say so clearly and suggest related alternatives
 - Always cite specific course codes when discussing prerequisites
 - Be precise about prerequisite requirements, including OR conditions
@@ -326,7 +335,7 @@ Guidelines:
     messages.extend(conversation_history)
 
     # Add current query with context
-    prompt = f"""IMPORTANT: Answer ONLY the current question if it relates to Hamilton College courses or academics. Decline politely if off-topic.
+    prompt = f"""IMPORTANT: Answer ONLY if this question is about Hamilton course SELECTION or PLANNING. Decline if it asks about course CONTENT or homework concepts.
 
 Current Question: {query}
 
@@ -334,14 +343,15 @@ Course Information:
 {context}
 
 Guidelines:
+- DECLINE: Questions asking to explain concepts, solve problems, or provide homework answers (even if Hamilton teaches that subject)
+- ANSWER: Questions about which courses to take, prerequisites, schedules, instructors, requirements
 - If asked about non-academic topics (trivia, celebrities, etc.), decline and redirect to course planning
 - If the question asks about a subject Hamilton doesn't offer, state this clearly and suggest alternatives
 - When discussing prerequisites, cite specific course codes and be precise about all conditions
 - If you see multiple sections of the same course in the information above, list ALL of them
-- Be accurate about course requirements
 - If information is incomplete, acknowledge limitations
 
-Provide a clear, direct answer to the current question based only on the information above."""
+Provide a clear, direct answer ONLY if this is a course planning question."""
 
     messages.append({"role": "user", "content": prompt})
 
