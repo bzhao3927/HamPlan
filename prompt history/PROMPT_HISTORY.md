@@ -223,7 +223,3 @@ Institutionally-provided tools must maintain clear boundaries to avoid undermini
 
 **Faculty Quote:**
 > "I think this was super useful and hope we have a version of it available for students and faculty soon!"
-
----
-
-*This documentation fulfills the CS366 requirement to provide AI usage history for final projects.*
