@@ -20,7 +20,7 @@ A RAG (Retrieval-Augmented Generation) system for Hamilton College courses using
 ```bash
 cd RAG
 ```
-⚠️ **Important:** All subsequent commands must be run from the `RAG/` directory due to relative file paths.
+> **Note:** All subsequent commands must be run from the `RAG/` directory due to relative file paths.
 
 **2. Install dependencies:**
 ```bash
