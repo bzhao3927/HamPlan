@@ -5,7 +5,7 @@
 
 A RAG (Retrieval-Augmented Generation) system for Hamilton College courses using course catalog data, syllabi, and department overviews to answer student questions with conversation memory.
 
-🌐 **Try it live:** [hamiltoncourses.com](http://hamiltoncourses.com)
+**Try it live:** [hamiltoncourses.com](http://hamiltoncourses.com)
 
 ## Prerequisites
 - Python 3.8+
