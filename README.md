@@ -20,11 +20,11 @@ A RAG (Retrieval-Augmented Generation) system for Hamilton College courses using
 ```bash
 cd RAG
 ```
-> **Note:** All subsequent commands must be run from the `RAG/` directory due to relative file paths.
+**Important:** All subsequent commands must be run from the `RAG/` directory due to relative file paths.
 
 **2. Install dependencies:**
 ```bash
-pip install openai numpy python-dotenv PyPDF2
+pip install -r requirements.txt
 ```
 
 **3. Set up OpenAI API key:**
@@ -40,6 +40,7 @@ Replace `your-api-key-here` with your actual OpenAI API key.
 HamPlan/
 ├── RAG/                          # ← You should be here
 │   ├── inference.py
+│   ├── requirements.txt
 │   ├── .env
 │   ├── syllabi/                  # PDF syllabi by subject
 │   └── cache/                    # Auto-created for embeddings
